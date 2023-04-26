@@ -1,48 +1,100 @@
-# Wordpress - ignore core, configuration, examples, uploads and logs.
-# https://github.com/github/gitignore/blob/main/WordPress.gitignore
-
-# Core
-#
-# Note: if you want to stage/commit WP core files
-# you can delete this whole section/until Configuration.
+### --------------------- WordPress Core ###
 /wp-admin/
-/wp-content/index.php
-/wp-content/languages
-/wp-content/plugins/index.php
-/wp-content/themes/index.php
 /wp-includes/
+
+###----/wp-packages/
+###----/wp-backups/configuration/
+###----/.private/configuration/
+###----/.console/private/psd/
+
+
+### --------------------- ignore everything in the "wp-content" directory, except: plugins", "themes" directory ###
+wp-content/*
+!wp-content/cache/
+!wp-content/languages/
+!wp-content/plugins/
+!wp-content/themes/
+!wp-content/uploads/
+!wp-content/debug.log
+
+
+### --------------------- ignore everything in the "languages", except: "addons-pro" directory ###
+wp-content/languages/*
+!wp-content/languages/loco/
+
+
+### --------------------- ignore everything in the "plugins", except: "addons-pro" directory ###
+wp-content/plugins/*
+!wp-content/plugins/addons-pro-lidiasanchez/
+!wp-content/plugins/inamba-pro/
+!wp-content/plugins/inamba-pro-debug/
+!wp-content/plugins/inamba-pro-backups/
+!wp-content/plugins/inamba-pro-integrator/
+!wp-content/plugins/inamba-pro-updater/
+!wp-content/plugins/inamba-private/
+
+
+### --------------------- ignore everything in the "themes" directory, except: "thememountain-sartre-child" directory ###
+wp-content/themes/*
+!wp-content/themes/razzi/
+!wp-content/themes/razzi-child/
+
+
+### --------------------- ignore everything in the "uploads" directory, except: "revslider" directory ###
+wp-content/uploads/*
+!wp-content/uploads/inamba/
+
+
+### --------------------- WordPress ###
+/wp-activate.php
+/wp-blog-header.php
+/wp-comments-post.php
+/wp-config-sample.php
+/wp-cron.php
+/wp-links-opml.php
+/wp-load.php
+/wp-login.php
+/wp-mail.php
+/wp-settings.php
+/wp-signup.php
+/wp-trackback.php
+
+
+### --------------------- WordPress ###
+*.lo
+*.sql
+*.sqlite
+####/.htaccess
 /index.php
+/licencia.txt
 /license.txt
 /readme.html
-/wp-*.php
+####/wp-*.php
 /xmlrpc.php
 
-# Configuration
-wp-config.php
 
-# Example themes
-/wp-content/themes/twenty*/
+### --------------------- MacOS ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
-# Example plugin
-/wp-content/plugins/hello.php
 
-# Uploads
-/wp-content/uploads/
+### --------------------- OS Extras ###
+Desktop.ini
+dwsync.xml
+Icon
+Icon?
 
-# Log files
-*.log
 
-# htaccess
-/.htaccess
+### --------------------- Dreamweaver ###
+_notes
+_compareTemp
+configs/
+dwsync.xml
+dw_php_codehinting.config
+*.mno
 
-# All plugins
-#
-# Note: If you wish to whitelist plugins,
-# uncomment the next line
-#/wp-content/plugins
-
-# All themes
-#
-# Note: If you wish to whitelist themes,
-# uncomment the next line
-#/wp-content/themes
