@@ -1,0 +1,973 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kirki Customizer Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-06 01:51+0000\n"
+"PO-Revision-Date: 2023-04-06 01:59+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: kirki"
+
+#. The field ID where the error occurs.
+#: kirki-packages/compatibility/src/Field.php:514
+#: kirki-packages/compatibility/src/Field.php:525
+#: kirki-packages/module-css/src/CSS.php:133
+#: kirki-packages/module-css/src/CSS.php:144
+#: kirki-packages/module-postmessage/src/Postmessage.php:69
+#, php-format
+msgid ""
+"\"output\" invalid format in field %s. The \"output\" argument should be "
+"defined as an array of arrays."
+msgstr ""
+"\"la salida\" formato no válido en el campo %s. La \"salida\" argumento debe "
+"ser definida como una matriz de matrices."
+
+#. %1$s represents the field ID where the error occurs.
+#: kirki-packages/compatibility/src/Field.php:388
+#, php-format
+msgid "\"partial_refresh\" invalid entry in field %s"
+msgstr "\"partial_refresh\" entrada no válida en el campo %s"
+
+#: kirki-packages/compatibility/src/deprecated/functions.php:20
+#, php-format
+msgid "%1$s or %2$s"
+msgstr "%1$s y %2$s"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:139
+msgid "100"
+msgstr "100"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:143
+msgid "100 Italic"
+msgstr "100 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:147
+msgid "200"
+msgstr "200"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:151
+msgid "200 Italic"
+msgstr "200 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:155
+msgid "300"
+msgstr "300"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:159
+msgid "300 Italic"
+msgstr "300 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:163
+msgid "500"
+msgstr "500"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:167
+msgid "500 Italic"
+msgstr "500 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:171
+msgid "600"
+msgstr "600"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:175
+msgid "600 Italic"
+msgstr "600 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:120
+#: kirki-packages/field-typography/src/Field/Typography.php:179
+msgid "700"
+msgstr "700"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:124
+#: kirki-packages/field-typography/src/Field/Typography.php:183
+msgid "700 Italic"
+msgstr "700 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:187
+msgid "800"
+msgstr "800"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:191
+msgid "800 Italic"
+msgstr "800 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:195
+msgid "900"
+msgstr "900"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:199
+msgid "900 Italic"
+msgstr "900 Cursiva"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:44
+msgid ""
+"Add beautiful WordPress video lightbox popups to your website without "
+"sacrificing performance."
+msgstr ""
+"Agregar hermoso video WordPress lightbox pop-ups en su sitio web sin "
+"sacrificar el rendimiento."
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: kirki-packages/control-repeater/src/Control/Repeater.php:490
+msgid "Add File"
+msgstr "Agregar Archivo"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: kirki-packages/control-repeater/src/Control/Repeater.php:458
+msgid "Add Image"
+msgstr "Agregar Imagen"
+
+#. %s represents the label of the row.
+#: kirki-packages/control-repeater/src/Control/Repeater.php:104
+#, php-format
+msgid "Add new %s"
+msgstr "Añadir nuevo %s"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:102
+msgid "Admin Menu"
+msgstr "Menú De Administración"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:46
+msgid "Admin Menu & Admin Bar Editor"
+msgstr "Menú De Administración Y Administración De La Barra De Editor"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:91
+msgid "And much more!"
+msgstr "Y mucho más!"
+
+#: kirki-packages/field-background/src/Background.php:196
+msgid "Auto"
+msgstr "Auto"
+
+#: kirki-packages/field-background/src/Background.php:222
+msgid "Background Attachment"
+msgstr "Fondo Archivo Adjunto"
+
+#: kirki-packages/field-background/src/Background.php:84
+msgid "Background Color"
+msgstr "Color De Fondo"
+
+#: kirki-packages/field-background/src/Background.php:103
+msgid "Background Image"
+msgstr "Imagen De Fondo"
+
+#: kirki-packages/field-background/src/Background.php:152
+msgid "Background Position"
+msgstr "Fondo De Posición"
+
+#: kirki-packages/field-background/src/Background.php:119
+msgid "Background Repeat"
+msgstr "De Fondo Se Repita"
+
+#: kirki-packages/field-background/src/Background.php:190
+msgid "Background Size"
+msgstr "Tamaño Del Fondo"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:35
+msgid "Better Admin Bar"
+msgstr "Mejor Admin Bar"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:177
+msgid "Bold 700"
+msgstr "Negrita 700"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:178
+msgid "Bold 700 Italic"
+msgstr "Negrita 700 Cursiva"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:167
+msgid "Book 300"
+msgstr "Libro de 300"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:168
+msgid "Book 300 Italic"
+msgstr "Libro De 300 Cursiva"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:66
+msgid "Bottom"
+msgstr "Parte inferior"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:363
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:69
+#: kirki-packages/field-typography/src/Field/Typography.php:352
+msgid "Center"
+msgstr "Centro de"
+
+#: kirki-packages/field-background/src/Background.php:161
+#: kirki-packages/field-dimensions/src/Dimensions.php:58
+msgid "Center Bottom"
+msgstr "Centro De La Parte Inferior"
+
+#: kirki-packages/field-background/src/Background.php:160
+#: kirki-packages/field-dimensions/src/Dimensions.php:57
+msgid "Center Center"
+msgstr "Centro De Centro De"
+
+#: kirki-packages/field-background/src/Background.php:159
+#: kirki-packages/field-dimensions/src/Dimensions.php:56
+msgid "Center Top"
+msgstr "El Centro De La Parte Superior"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:486
+#: kirki-packages/control-repeater/src/Control/Repeater.php:488
+msgid "Change File"
+msgstr "Cambiar El Archivo De"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:454
+#: kirki-packages/control-repeater/src/Control/Repeater.php:456
+msgid "Change Image"
+msgstr "Cambio De Imagen"
+
+#: kirki-packages/control-image/src/Field/Image.php:112
+msgid "Change image"
+msgstr "Cambio de imagen"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:37
+msgid ""
+"Change the WordPress login URL, redirect non-logged in users trying to "
+"access the wp-admin URL & set up redirects after login for all user roles."
+msgstr ""
+"Cambiar el inicio de sesión de WordPress URL de redirección no iniciado en "
+"los usuarios que intentan acceder al wp-admin URL y configurar redirecciones "
+"después de inicio de sesión para todas las funciones de usuario."
+
+#: kirki-packages/control-image/src/Field/Image.php:117
+msgid "Choose image"
+msgstr "Elija la imagen"
+
+#: kirki-packages/settings/templates/metaboxes/clear-font-cache.php:26
+msgid "Clear Cache"
+msgstr "Borrar Caché"
+
+#: kirki-packages/settings/templates/metaboxes/clear-font-cache.php:12
+msgid "Clear Font Cache"
+msgstr "Borrar Caché De Fuente"
+
+#. %1$s represents the field ID where the error occurs. %2$s is the URL in the documentation site.
+#: kirki-packages/compatibility/src/Field.php:272
+#, php-format
+msgid ""
+"Config not defined for field %1$s - See %2$s for details on how to properly "
+"add fields."
+msgstr ""
+"Config no se define el campo para %1$s - Vea en %2$s para obtener "
+"información sobre cómo añadir correctamente los campos."
+
+#: kirki-packages/field-background/src/Background.php:195
+msgid "Contain"
+msgstr "Contienen"
+
+#: kirki-packages/field-background/src/Background.php:194
+msgid "Cover"
+msgstr "Cubierta"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:42
+msgid "Create Custom Admin Pages (Top-Level & Sub-Menu) with HTML & CSS."
+msgstr ""
+"Crear Páginas de Administración (de Nivel Superior y Sub-Menús) con HTML y "
+"CSS."
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:41
+msgid "Custom Admin Pages"
+msgstr "Personalizado A Las Páginas De Administración"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:26
+msgid "Custom Dashboard Widgets"
+msgstr "Custom Widgets De Dashboard"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:32
+msgid ""
+"Customize & rebrand the WordPress login screen with full control directly "
+"within the WordPress customizer."
+msgstr ""
+"Personalizar & cambio de marca el inicio de sesión de WordPress pantalla con "
+"control total directamente dentro del WordPress personalizador."
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:31
+msgid "Customize the WordPress Login"
+msgstr "Personalizar el inicio de Sesión de WordPress"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:19
+msgid "Customizer Reset - Export & Import"
+msgstr "Personalizador De Reset Y La Exportación E Importación"
+
+#: kirki-packages/module-sections/src/Section_Types/Nested.php:62
+msgid "Customizing"
+msgstr "Personalización"
+
+#. The title.
+#: kirki-packages/module-sections/src/Section_Types/Nested.php:65
+#, php-format
+msgid "Customizing &#9656; %s"
+msgstr "Personalización de ▸ %s"
+
+#. Author of the plugin
+msgid "David Vongries"
+msgstr "David Vongries"
+
+#: kirki-packages/control-image/src/Control/Image.php:87
+#: kirki-packages/control-image/src/Field/Image.php:113
+#: kirki-packages/field-typography/src/Field/Typography.php:852
+msgid "Default"
+msgstr "Por defecto"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:850
+msgid "Defaults"
+msgstr "Los valores predeterminados"
+
+#: kirki-packages/settings/src/Notice.php:144
+msgid "Discount notice has been dismissed"
+msgstr "Descuento notificación ha sido rechazada"
+
+#: kirki-packages/settings/templates/metaboxes/documentation.php:27
+#: kirki-packages/settings/templates/metaboxes/documentation.php:37
+msgid "Documentation"
+msgstr "Documentación"
+
+#: kirki-packages/compatibility/src/Init.php:261
+msgid "Don't show this again"
+msgstr "No volver a mostrar este nuevo"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:179
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:180
+msgid "Extra-Bold 800"
+msgstr "Extra Bold 800"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:181
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra Bold 800 Cursiva"
+
+#: kirki-packages/field-background/src/Background.php:228
+msgid "Fixed"
+msgstr "Fijo"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:328
+msgid "Font Color"
+msgstr "El Color De La Fuente"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:274
+msgid "Font Family"
+msgstr "La Familia De La Fuente"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:59
+#: kirki-packages/field-typography/src/Field/Typography.php:323
+msgid "Font Size"
+msgstr "El Tamaño De La Fuente"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:62
+msgid "Font Style"
+msgstr "El Estilo De La Fuente"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:301
+msgid "Font Variant"
+msgstr "Fuente Variante"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:60
+msgid "Font Weight"
+msgstr "Peso De La Fuente"
+
+#: kirki-packages/settings/templates/metaboxes/documentation.php:31
+msgid "For more information, please refer to your theme's documentation."
+msgstr "Para obtener más información, consulte el tema de la documentación."
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:52
+msgid "Fully white label the WordPress admin area and apply your own branding."
+msgstr ""
+"Totalmente etiqueta blanca en el área de administración de WordPress y "
+"aplicar su propia marca."
+
+#: kirki-packages/field-typography/src/Field/Typography.php:882
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:73
+msgid "Height"
+msgstr "Altura"
+
+#. Author URI of the plugin
+msgid "https://davidvongries.com/"
+msgstr "https://davidvongries.com/"
+
+#. URI of the plugin
+msgid "https://kirki.org"
+msgstr "https://kirki.org"
+
+#: kirki-packages/settings/templates/metaboxes/clear-font-cache.php:16
+msgid ""
+"If Google Fonts selected in the Customizer are not displayed correctly, "
+"please try clearing the font cache."
+msgstr ""
+"Si Google Fonts seleccionadas en el Personalizador no se muestran "
+"correctamente, por favor, prueba a borrar la caché de fuente."
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:106
+msgid "Image Editing"
+msgstr "Edición De Imágenes"
+
+#: upgrade-notifications.php:30
+msgid "Important Upgrade Notice:"
+msgstr "Importante Actualización De Aviso:"
+
+#: kirki-packages/settings/templates/metaboxes/clear-font-cache.php:15
+msgid ""
+"In order to achieve GDPR-compliance, Kirki stores Google Fonts locally on "
+"your server."
+msgstr ""
+"Con el fin de lograr GDPR de cumplimiento, Kirki tiendas de Fuentes de "
+"Google de forma local en el servidor."
+
+#: kirki-packages/field-typography/src/Field/Typography.php:350
+msgid "Initial"
+msgstr "Inicial"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:81
+msgid "Install"
+msgstr "Instalar"
+
+#: kirki-packages/compatibility/src/Init.php:260
+msgid "Install Plugin"
+msgstr "Instalar El Plugin"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:99
+msgid "Install Ultimate Dashboard (FREE)"
+msgstr "Instalar el Último Panel de control (GRATIS)"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:94
+msgid ""
+"Install Ultimate Dashboard or <a href=\"https://ultimatedashboard.io/?"
+"utm_source=repository&utm_medium=settings_page&utm_campaign=kirki\" "
+"target=\"_blank\">learn more</a>."
+msgstr ""
+"Install Ultimate Dashboard or <a href=\"https://ultimatedashboard.io/?"
+"utm_source=repository&utm_medium=settings_page&utm_campaign=kirki\" "
+"target=\"_blank\">learn more</a>."
+
+#: kirki-packages/settings/src/SetupSettings.php:233
+msgid "Installation has been prepared successfully."
+msgstr "La instalación ha sido preparado correctamente."
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:71
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:74
+msgid "Installed"
+msgstr "Instalado"
+
+#: kirki-packages/settings/src/Notice.php:132
+msgid "Invalid nonce"
+msgstr "No válido nonce"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:74
+#: kirki-packages/control-dimension/src/Control/Dimension.php:67
+msgid "Invalid Value"
+msgstr "Valor No Válido"
+
+#: kirki-packages/settings/templates/metaboxes/documentation.php:20
+msgid ""
+"It provides advanced customization options within the WordPress Customizer, "
+"allowing you to easily modify the appearance of your site."
+msgstr ""
+"Proporciona avanzadas opciones de personalización dentro del WordPress "
+"Personalizador, que permite modificar fácilmente la apariencia de su sitio."
+
+#: kirki-packages/field-typography/src/Field/Typography.php:116
+#: kirki-packages/field-typography/src/Field/Typography.php:135
+msgid "Italic"
+msgstr "Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:354
+msgid "Justify"
+msgstr "Justificar"
+
+#: kirki-packages/settings/src/SetupSettings.php:55
+msgid "Kirki"
+msgstr "Kirki"
+
+#. Name of the plugin
+#: kirki-packages/settings/src/SetupSettings.php:54
+#: kirki-packages/settings/templates/settings-template.php:23
+msgid "Kirki Customizer Framework"
+msgstr "Kirki Customizer Framework"
+
+#: kirki-packages/compatibility/src/Kirki.php:191
+msgid ""
+"Kirki fields should not be added on customize_register. Please add them "
+"directly, or on init."
+msgstr ""
+"Kirki campos no debe ser añadido en customize_register. Por favor, añadir a "
+"ellos directamente, o en init."
+
+#: kirki-packages/settings/templates/metaboxes/documentation.php:17
+msgid "Kirki is a key component of the WordPress theme you have installed."
+msgstr "Kirki es un componente clave en el tema de WordPress que ha instalado."
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:83
+msgid "Learn More"
+msgstr "Aprender Más"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:16
+msgid "Learn more"
+msgstr "Aprender más"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:67
+#: kirki-packages/field-typography/src/Field/Typography.php:351
+msgid "Left"
+msgstr "A la izquierda"
+
+#: kirki-packages/field-background/src/Background.php:158
+#: kirki-packages/field-dimensions/src/Dimensions.php:52
+msgid "Left Bottom"
+msgstr "De La Parte Inferior Izquierda"
+
+#: kirki-packages/field-background/src/Background.php:157
+#: kirki-packages/field-dimensions/src/Dimensions.php:51
+msgid "Left Center"
+msgstr "A La Izquierda Del Centro"
+
+#: kirki-packages/field-background/src/Background.php:156
+#: kirki-packages/field-dimensions/src/Dimensions.php:50
+msgid "Left Top"
+msgstr "La Parte Superior Izquierda"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:63
+#: kirki-packages/field-typography/src/Field/Typography.php:407
+msgid "Letter Spacing"
+msgstr "El Espaciado Entre Letras"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:165
+msgid "Light 200"
+msgstr "La luz de 200"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:166
+msgid "Light 200 Italic"
+msgstr "La Luz De 200 Cursiva"
+
+#. %s represents the number of rows we're limiting the repeater to allow.
+#: kirki-packages/control-repeater/src/Control/Repeater.php:275
+#, php-format
+msgid "Limit: %s rows"
+msgstr "Límite: %s filas"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:61
+#: kirki-packages/field-typography/src/Field/Typography.php:402
+msgid "Line Height"
+msgstr "La Altura De La Línea"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:384
+msgid "Line Through"
+msgstr "Línea A Través De"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:36
+msgid "Login Redirects"
+msgstr "Inicio De Sesión De Redirecciones"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:365
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:427
+msgid "Margin Bottom"
+msgstr "Margen Inferior"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:422
+msgid "Margin Top"
+msgstr "Margen Superior"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:105
+msgid "Media"
+msgstr "Los medios de comunicación"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:172
+msgid "Medium 500"
+msgstr "Medio de 500"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:173
+msgid "Medium 500 Italic"
+msgstr "Medio De 500 Cursiva"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:116
+msgid "Miscelaneous"
+msgstr "Varios"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:475
+#: kirki-packages/control-repeater/src/Control/Repeater.php:480
+msgid "No File Selected"
+msgstr "Ningún Archivo Seleccionado"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:443
+#: kirki-packages/control-repeater/src/Control/Repeater.php:448
+msgid "No Image Selected"
+msgstr "No Hay Imagen Seleccionada"
+
+#: kirki-packages/control-image/src/Control/Image.php:82
+#: kirki-packages/control-image/src/Field/Image.php:115
+msgid "No image selected"
+msgstr "No hay imagen seleccionada"
+
+#: kirki-packages/field-background/src/Background.php:123
+msgid "No Repeat"
+msgstr "No Repetir"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:362
+#: kirki-packages/field-typography/src/Field/Typography.php:382
+msgid "None"
+msgstr "Ninguno"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:169
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:170
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:171
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Cursiva"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:89
+msgid "Not Installed"
+msgstr "No Se Instala"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:115
+msgid "Notifications"
+msgstr "Las notificaciones"
+
+#: kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:80
+msgid "Off"
+msgstr "Off"
+
+#: kirki-packages/control-checkbox/src/Control/Checkbox_Switch.php:79
+msgid "On"
+msgstr "En"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:385
+msgid "Overline"
+msgstr "Overline"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:56
+msgid "Page Builder Support"
+msgstr "El Creador De La Página De Soporte"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:104
+msgid "Post Formats"
+msgstr "Publica Formatos"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:108
+msgid "Posts"
+msgstr "Puestos"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:112
+msgid "Products"
+msgstr "Productos"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:36
+msgid ""
+"Quickly access all important areas of your WordPress website & provide your "
+"clients with the user experience they deserve."
+msgstr ""
+"Rápido acceso a todas las áreas importantes de su sitio web de WordPress y "
+"proporcionar a sus clientes con una experiencia de usuario que se merecen."
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:47
+msgid ""
+"Rearrange & hide menu & sub menu items from the WordPress admin area & admin "
+"bar."
+msgstr ""
+"Reorganizar & ocultar los menús y sub elementos de menú desde el área de "
+"administración de WordPress & admin bar."
+
+#: kirki-packages/settings/templates/settings-template.php:41
+msgid "Recommended Plugins"
+msgstr "Se Recomienda Plugins"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:112
+#: kirki-packages/field-typography/src/Field/Typography.php:131
+msgid "Regular"
+msgstr "Regular"
+
+#: kirki-packages/control-image/src/Control/Image.php:85
+#: kirki-packages/control-image/src/Field/Image.php:114
+#: kirki-packages/control-repeater/src/Control/Repeater.php:453
+#: kirki-packages/control-repeater/src/Control/Repeater.php:485
+#: kirki-packages/control-repeater/src/Control/Repeater.php:510
+msgid "Remove"
+msgstr "Quitar"
+
+#: kirki-packages/field-background/src/Background.php:124
+msgid "Repeat All"
+msgstr "Repita Todos"
+
+#: kirki-packages/field-background/src/Background.php:125
+msgid "Repeat Horizontally"
+msgstr "Repita Horizontalmente"
+
+#: kirki-packages/field-background/src/Background.php:126
+msgid "Repeat Vertically"
+msgstr "Repita Verticalmente"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:27
+msgid ""
+"Replace the default WordPress widgets with your own to give the WordPress "
+"dashboard a more meaningful use."
+msgstr ""
+"Reemplazar el valor predeterminado de WordPress widgets con su propia para "
+"dar el panel de WordPress más significativos de su uso."
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:57
+msgid ""
+"Replace the entire WordPress dashboard with your saved Elementor, Beaver "
+"Builder or Brizy Layout or use it along with our Ultimate Dashboard widgets."
+msgstr ""
+"Sustituir todo el panel de WordPress con su guarda Elementor, Beaver "
+"Generador o Brizy Diseño o uso junto con nuestra Última widgets de Dashboard."
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:20
+msgid ""
+"Reset, Export & Import your WordPress customizer settings with a simple "
+"click of a button."
+msgstr ""
+"Reset, Exportación y de Importación de tu WordPress personalizador de "
+"configuración con un simple clic de un botón."
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:68
+#: kirki-packages/field-typography/src/Field/Typography.php:353
+msgid "Right"
+msgstr "Derecho"
+
+#: kirki-packages/field-background/src/Background.php:164
+#: kirki-packages/field-dimensions/src/Dimensions.php:55
+msgid "Right Bottom"
+msgstr "La Parte Inferior Derecha"
+
+#: kirki-packages/field-background/src/Background.php:163
+#: kirki-packages/field-dimensions/src/Dimensions.php:54
+msgid "Right Center"
+msgstr "A La Derecha Del Centro De"
+
+#: kirki-packages/field-background/src/Background.php:162
+#: kirki-packages/field-dimensions/src/Dimensions.php:53
+msgid "Right Top"
+msgstr "A La Derecha Arriba"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:95
+msgid "row"
+msgstr "fila"
+
+#: kirki-packages/field-background/src/Background.php:227
+msgid "Scroll"
+msgstr "Desplázate"
+
+#: kirki-packages/control-repeater/src/Control/Repeater.php:139
+msgid "Select a Page"
+msgstr "Seleccione una Página"
+
+#: kirki-packages/control-image/src/Control/Image.php:89
+#: kirki-packages/control-image/src/Field/Image.php:111
+#: kirki-packages/control-image/src/Field/Image.php:116
+msgid "Select image"
+msgstr "Seleccione la imagen"
+
+#: kirki-packages/control-react-select/src/Control/ReactSelect.php:162
+msgid "Select..."
+msgstr "Seleccione..."
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:174
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:175
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:176
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Cursiva"
+
+#: kirki-packages/settings/templates/settings-template.php:38
+msgid "Settings"
+msgstr "Configuración"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:70
+msgid "Size"
+msgstr "Tamaño"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:110
+msgid "Social"
+msgstr "Social"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:386
+msgid "Solid"
+msgstr "Sólido"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:109
+msgid "Sorting"
+msgstr "Clasificación"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:71
+msgid "Spacing"
+msgstr "Espaciado"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:877
+msgid "Standard Fonts"
+msgstr "Fuentes Estándar"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:113
+msgid "Taxonomies"
+msgstr "Las taxonomías"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:347
+msgid "Text Align"
+msgstr "Text-Align"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:379
+msgid "Text Decoration"
+msgstr "La Decoración Del Texto"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:359
+msgid "Text Transform"
+msgstr "Transformación De Texto"
+
+#: kirki-packages/settings/templates/settings-template.php:26
+msgid "The #1 Customizer Toolkit for WordPress Theme Developers."
+msgstr ""
+"El #1 Personalizador del kit de herramientas para el Tema de WordPress para "
+"los Desarrolladores."
+
+#: kirki-packages/settings/templates/metaboxes/documentation.php:34
+msgid ""
+"The following article provides a detailed explanation of the Clear Font "
+"Cache option in Kirki."
+msgstr ""
+"El siguiente artículo ofrece una explicación detallada de la Clara Fuente "
+"opción de Caché en Kirki."
+
+#. Description of the plugin
+msgid "The Ultimate WordPress Customizer Framework"
+msgstr "El Final De WordPress Personalizador Del Marco"
+
+#: kirki-packages/settings/templates/metaboxes/clear-font-cache.php:19
+msgid "This is safe to do on production sites."
+msgstr "Esto es seguro en los sitios de producción."
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:65
+msgid "Top"
+msgstr "Top"
+
+#. %s represents the field ID where the error occurs.
+#: kirki-packages/compatibility/src/Field.php:261
+#, php-format
+msgid "Typo found in field %s - setting instead of settings."
+msgstr ""
+"Error encontrado en el campo %s - configuración en lugar de la configuración."
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:27
+msgid "Ultimate Dashboard"
+msgstr "Ultimate Dashboard"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:14
+msgid "Ultimate Dashboard - Features"
+msgstr "Ultimate Dashboard Características"
+
+#: kirki-packages/settings/src/SetupSettings.php:215
+msgid "Ultimate Dashboard has already been active."
+msgstr "Ultimate Dashboard ya ha sido activa."
+
+#: kirki-packages/settings/src/SetupSettings.php:225
+msgid "Ultimate Dashboard has been activated successfully."
+msgstr "Ultimate Dashboard ha sido activado con éxito."
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:28
+msgid ""
+"Ultimate Dashboard is the #1 plugin to customize your WordPress Dashboard."
+msgstr ""
+"Ultimate Dashboard es el #1 plugin para personalizar su Panel de WordPress."
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:182
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:183
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:184
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Cursiva"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:162
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:163
+msgid "Ultra-Light 100"
+msgstr "Ultra-Ligero 100"
+
+#: kirki-packages/module-webfonts/src/Webfonts/Fonts.php:164
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Ligero 100 Cursiva"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:383
+msgid "Underline"
+msgstr "Subrayado"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:364
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: kirki-packages/field-typography/src/Field/Typography.php:387
+msgid "Wavy"
+msgstr "Ondulado"
+
+#: kirki-packages/compatibility/src/Init.php:206
+msgid ""
+"We detected you're using Kirki\\Compatibility\\Init::get_variables(). Please "
+"use \\Kirki\\Util\\Util::get_variables() instead."
+msgstr ""
+"Hemos detectado que usted está utilizando Kirki\\Compatibilidad\\Init: "
+"get_variables(). Por favor utilice \\Kirki\\Util\\Util::get_variables() en "
+"su lugar."
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:103
+msgid "Welcome Screen"
+msgstr "Pantalla De Bienvenida"
+
+#: kirki-packages/settings/templates/metaboxes/ultimate-dashboard.php:51
+msgid "White Label WordPress"
+msgstr "Etiqueta Blanca De WordPress"
+
+#: kirki-packages/settings/templates/metaboxes/documentation.php:13
+msgid "Why do I see this?"
+msgstr "¿Por qué veo esto?"
+
+#: kirki-packages/control-dashicons/src/Control/Dashicons.php:114
+msgid "Widgets"
+msgstr "Los Widgets"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:72
+msgid "Width"
+msgstr "Ancho"
+
+#: kirki-packages/field-dimensions/src/Dimensions.php:64
+msgid "Word Spacing"
+msgstr "El Espacio Entre Las Palabras"
+
+#: kirki-packages/settings/templates/metaboxes/recommended-plugins.php:43
+msgid "WP Video Popup"
+msgstr "WP Video Popup"
+
+#. %s is the limit of selection number.
+#: kirki-packages/control-react-select/src/Control/ReactSelect.php:169
+#, php-format
+msgid "You can only select %s items"
+msgstr "Sólo puede seleccionar %s elementos"
+
+#: kirki-packages/settings/src/Notice.php:136
+msgid "You don't have capability to run this action"
+msgstr "Usted no tiene la capacidad para ejecutar esta acción"
+
+#: kirki-packages/compatibility/src/Init.php:257
+msgid ""
+"Your theme uses a Font Awesome field for icons. To avoid issues with missing "
+"icons on your frontend we recommend you install the official Font Awesome "
+"plugin."
+msgstr ""
+"El tema utiliza una Fuente Impresionante de campo para los iconos. Para "
+"evitar problemas con los iconos que faltan en el frontend se recomienda "
+"instalar la oficial de Fuente Impresionante plugin."

@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Reveal Preloaders\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 01:11+0000\n"
+"PO-Revision-Date: 2023-03-04 08:19+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-revealer-addon"
+
+#: framework/base.class.php:407
+msgid "A delay in milliseconds before the overlay should fade out"
+msgstr "Un retraso en milisegundos antes de que la superposición desaparezca"
+
+#: framework/base.class.php:283
+msgid "A delay in milliseconds before the reveal effect should start"
+msgstr ""
+"Un retraso en milisegundos antes de que comience el efecto de revelación"
+
+#: framework/base.class.php:146
+msgid "Active"
+msgstr "Activo"
+
+#: framework/base.class.php:308
+msgid "Add an optional overlay to the Slider as the reveal effect takes place"
+msgstr ""
+"Agregue una superposición opcional al control deslizante a medida que se "
+"produce el efecto de revelación"
+
+#: framework/base.class.php:161
+msgid "Bottom Left to Top Right"
+msgstr "De abajo a la izquierda a arriba a la derecha"
+
+#: framework/base.class.php:162
+msgid "Bottom Right to Top Left"
+msgstr "De abajo a la derecha a arriba a la izquierda"
+
+#: framework/base.class.php:158
+msgid "Bottom to Top"
+msgstr "Abajo hacia arriba"
+
+#: framework/base.class.php:196
+msgid "Choose how the Slider should be revealed"
+msgstr "Elija cómo se debe revelar el Control deslizante"
+
+#: framework/base.class.php:169
+msgid "Default"
+msgstr "Por defecto"
+
+#: framework/base.class.php:305
+msgid "Enable Overlay"
+msgstr "Habilitar superposición"
+
+#: framework/base.class.php:154
+msgid "Expand Circle"
+msgstr "Expandir círculo"
+
+#. Author URI of the plugin
+msgid "http://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.themepunch.com/"
+msgstr ""
+
+#: framework/base.class.php:155
+msgid "Left to Right"
+msgstr "De izquierda a derecha"
+
+#: framework/base.class.php:148
+msgid "None"
+msgstr "Ninguno"
+
+#: framework/base.class.php:149
+msgid "Open Horizontal"
+msgstr "Abierto Horizontal"
+
+#: framework/base.class.php:151
+msgid "Open Left Corner"
+msgstr "Esquina izquierda abierta"
+
+#: framework/base.class.php:152
+msgid "Open Right Corner"
+msgstr "Abrir esquina derecha"
+
+#: framework/base.class.php:150
+msgid "Open Vertical"
+msgstr "Abierto vertical"
+
+#: framework/base.class.php:166 framework/base.class.php:326
+msgid "Overlay Color"
+msgstr "Color de superposición"
+
+#: framework/base.class.php:404
+msgid "Overlay Delay"
+msgstr "Retraso de superposición"
+
+#: framework/base.class.php:378
+msgid "Overlay Duration"
+msgstr "Duración de superposición"
+
+#: framework/base.class.php:167
+msgid "Overlay Ease"
+msgstr "Facilidad de superposición"
+
+#: framework/base.class.php:352
+msgid "Overlay Easing"
+msgstr "Suavizado de superposición"
+
+#: framework/base.class.php:143
+msgid "Reveal"
+msgstr "Revelar"
+
+#: framework/base.class.php:145 framework/base.class.php:214
+msgid "Reveal Color"
+msgstr "Revelar color"
+
+#: framework/base.class.php:280
+msgid "Reveal Delay"
+msgstr "Revelar retraso"
+
+#: framework/base.class.php:164 framework/base.class.php:258
+msgid "Reveal Duration"
+msgstr "Revelar duración"
+
+#: framework/base.class.php:163
+msgid "Reveal Ease"
+msgstr "Revelar Facilidad"
+
+#: framework/base.class.php:236
+msgid "Reveal Easing"
+msgstr "Revelar relajación"
+
+#: framework/base.class.php:144
+msgid "Reveal Settings"
+msgstr "Revelar configuraciones"
+
+#: framework/base.class.php:147 framework/base.class.php:193
+msgid "Reveal Type"
+msgstr "Revelar tipo"
+
+#. Description of the plugin
+msgid "Reveal your sliders in style"
+msgstr "Revela tus controles deslizantes con estilo"
+
+#: framework/base.class.php:213
+msgid "Revealer Addon Color"
+msgstr "Color adicional del revelador"
+
+#: framework/base.class.php:279
+msgid "Revealer Addon Delay"
+msgstr "Retraso del complemento del revelador"
+
+#: framework/base.class.php:257
+msgid "Revealer Addon Duration"
+msgstr "Duración del complemento de revelador"
+
+#: framework/base.class.php:235
+msgid "Revealer Addon Easing"
+msgstr "Facilitación del complemento Revelador"
+
+#: framework/base.class.php:304
+msgid "Revealer Addon Overlay"
+msgstr "Superposición de complemento de revelador"
+
+#: framework/base.class.php:192
+msgid "Revealer Addon Type"
+msgstr "Tipo de complemento de revelador"
+
+#: framework/base.class.php:432
+msgid "Revealer Spinner"
+msgstr "Rueda reveladora"
+
+#: framework/base.class.php:156
+msgid "Right to Left"
+msgstr "De derecha a izquierda"
+
+#: framework/base.class.php:172
+msgid "Select From List"
+msgstr "Seleccionar de la lista"
+
+#: framework/base.class.php:153
+msgid "Shrink Circle"
+msgstr "Círculo de contracción"
+
+#. Name of the plugin
+msgid "Slider Revolution Reveal Preloaders"
+msgstr "Slider Revolution: Reveal Preloaders"
+
+#: framework/base.class.php:170
+msgid "Spinner"
+msgstr "Hilandero"
+
+#: framework/base.class.php:171
+msgid "Spinner Color"
+msgstr "Color de la ruleta"
+
+#: framework/base.class.php:168
+msgid "Spinner Settings"
+msgstr "Configuración de la ruleta"
+
+#: framework/base.class.php:239
+msgid "The easing equation to use for the reveal effect"
+msgstr ""
+"La ecuación de aceleración que se utilizará para el efecto de revelación"
+
+#: framework/base.class.php:355
+msgid "The easing equation to use for the revealer's overlay"
+msgstr ""
+"La ecuación de aceleración que se utilizará para la superposición del "
+"revelador"
+
+#: framework/base.class.php:217
+msgid "The main color for the chosen reveal effect"
+msgstr "El color principal para el efecto revelado elegido."
+
+#: framework/base.class.php:329
+msgid "The main color for the revealer's overlay"
+msgstr "El color principal para la superposición del revelador."
+
+#: framework/base.class.php:435
+msgid "The preloader spinner to show as the reveal effect occurs"
+msgstr ""
+"El preloader spinner para mostrar cuando se produce el efecto de revelación"
+
+#: framework/base.class.php:381
+msgid "The total time the overlay should fade out in milliseconds"
+msgstr "El tiempo total que la superposición debe desaparecer en milisegundos"
+
+#: framework/base.class.php:261
+msgid "The total time the reveal effect should occur in milliseconds"
+msgstr ""
+"El tiempo total que debe ocurrir el efecto de revelación en milisegundos"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"
+
+#: framework/base.class.php:159
+msgid "Top Left to Bottom Right"
+msgstr "Arriba a la izquierda a abajo a la derecha"
+
+#: framework/base.class.php:160
+msgid "Top Right to Bottom Left"
+msgstr "De arriba a la derecha a abajo a la izquierda"
+
+#: framework/base.class.php:157
+msgid "Top to Bottom"
+msgstr "De arriba hacia abajo"
+
+#: framework/base.class.php:165
+msgid "Use Overlay"
+msgstr "Usar superposición"

@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login LockDown\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-06 01:44+0000\n"
+"PO-Revision-Date: 2023-04-06 01:46+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: login-lockdown"
+
+#. URI of the plugin
+msgid "https://wploginlockdown.com/"
+msgstr "https://wploginlockdown.com/"
+
+#. Author URI of the plugin
+msgid "https://www.webfactoryltd.com/"
+msgstr "https://www.webfactoryltd.com/"
+
+#. Name of the plugin
+msgid "Login LockDown"
+msgstr "Login LockDown"
+
+#. Description of the plugin
+msgid "Protect login form by banning IP after multiple failed login attempts."
+msgstr ""
+"Protección para el formulario de inicio de sesión, por la prohibición de IP "
+"después de varios intentos de inicio de sesión."
+
+#. Author of the plugin
+msgid "WebFactory Ltd"
+msgstr "WebFactory Ltd"

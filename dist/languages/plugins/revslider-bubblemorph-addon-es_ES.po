@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Bubblemorph AddOn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 00:53+0000\n"
+"PO-Revision-Date: 2023-03-04 08:22+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-bubblemorph-addon"
+
+#: framework/base.class.php:289
+msgid "Add a shadow to the bubbles.  Enter \"0\" for no shadow"
+msgstr ""
+"Agrega una sombra a las burbujas. Ingrese \"0\" para que no haya sombra"
+
+#: framework/base.class.php:379 framework/base.class.php:401
+msgid "Adds a border to the bubble.  Enter \"0\" for no border"
+msgstr "Agrega un borde a la burbuja. Ingrese \"0\" para no tener borde"
+
+#: framework/base.class.php:398
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: framework/base.class.php:376
+msgid "Border Size"
+msgstr "Tamaño del borde"
+
+#: framework/base.class.php:397
+msgid "BubbleMorph Border Color"
+msgstr "Color del borde de BubbleMorph"
+
+#: framework/base.class.php:375
+msgid "BubbleMorph Border Size"
+msgstr "Tamaño del borde de BubbleMorph"
+
+#: framework/base.class.php:239
+msgid "BubbleMorph Buffer X"
+msgstr "Búfer BubbleMorph X"
+
+#: framework/base.class.php:261
+msgid "BubbleMorph Buffer Y"
+msgstr "Búfer BubbleMorph Y"
+
+#: framework/base.class.php:173
+msgid "BubbleMorph Max Morphs"
+msgstr "Transformaciones máximas de BubbleMorph"
+
+#: framework/base.class.php:285
+msgid "BubbleMorph Shadow"
+msgstr "BurbujaMorph Shadow"
+
+#: framework/base.class.php:307
+msgid "BubbleMorph Shadow Color"
+msgstr "Color de sombra BubbleMorph"
+
+#: framework/base.class.php:195
+msgid "BubbleMorph Speed X"
+msgstr "BubbleMorph Velocidad X"
+
+#: framework/base.class.php:217
+msgid "BubbleMorph Speed Y"
+msgstr "BubbleMorph Velocidad Y"
+
+#: framework/base.class.php:240
+msgid "Buffer X"
+msgstr "Tampón X"
+
+#: framework/base.class.php:262
+msgid "Buffer Y"
+msgstr "Buffer Y"
+
+#: framework/base.class.php:243
+msgid ""
+"Horizontal buffer in pixels to help keep the bubble from bleeding outside "
+"the Slider"
+msgstr ""
+"Búfer horizontal en píxeles para ayudar a evitar que la burbuja se desangre "
+"fuera del Control deslizante"
+
+#. Author URI of the plugin
+msgid "http://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.themepunch.com/"
+msgstr ""
+
+#: framework/base.class.php:174
+msgid "Max Morphs"
+msgstr "Transformaciones máximas"
+
+#: framework/base.class.php:308
+msgid "Shadow Color"
+msgstr "Color de sombra"
+
+#: framework/base.class.php:329
+msgid "Shadow Offset X"
+msgstr "Desplazamiento de sombra X"
+
+#: framework/base.class.php:350
+msgid "Shadow Offset Y"
+msgstr "Compensación de sombra Y"
+
+#: framework/base.class.php:286
+msgid "Shadow Strength"
+msgstr "Fuerza de la sombra"
+
+#. Name of the plugin
+msgid "Slider Revolution Bubblemorph AddOn"
+msgstr "Slider Revolution: Bubblemorph"
+
+#: framework/base.class.php:196
+msgid "Speed X"
+msgstr "Velocidad X"
+
+#: framework/base.class.php:218
+msgid "Speed Y"
+msgstr "Velocidad Y"
+
+#. Description of the plugin
+msgid "Spice up your slides with a Bubble Morph effect"
+msgstr "Dale vida a tus diapositivas con un efecto Bubble Morph"
+
+#: framework/base.class.php:311
+msgid "The color for the bubble's shadow"
+msgstr "El color de la sombra de la burbuja."
+
+#: framework/base.class.php:199
+msgid "The horizontal movement speed for the effect"
+msgstr "La velocidad de movimiento horizontal para el efecto."
+
+#: framework/base.class.php:177
+msgid ""
+"The maximum number of bends the bubble can have.  A low number will produce "
+"subtle distortion and a higher number will often break off into additional "
+"bubbles"
+msgstr ""
+"El número máximo de curvas que puede tener la burbuja. Un número bajo "
+"producirá una distorsión sutil y un número más alto a menudo se romperá en "
+"burbujas adicionales."
+
+#: framework/base.class.php:332
+msgid ""
+"The offset-x value for the <a href=\"https://developer.mozilla.org/en-"
+"US/docs/Web/CSS/box-shadow\" target=\"_blank\">CSS box-shadow</a>"
+msgstr ""
+
+#: framework/base.class.php:353
+msgid ""
+"The offset-y value for the <a href=\"https://developer.mozilla.org/en-"
+"US/docs/Web/CSS/box-shadow\" target=\"_blank\">CSS box-shadow</a>"
+msgstr ""
+
+#: framework/base.class.php:221
+msgid "The vertical movement speed for the effect"
+msgstr "La velocidad de movimiento vertical para el efecto."
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"
+
+#: framework/base.class.php:265
+msgid ""
+"Vertical buffer in pixels to help keep the bubble from bleeding outside the "
+"Slider"
+msgstr ""
+"Búfer vertical en píxeles para ayudar a evitar que la burbuja se desangre "
+"fuera del Control deslizante"

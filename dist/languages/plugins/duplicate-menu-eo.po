@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Duplicate Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-06 06:03+0000\n"
+"PO-Revision-Date: 2023-04-06 06:07+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Esperanto\n"
+"Language: eo\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: duplicate-menu"
+
+#. Name of the plugin
+msgid "Duplicate Menu"
+msgstr "Duplicate Menu"
+
+#. Description of the plugin
+msgid "Easily duplicate your WordPress Menus"
+msgstr "Facile duobligi via WordPress Menuoj"
+
+#. URI of the plugin
+msgid "https://github.com/jchristopher/duplicate-menu"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://jonchristopher.us/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jonathan Christopher"
+msgstr "Jonathan Christopher"

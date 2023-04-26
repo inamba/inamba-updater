@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Domain Switch Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 01:02+0000\n"
+"PO-Revision-Date: 2023-03-04 08:22+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-domain-switch-addon"
+
+#. Author URI of the plugin
+msgid "https://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.themepunch.com/"
+msgstr ""
+
+#. Name of the plugin
+msgid "Slider Revolution Domain Switch Add-on"
+msgstr "Slider Revolution: Domain Switch"
+
+#. Description of the plugin
+msgid "Switch Image URLs in Sliders from an old to a new Domain"
+msgstr ""
+"Cambie las URL de imagen en los sliders de un dominio antiguo a uno nuevo"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"

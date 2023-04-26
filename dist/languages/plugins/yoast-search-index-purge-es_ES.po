@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Yoast SEO: Search index purge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-10 19:45+0000\n"
+"PO-Revision-Date: 2023-03-10 19:48+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: yoast-search-index-purge"
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/yoast-seo-search-index-purge/"
+msgstr "https://wordpress.org/plugins/yoast-seo-search-index-purge/"
+
+#. Author URI of the plugin
+msgid "https://yoa.st/1uk"
+msgstr "https://yoa.st/1uk"
+
+#. %1$s expands to Yoast SEO.
+#: src/Yoast_Purge_Require_Yoast_SEO_Version.php:48
+#, php-format
+msgid ""
+"Please upgrade the %1$s plugin to the latest version to allow the Yoast SEO: "
+"Search Index Purge plugin to work."
+msgstr ""
+"Favor de actualizar el %1$s plugin a la última versión para permitir que el "
+"Yoast SEO: Índice de Búsqueda de Purga plugin para trabajar."
+
+#. %1$s expands to the link to the article, %2$s expands to the closing tag of the link
+#: src/Yoast_Purge_Media_Settings_Tab_Content.php:41
+#, php-format
+msgid "Read more about the %1$sSearch Index Purge plugin%2$s."
+msgstr "Lea más acerca de la de %1$sSearch Índice de Purga plugin de%2$s."
+
+#. Description of the plugin
+msgid ""
+"Remove attachment URLs from Google's index as fast as possible to prevent "
+"thin content penalties."
+msgstr ""
+"Elimine el archivo adjunto Url del índice de Google tan rápido como sea "
+"posible para evitar delgada contenido de sanciones."
+
+#. Author of the plugin
+msgid "Team Yoast"
+msgstr "Equipo Yoast"
+
+#: src/Yoast_Purge_Media_Settings_Tab_Content.php:29
+msgid "These settings are being overridden by the Search Index Purge plugin."
+msgstr ""
+"Estos ajustes están siendo reemplazado por el Índice de Búsqueda de Purga "
+"plugin."
+
+#. Name of the plugin
+msgid "Yoast SEO: Search index purge"
+msgstr "Yoast SEO: Search Index Purge"
+
+#: src/Yoast_Purge_Media_Settings_Tab_Content.php:34
+msgid "You are actively purging attachment URLs out of Google's search index."
+msgstr ""
+"Usted está activamente de purga de apego de las Url de Google de búsqueda de "
+"índice."

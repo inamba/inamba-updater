@@ -1,0 +1,5157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Razzi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-29 09:50+0000\n"
+"PO-Revision-Date: 2023-04-10 21:56-0300\n"
+"Last-Translator: Inamba <support@inamba.com>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: razzi\n"
+
+msgctxt "childpro"
+msgid "Inamba"
+msgstr "Inamba"
+
+msgctxt "childpro"
+msgid "Inamba Market"
+msgstr "Inamba Market"
+
+msgctxt "childpro"
+msgid "Inamba Child Pro"
+msgstr "Inamba Child Pro"
+
+msgctxt "childpro"
+msgid "Child Pro"
+msgstr "Child Pro"
+
+msgctxt "childpro"
+msgid "Support"
+msgstr "Support"
+
+msgctxt "childpro"
+msgid "Settings"
+msgstr "Settings"
+
+msgctxt "childpro"
+msgid "Child Pro Settings"
+msgstr "Child Pro Settings"
+
+msgctxt "childpro"
+msgid "Customize"
+msgstr "Customize"
+
+msgctxt "childpro"
+msgid "You are in the settings of"
+msgstr "You are in the settings of"
+
+msgctxt "childpro"
+msgid "of"
+msgstr "of"
+
+msgctxt "childpro"
+msgid "Manage the"
+msgstr "Manage the"
+
+msgctxt "childpro"
+msgid "themes"
+msgstr "themes"
+
+msgctxt "childpro"
+msgid "or request support in"
+msgstr "or request support in"
+
+msgctxt "childpro"
+msgid "Documentation"
+msgstr "Documentation"
+
+msgctxt "childpro"
+msgid ""
+"Showing bookmarks <strong>only for administrators</strong> for "
+"implementations."
+msgstr ""
+"Showing bookmarks <strong>only for administrators</strong> for "
+"implementations."
+
+msgctxt "childpro"
+msgid "Debug"
+msgstr "Debug"
+
+msgctxt "childpro"
+msgid "Child Pro Debug"
+msgstr "Child Pro Debug"
+
+msgctxt "childpro"
+msgid "Debug console"
+msgstr "Debug console"
+
+msgctxt "childpro"
+msgid "Console"
+msgstr "Console"
+
+#: inc/woocommerce/class-razzi-woo-template-general.php:550
+msgid " Free Shipping"
+msgstr " Free Shipping"
+
+#: inc/woocommerce/class-razzi-woo-elements-product-deal-2.php:213
+msgid " in stock"
+msgstr " in stock"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:189
+#: inc/admin/class-razzi-admin-meta-boxes.php:216
+#: inc/admin/class-razzi-admin-meta-boxes.php:323
+#: inc/admin/class-razzi-admin-meta-boxes.php:336
+#: inc/admin/class-razzi-admin-meta-boxes.php:386
+#: inc/admin/class-razzi-admin-meta-boxes.php:408
+msgid " px"
+msgstr " px"
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:57
+#, php-format
+msgid "%1$s"
+msgid_plural "%1$s"
+msgstr[0] "%1$s"
+msgstr[1] "%1$s"
+
+#: inc/class-razzi-comments.php:236
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: inc/class-razzi-breadcrumbs.php:279 inc/class-razzi-breadcrumbs.php:285
+#: inc/class-razzi-breadcrumbs.php:291
+#, php-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#. used between list items, there is a space after the comma
+#: inc/class-razzi-helper.php:483
+msgid ", "
+msgstr ", "
+
+#: inc/class-razzi-options.php:788 inc/class-razzi-options.php:6978
+#: inc/class-razzi-options.php:6989
+msgid "1 Column"
+msgstr "1 Column"
+
+#: inc/class-razzi-options.php:789 inc/class-razzi-options.php:3601
+#: inc/class-razzi-options.php:3836 inc/class-razzi-options.php:3915
+#: inc/class-razzi-options.php:6979 inc/class-razzi-options.php:6990
+msgid "2 Columns"
+msgstr "2 Columns"
+
+#: inc/class-razzi-options.php:3602 inc/class-razzi-options.php:3835
+#: inc/class-razzi-options.php:3916 inc/class-razzi-options.php:6980
+#: inc/class-razzi-options.php:6991
+msgid "3 Columns"
+msgstr "3 Columns"
+
+#: inc/class-razzi-options.php:3834 inc/class-razzi-options.php:3917
+msgid "4 Columns"
+msgstr "4 Columns"
+
+#: 404.php:16
+msgid "404. Page not found."
+msgstr "404. Page not found."
+
+#: inc/class-razzi-options.php:3918
+msgid "5 Columns"
+msgstr "5 Columns"
+
+#. 1: Orders URL 2: Address URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:46
+#, php-format
+msgid ""
+"<p>From your account dashboard you can view your <a href=\"%1$s\">Recent "
+"orders</a>.</p><p>Manage your <a href=\"%2$s\">Billing address</a>.</"
+"p><p>Edit your <a href=\"%3$s\">Password and account details</a>.</p>"
+msgstr ""
+"<p>From your account dashboard you can view your <a href=\"%1$s\">Recent "
+"orders</a>.</p><p>Manage your <a href=\"%2$s\">Billing address</a>.</"
+"p><p>Edit your <a href=\"%3$s\">Password and account details</a>.</p>"
+
+#. 1: Orders URL 2: Addresses URL 3: Account URL.
+#: woocommerce/myaccount/dashboard.php:49
+#, php-format
+msgid ""
+"<p>From your account dashboard you can view your <a href=\"%1$s\">Recent "
+"orders</a>.</p><p>Manage your <a href=\"%2$s\">Shipping and Billing "
+"addresses</a>.</p><p>Edit your <a href=\"%3$s\">Password and account "
+"details</a>.</p>"
+msgstr ""
+"<p>From your account dashboard you can view your <a href=\"%1$s\">Recent "
+"orders</a>.</p><p>Manage your <a href=\"%2$s\">Shipping and Billing "
+"addresses</a>.</p><p>Edit your <a href=\"%3$s\">Password and account "
+"details</a>.</p>"
+
+#: woocommerce/myaccount/form-login.php:90
+msgid "A password will be sent to your email address."
+msgstr "A password will be sent to your email address."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1146
+msgid ""
+"A small content bar at the top of the browser window which includes relevant "
+"product information and an add-to-cart button. It slides into view once the "
+"standard add-to-cart button has scrolled out of view."
+msgstr ""
+"A small content bar at the top of the browser window which includes relevant "
+"product information and an add-to-cart button. It slides into view once the "
+"standard add-to-cart button has scrolled out of view."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2112
+msgid "Above the Products"
+msgstr "Above the Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:375
+msgid "Above the Title"
+msgstr "Above the Title"
+
+#: inc/class-razzi-options.php:227 inc/class-razzi-options.php:427
+#: template-parts/navigation-bar/account.php:13
+msgid "Account"
+msgstr "Account"
+
+#: inc/class-razzi-header.php:712 inc/class-razzi-header.php:733
+#: inc/class-razzi-options.php:178 inc/class-razzi-options.php:244
+msgid "Account Icon"
+msgstr "Account Icon"
+
+#: inc/class-razzi-options.php:3027
+msgid "Account Icon Behaviour"
+msgstr "Account Icon Behaviour"
+
+#: woocommerce/myaccount/orders.php:87
+msgid "Actions"
+msgstr "Actions"
+
+#: inc/libs/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr "Activate"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:158
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activate installed plugin"
+msgstr[1] "Activate installed plugins"
+
+#: inc/libs/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr "Active"
+
+#: inc/class-razzi-options.php:2339
+msgid "Active Primary Menu Color"
+msgstr "Active Primary Menu Color"
+
+#: woocommerce/loop/add-to-wishlist.php:28
+#, php-format
+msgid "Add %s to the wishlist"
+msgstr "Add %s to the wishlist"
+
+#: inc/class-razzi-options.php:2791
+msgid "Add custom links of the quick links popup"
+msgstr "Add custom links of the quick links popup"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2147
+#: inc/woocommerce/class-razzi-woo-customizer.php:2304
+msgid ""
+"Add Razzi - Product filter widget in Appearance > Widgets > Catalog Filters "
+"sidebar."
+msgstr ""
+"Add Razzi - Product filter widget in Appearance > Widgets > Catalog Filters "
+"sidebar."
+
+#: inc/class-razzi-options.php:2704
+msgid "Add search form using shortcode such as [aws_search_form id=\"1\"]"
+msgstr "Add search form using shortcode such as [aws_search_form id=\"1\"]"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:89
+msgid "Add sidebar for catalog filters on the mobile version"
+msgstr "Add sidebar for catalog filters on the mobile version"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:79
+msgid "Add sidebar for filters toolbar of the catalog page"
+msgstr "Add sidebar for filters toolbar of the catalog page"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:69
+msgid "Add sidebar for the catalog page"
+msgstr "Add sidebar for the catalog page"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:99
+#: inc/woocommerce/class-razzi-woo-sidebars.php:109
+msgid "Add sidebar for the product page"
+msgstr "Add sidebar for the product page"
+
+#: inc/mobile/class-razzi-mobile-navigation-bar.php:438
+msgid "Add to Cart"
+msgstr "Add to Cart"
+
+#: inc/woocommerce/class-razzi-woo-modules-sticky-atc.php:139
+#: inc/woocommerce/class-razzi-woo-modules-sticky-atc.php:156
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1355
+msgid "Add to cart"
+msgstr "Add to cart"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1174
+msgid "Add To Cart Form"
+msgstr "Add To Cart Form"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:970
+msgid "Add to cart with AJAX"
+msgstr "Add to cart with AJAX"
+
+#: woocommerce/loop/add-to-wishlist.php:32
+msgid "Add to wishlist"
+msgstr "Add to wishlist"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:226
+msgid "Add video thumbnail"
+msgstr "Add video thumbnail"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:683
+msgid "Added to Cart Notice"
+msgstr "Added to Cart Notice"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:793
+msgid "Added to Compare Notification"
+msgstr "Added to Compare Notification"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:770
+msgid "Added to Wishlist Notification"
+msgstr "Added to Wishlist Notification"
+
+#: inc/class-razzi-options.php:2074
+msgid "Adjust Header Bottom height when the Sticky Header enabled"
+msgstr "Adjust Header Bottom height when the Sticky Header enabled"
+
+#: inc/class-razzi-options.php:1945
+msgid "Adjust Header Main height when the Sticky Header enabled"
+msgstr "Adjust Header Main height when the Sticky Header enabled"
+
+#: inc/class-razzi-options.php:2362
+msgid "After Header"
+msgstr "After Header"
+
+#: inc/class-razzi-options.php:2759
+msgid "AJAX Product Numbers"
+msgstr "AJAX Product Numbers"
+
+#: inc/class-razzi-options.php:2745
+msgid "AJAX Search"
+msgstr "AJAX Search"
+
+#: inc/class-razzi-options.php:7391
+msgid "Align Item"
+msgstr "Align Item"
+
+#: inc/blog/class-razzi-blog-post.php:76
+#: inc/blog/class-razzi-blog-posts.php:119
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:924
+msgid "All"
+msgstr "All"
+
+#: template-parts/search-form/form-cat.php:36
+#: template-parts/search-form/form-cat.php:45
+#: template-parts/search-form/form-modal.php:27
+#: template-parts/search-form/form-modal.php:36
+msgid "All Categories"
+msgstr "All Categories"
+
+#: inc/libs/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: inc/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. 1: dashboard link.
+#: inc/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:161
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: inc/class-razzi-options.php:4142
+msgid "All rights reserved"
+msgstr "All rights reserved"
+
+#: template-parts/modals/account.php:98
+msgid "Already has an account"
+msgstr "Already has an account"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:313
+msgid "Always Display Wishlist"
+msgstr "Always Display Wishlist"
+
+#: inc/class-razzi-options.php:6941
+msgid "Always Show Featured Icons"
+msgstr "Always Show Featured Icons"
+
+#. 1: plugin name, 2: error message.
+#: inc/libs/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: woocommerce/cart/cart.php:142
+msgid "Apply"
+msgstr "Apply"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:934
+msgid "Apply Auto Background For"
+msgstr "Apply Auto Background For"
+
+#: woocommerce/cart/cart.php:142
+msgid "Apply coupon"
+msgstr "Apply coupon"
+
+#: inc/class-razzi-breadcrumbs.php:101
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1216
+msgid "Arrows"
+msgstr "Arrows"
+
+#: inc/libs/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#: inc/class-razzi-options.php:3711
+msgid "ASC"
+msgstr "ASC"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1761
+msgid "Attachs the sidebar to the page when the user scrolls"
+msgstr "Attachs the sidebar to the page when the user scrolls"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:340
+msgid "Attributes"
+msgstr "Attributes"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:358
+#: inc/woocommerce/class-razzi-woo-customizer.php:984
+msgid "Author"
+msgstr "Author"
+
+#: inc/class-razzi-breadcrumbs.php:106
+msgid "Author:"
+msgstr "Author:"
+
+#: inc/class-razzi-options.php:5949
+#: inc/admin/class-razzi-admin-meta-boxes.php:503
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:915
+msgid "Auto Background"
+msgstr "Auto Background"
+
+#: inc/woocommerce/class-razzi-woo-elements-product-deal-2.php:221
+msgid "Availability: "
+msgstr "Availability: "
+
+#: woocommerce/cart/cart.php:70
+msgid "Available on backorder"
+msgstr "Available on backorder"
+
+#: inc/libs/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr "Available version:"
+
+#: inc/woocommerce/class-razzi-woo-modules-sticky-atc.php:112
+#: woocommerce/single-product/product-image.php:58
+msgid "Awaiting product image"
+msgstr "Awaiting product image"
+
+#: inc/class-razzi-options.php:6784
+msgid "Back to history"
+msgstr "Back to history"
+
+#: inc/class-razzi-options.php:327 inc/class-razzi-options.php:4308
+msgid "Back To Top"
+msgstr "Back To Top"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1391
+#: inc/woocommerce/class-razzi-woo-customizer.php:1473
+#: inc/woocommerce/class-razzi-woo-customizer.php:1540
+#: inc/woocommerce/class-razzi-woo-customizer.php:1606
+msgid "Background"
+msgstr "Background"
+
+#: inc/class-razzi-options.php:5924
+#: inc/admin/class-razzi-admin-meta-boxes.php:488
+msgid "Background Attachment"
+msgstr "Background Attachment"
+
+#: inc/class-razzi-options.php:689 inc/class-razzi-options.php:1526
+#: inc/class-razzi-options.php:2146 inc/class-razzi-options.php:2245
+#: inc/class-razzi-options.php:2431 inc/class-razzi-options.php:2845
+#: inc/class-razzi-options.php:3078 inc/class-razzi-options.php:3169
+#: inc/class-razzi-options.php:3289 inc/class-razzi-options.php:3510
+#: inc/class-razzi-options.php:4628 inc/class-razzi-options.php:4758
+#: inc/class-razzi-options.php:4882 inc/class-razzi-options.php:5149
+#: inc/class-razzi-options.php:5324 inc/class-razzi-options.php:5447
+#: inc/class-razzi-options.php:5835
+#: inc/admin/class-razzi-admin-meta-boxes.php:441
+#: inc/woocommerce/class-razzi-woo-customizer.php:605
+msgid "Background Color"
+msgstr "Background Color"
+
+#: inc/class-razzi-options.php:5863
+#: inc/admin/class-razzi-admin-meta-boxes.php:454
+msgid "Background Horizontal"
+msgstr "Background Horizontal"
+
+#: inc/class-razzi-options.php:2427 inc/class-razzi-options.php:4615
+#: inc/class-razzi-options.php:4740 inc/class-razzi-options.php:4864
+#: inc/class-razzi-options.php:5131 inc/class-razzi-options.php:5306
+#: inc/class-razzi-options.php:5429 inc/class-razzi-options.php:5849
+#: inc/admin/class-razzi-admin-meta-boxes.php:447
+msgid "Background Image"
+msgstr "Background Image"
+
+#: inc/class-razzi-options.php:5661 inc/class-razzi-options.php:7078
+#: inc/woocommerce/class-razzi-woo-customizer.php:1963
+msgid "Background Overlay"
+msgstr "Background Overlay"
+
+#: inc/class-razzi-options.php:5903
+#: inc/admin/class-razzi-admin-meta-boxes.php:476
+msgid "Background Repeat"
+msgstr "Background Repeat"
+
+#: inc/class-razzi-options.php:4603
+msgid "Background Scheme"
+msgstr "Background Scheme"
+
+#: inc/class-razzi-options.php:5943
+#: inc/admin/class-razzi-admin-meta-boxes.php:498
+msgid "Background Size"
+msgstr "Background Size"
+
+#: inc/class-razzi-options.php:5883
+#: inc/admin/class-razzi-admin-meta-boxes.php:465
+msgid "Background Vertical"
+msgstr "Background Vertical"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:120
+msgid "Badges"
+msgstr "Badges"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1303
+msgid "Badges Layout"
+msgstr "Badges Layout"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:119
+#: inc/woocommerce/class-razzi-woo-settings-category.php:203
+msgid "Banner Links"
+msgstr "Banner Links"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:197
+#: inc/woocommerce/class-razzi-woo-settings-category.php:105
+#: inc/woocommerce/class-razzi-woo-settings-category.php:161
+msgid "Banners"
+msgstr "Banners"
+
+#: inc/class-razzi-options.php:2363
+msgid "Before Header"
+msgstr "Before Header"
+
+#: inc/libs/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:157
+#: inc/libs/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: inc/libs/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2113
+msgid "Below the Products"
+msgstr "Below the Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:376
+msgid "Below the Title"
+msgstr "Below the Title"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2210
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:882
+msgid "Best Sellers"
+msgstr "Best Sellers"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:703
+msgid "Best selling products"
+msgstr "Best selling products"
+
+#: woocommerce/order/order-details-customer.php:26
+msgid "Billing & Shipping Details"
+msgstr "Billing & Shipping Details"
+
+#: woocommerce/order/order-details-customer.php:39
+msgid "Billing address"
+msgstr "Billing address"
+
+#: woocommerce/order/order-details-customer.php:28
+msgid "Billing Details"
+msgstr "Billing Details"
+
+#: inc/class-razzi-breadcrumbs.php:102 inc/class-razzi-options.php:290
+#: inc/class-razzi-options.php:360 inc/class-razzi-options.php:606
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/class-razzi-options.php:1182
+msgid "Blog Header Title"
+msgstr "Blog Header Title"
+
+#: inc/class-razzi-options.php:3615
+msgid "Blog Layout"
+msgstr "Blog Layout"
+
+#: inc/class-razzi-options.php:474
+msgid "Blog Page"
+msgstr "Blog Page"
+
+#: inc/class-razzi-options.php:481
+msgid "Blog Page Header"
+msgstr "Blog Page Header"
+
+#: inc/class-razzi-options.php:1226
+msgid "Blog Post Excerpt"
+msgstr "Blog Post Excerpt"
+
+#: inc/class-razzi-options.php:1204
+msgid "Blog Post Title"
+msgstr "Blog Post Title"
+
+#: inc/class-razzi-widgets.php:60
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: inc/class-razzi-options.php:3584
+msgid "Blog Type"
+msgstr "Blog Type"
+
+#: inc/class-razzi-options.php:963
+msgid "Body"
+msgstr "Body"
+
+#: inc/class-razzi-options.php:1654 inc/class-razzi-options.php:2214
+#: inc/class-razzi-options.php:2313 inc/class-razzi-options.php:2917
+#: inc/class-razzi-options.php:3329 inc/class-razzi-options.php:3550
+#: inc/class-razzi-options.php:3887 inc/class-razzi-options.php:3938
+#: inc/class-razzi-options.php:4074 inc/class-razzi-options.php:4350
+#: inc/class-razzi-options.php:4427 inc/class-razzi-options.php:4538
+#: inc/class-razzi-options.php:4935
+#: inc/admin/class-razzi-admin-meta-boxes.php:546
+#: inc/woocommerce/class-razzi-woo-customizer.php:656
+msgid "Border Color"
+msgstr "Border Color"
+
+#: inc/class-razzi-options.php:5175
+msgid "Border Color Dropdown"
+msgstr "Border Color Dropdown"
+
+#: inc/class-razzi-options.php:2945
+msgid "Border Color Hover"
+msgstr "Border Color Hover"
+
+#: inc/class-razzi-options.php:2969
+msgid "Border Items Color"
+msgstr "Border Items Color"
+
+#: inc/class-razzi-options.php:1648 inc/class-razzi-options.php:3931
+#: inc/class-razzi-options.php:4067 inc/class-razzi-options.php:4343
+#: inc/class-razzi-options.php:4420 inc/class-razzi-options.php:4531
+msgid "Border Line"
+msgstr "Border Line"
+
+#: inc/class-razzi-options.php:3881
+msgid "Border Top"
+msgstr "Border Top"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1339
+msgid "Both"
+msgstr "Both"
+
+#: inc/class-razzi-options.php:3984 inc/class-razzi-options.php:4120
+#: inc/class-razzi-options.php:4396 inc/class-razzi-options.php:4473
+#: inc/class-razzi-options.php:4584 inc/class-razzi-options.php:5891
+#: inc/admin/class-razzi-admin-meta-boxes.php:472
+#: inc/woocommerce/class-razzi-woo-customizer.php:1156
+msgid "Bottom"
+msgstr "Bottom"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:332
+msgid "Bottom Spacing"
+msgstr "Bottom Spacing"
+
+#: inc/class-razzi-options.php:2608
+msgid "Boxed"
+msgstr "Boxed"
+
+#: inc/class-razzi-options.php:319 inc/class-razzi-options.php:5828
+msgid "Boxed Layout"
+msgstr "Boxed Layout"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:429
+msgid "Boxed Layout Settings"
+msgstr "Boxed Layout Settings"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:357
+#: inc/woocommerce/class-razzi-woo-customizer.php:983
+msgid "Brand"
+msgstr "Brand"
+
+#: inc/class-razzi-options.php:5605 inc/class-razzi-options.php:5992
+#: inc/class-razzi-options.php:6407 inc/class-razzi-options.php:6440
+#: inc/class-razzi-options.php:7236
+#: inc/woocommerce/class-razzi-woo-customizer.php:1871
+msgid "BreadCrumb"
+msgstr "BreadCrumb"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:963
+msgid "Breadcrumb"
+msgstr "Breadcrumb"
+
+#: inc/class-razzi-options.php:5722 inc/class-razzi-options.php:7133
+#: inc/woocommerce/class-razzi-woo-customizer.php:2014
+msgid "Breadcrumb Color"
+msgstr "Breadcrumb Color"
+
+#: woocommerce/myaccount/orders.php:119
+msgid "Browse products"
+msgstr "Browse products"
+
+#: inc/class-razzi-options.php:1682
+msgid "Build my own"
+msgstr "Build my own"
+
+#: inc/class-razzi-options.php:3240
+msgid "Built-in Icon"
+msgstr "Built-in Icon"
+
+#: inc/class-razzi-options.php:2993 inc/class-razzi-options.php:5049
+msgid "Button Background Color"
+msgstr "Button Background Color"
+
+#: inc/class-razzi-options.php:3009
+msgid "Button Border Color"
+msgstr "Button Border Color"
+
+#: inc/class-razzi-options.php:5080
+msgid "Button Color"
+msgstr "Button Color"
+
+#: inc/class-razzi-options.php:6200
+msgid "Button Link"
+msgstr "Button Link"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1173
+msgid "Button Only"
+msgstr "Button Only"
+
+#: inc/class-razzi-options.php:6186
+msgid "Button Text"
+msgstr "Button Text"
+
+#: inc/class-razzi-options.php:2418
+msgid "Campaign"
+msgstr "Campaign"
+
+#: inc/class-razzi-options.php:415 inc/class-razzi-options.php:590
+#: inc/class-razzi-options.php:2351 inc/class-razzi-options.php:6881
+#: inc/woocommerce/class-razzi-woo-customizer.php:939
+msgid "Campaign Bar"
+msgstr "Campaign Bar"
+
+#: inc/class-razzi-options.php:2412
+msgid "Campaigns"
+msgstr "Campaigns"
+
+#: inc/class-razzi-options.php:224 inc/class-razzi-options.php:439
+#: inc/woocommerce/class-razzi-woo-customizer.php:93
+#: inc/woocommerce/class-razzi-woo-customizer.php:298
+#: template-parts/navigation-bar/cart.php:14
+msgid "Cart"
+msgstr "Cart"
+
+#: inc/class-razzi-options.php:3358
+msgid "Cart Button"
+msgstr "Cart Button"
+
+#: inc/class-razzi-header.php:709 inc/class-razzi-header.php:730
+#: inc/class-razzi-options.php:175 inc/class-razzi-options.php:241
+#: inc/class-razzi-options.php:3236
+msgid "Cart Icon"
+msgstr "Cart Icon"
+
+#: inc/class-razzi-options.php:3221
+msgid "Cart Icon Behaviour"
+msgstr "Cart Icon Behaviour"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:749
+msgid "Cart Notification Auto Hide"
+msgstr "Cart Notification Auto Hide"
+
+#: inc/class-razzi-options.php:6134
+msgid "Cart Page"
+msgstr "Cart Page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1287
+msgid "Catalog Badges"
+msgstr "Catalog Badges"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1660
+msgid "Catalog Content Width"
+msgstr "Catalog Content Width"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:87
+msgid "Catalog Filters Mobile"
+msgstr "Catalog Filters Mobile"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:77
+msgid "Catalog Filters Sidebar"
+msgstr "Catalog Filters Sidebar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:181
+#: inc/woocommerce/class-razzi-woo-customizer.php:1649
+msgid "Catalog Layout"
+msgstr "Catalog Layout"
+
+#: inc/class-razzi-options.php:6133
+msgid "Catalog Page"
+msgstr "Catalog Page"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:67
+msgid "Catalog Sidebar"
+msgstr "Catalog Sidebar"
+
+#: inc/class-razzi-options.php:7266
+#: inc/woocommerce/class-razzi-woo-customizer.php:207
+#: inc/woocommerce/class-razzi-woo-customizer.php:2127
+msgid "Catalog Toolbar"
+msgstr "Catalog Toolbar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2195
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:927
+msgid "Categories"
+msgstr "Categories"
+
+#: inc/class-razzi-options.php:3648
+msgid "Categories Filter"
+msgstr "Categories Filter"
+
+#: inc/class-razzi-options.php:3716
+msgid "Categories Number"
+msgstr "Categories Number"
+
+#: inc/class-razzi-options.php:3705
+msgid "Categories Order"
+msgstr "Categories Order"
+
+#: inc/class-razzi-options.php:3693
+msgid "Categories Orderby"
+msgstr "Categories Orderby"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:356
+#: inc/woocommerce/class-razzi-woo-customizer.php:982
+#: inc/woocommerce/class-razzi-woo-customizer.php:1083
+msgid "Category"
+msgstr "Category"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2272
+#: inc/woocommerce/class-razzi-woo-customizer.php:2496
+msgid "Category ID"
+msgstr "Category ID"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2271
+#: inc/woocommerce/class-razzi-woo-customizer.php:2495
+msgid "Category Name"
+msgstr "Category Name"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2270
+#: inc/woocommerce/class-razzi-woo-customizer.php:2494
+msgid "Category Order"
+msgstr "Category Order"
+
+#: woocommerce/single-product/meta.php:44
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Category:"
+msgstr[1] "Categories:"
+
+#: inc/class-razzi-options.php:3379 inc/class-razzi-options.php:5870
+#: inc/class-razzi-options.php:5890 inc/class-razzi-options.php:7397
+#: inc/admin/class-razzi-admin-meta-boxes.php:460
+#: inc/admin/class-razzi-admin-meta-boxes.php:471
+msgid "Center"
+msgstr "Center"
+
+#: inc/class-razzi-options.php:1396 inc/class-razzi-options.php:1869
+#: inc/class-razzi-options.php:1998 inc/class-razzi-options.php:4023
+msgid "Center Items"
+msgstr "Center Items"
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr "Change address"
+
+#: inc/class-razzi-options.php:3285
+msgid "Change color button counter cart"
+msgstr "Change color button counter cart"
+
+#: inc/class-razzi-options.php:3158
+msgid "Change color button counter compare"
+msgstr "Change color button counter compare"
+
+#: inc/class-razzi-options.php:3067
+msgid "Change color button counter wishlist"
+msgstr "Change color button counter wishlist"
+
+#: inc/class-razzi-options.php:3506
+msgid "Change color header department"
+msgstr "Change color header department"
+
+#: inc/class-razzi-options.php:1337
+msgid "Check this option to enable a topbar above the site header"
+msgstr "Check this option to enable a topbar above the site header"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:973
+msgid "Check this option to enable add to cart with AJAX on the product page."
+msgstr "Check this option to enable add to cart with AJAX on the product page."
+
+#: inc/class-razzi-options.php:2748
+msgid "Check this option to enable AJAX search in the header"
+msgstr "Check this option to enable AJAX search in the header"
+
+#: inc/class-razzi-options.php:6115
+msgid "Check this option to hide the recently viewed products when empty."
+msgstr "Check this option to hide the recently viewed products when empty."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1276
+msgid "Check this option to open external product link on new tab."
+msgstr "Check this option to open external product link on new tab."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:832
+msgid "Check this option to show cross-sells products in product cart page"
+msgstr "Check this option to show cross-sells products in product cart page"
+
+#: inc/class-razzi-options.php:3806
+msgid "Check this option to show related posts."
+msgstr "Check this option to show related posts."
+
+#: inc/class-razzi-options.php:3763
+msgid "Check this option to show socials share in the single post."
+msgstr "Check this option to show socials share in the single post."
+
+#: inc/class-razzi-options.php:7489
+msgid "Check this option to show the compare counter in the navigation bar."
+msgstr "Check this option to show the compare counter in the navigation bar."
+
+#: inc/class-razzi-options.php:3042 inc/class-razzi-options.php:3133
+msgid "Check this option to show the counter in the header."
+msgstr "Check this option to show the counter in the header."
+
+#: inc/class-razzi-options.php:6093
+msgid ""
+"Check this option to show the recently viewed products above the footer."
+msgstr ""
+"Check this option to show the recently viewed products above the footer."
+
+#: inc/class-razzi-options.php:7477
+msgid "Check this option to show the wishlist counter in the navigation bar."
+msgstr "Check this option to show the wishlist counter in the navigation bar."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1189
+msgid "Check this option to show up-sells products in single product page"
+msgstr "Check this option to show up-sells products in single product page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:818
+msgid "Check this option to update cart page automatically"
+msgstr "Check this option to update cart page automatically"
+
+#: inc/class-razzi-options.php:4310
+msgid "Check this to show back to top."
+msgstr "Check this to show back to top."
+
+#: inc/woocommerce/class-razzi-woo-modules-mini-cart.php:180
+msgid "Checkout"
+msgstr "Checkout"
+
+#: inc/class-razzi-options.php:3359
+msgid "Checkout Button"
+msgstr "Checkout Button"
+
+#: inc/class-razzi-options.php:6135
+msgid "Checkout Page"
+msgstr "Checkout Page"
+
+#: woocommerce/add-to-wishlist-popup.php:65
+msgid "Choose a wishlist"
+msgstr "Choose a wishlist"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:265
+msgid "Classic"
+msgstr "Classic"
+
+#: inc/class-razzi-options.php:3419 inc/class-razzi-options.php:6858
+#: inc/class-razzi-options.php:7451
+msgid "Click to icon"
+msgstr "Click to icon"
+
+#: inc/class-razzi-options.php:3418 inc/class-razzi-options.php:6857
+#: inc/class-razzi-options.php:7450
+msgid "Click to item"
+msgstr "Click to item"
+
+#: inc/class-razzi-options.php:7302
+#: inc/woocommerce/class-razzi-woo-customizer.php:1126
+msgid "Close all tabs"
+msgstr "Close all tabs"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1797
+msgid "Close Filter Sidebar before filtering"
+msgstr "Close Filter Sidebar before filtering"
+
+#: inc/class-razzi-options.php:202 inc/class-razzi-topbar.php:277
+msgid "Close Icon"
+msgstr "Close Icon"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1699
+#: inc/woocommerce/class-razzi-woo-customizer.php:2339
+msgid "Collapse Widget"
+msgstr "Collapse Widget"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1719
+#: inc/woocommerce/class-razzi-woo-customizer.php:2358
+msgid "Collapse Widget Status"
+msgstr "Collapse Widget Status"
+
+#: inc/class-razzi-options.php:2435 inc/class-razzi-options.php:4246
+#: inc/admin/class-razzi-admin-meta-boxes.php:555
+#: inc/woocommerce/class-razzi-woo-customizer.php:1371
+#: inc/woocommerce/class-razzi-woo-customizer.php:1453
+#: inc/woocommerce/class-razzi-woo-customizer.php:1520
+#: inc/woocommerce/class-razzi-woo-customizer.php:1586
+msgid "Color"
+msgstr "Color"
+
+#: inc/class-razzi-options.php:633
+msgid "Color Scheme"
+msgstr "Color Scheme"
+
+#: inc/class-razzi-options.php:334
+msgid "Colors"
+msgstr "Colors"
+
+#: inc/class-razzi-options.php:3596 inc/class-razzi-options.php:3830
+#: inc/class-razzi-options.php:6214
+msgid "Columns"
+msgstr "Columns"
+
+#: inc/class-razzi-maintenance.php:76 inc/class-razzi-options.php:929
+msgid "Coming Soon"
+msgstr "Coming Soon"
+
+#: inc/class-razzi-comments.php:105
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: inc/class-razzi-comments.php:88
+#, php-format
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] "Comment (%1$s)"
+msgstr[1] "Comments (%1$s)"
+
+#: inc/class-razzi-options.php:226 inc/class-razzi-options.php:435
+#: inc/woocommerce/class-razzi-woo-customizer.php:301
+#: woocommerce/loop/add-to-compare.php:27
+#: woocommerce/loop/add-to-compare.php:30
+msgid "Compare"
+msgstr "Compare"
+
+#: woocommerce/loop/add-to-compare.php:26
+#, php-format
+msgid "Compare %s"
+msgstr "Compare %s"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1018
+msgid "Compare button"
+msgstr "Compare button"
+
+#: inc/class-razzi-header.php:711 inc/class-razzi-header.php:732
+#: inc/class-razzi-options.php:177 inc/class-razzi-options.php:243
+msgid "Compare Icon"
+msgstr "Compare Icon"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:801
+msgid "Compare Notification Auto Hide"
+msgstr "Compare Notification Auto Hide"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:100
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/class-razzi-options.php:5951
+#: inc/admin/class-razzi-admin-meta-boxes.php:505
+msgid "Contain"
+msgstr "Contain"
+
+#: inc/class-razzi-comments.php:107
+msgid "Content"
+msgstr "Content"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:394
+msgid "Content Bottom Spacing"
+msgstr "Content Bottom Spacing"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:357
+msgid "Content Settings"
+msgstr "Content Settings"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:372
+msgid "Content Top Spacing"
+msgstr "Content Top Spacing"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:363
+msgid "Content Width"
+msgstr "Content Width"
+
+#: inc/woocommerce/class-razzi-woo-template-cart.php:95
+#: woocommerce/cart/mini-cart.php:124
+msgid "Continue Shopping"
+msgstr "Continue Shopping"
+
+#: inc/class-razzi-options.php:4024
+msgid "Control center items of the footer"
+msgstr "Control center items of the footer"
+
+#: inc/class-razzi-options.php:6371
+msgid "Control icons on the right side of mobile header"
+msgstr "Control icons on the right side of mobile header"
+
+#: inc/class-razzi-options.php:1999
+msgid "Control items at the center of header bottom"
+msgstr "Control items at the center of header bottom"
+
+#: inc/class-razzi-options.php:1870
+msgid "Control items at the center of header main"
+msgstr "Control items at the center of header main"
+
+#: inc/class-razzi-options.php:4318
+msgid "Control items of the extra footer"
+msgstr "Control items of the extra footer"
+
+#: inc/class-razzi-options.php:1397
+msgid "Control items on the center side of the topbar"
+msgstr "Control items on the center side of the topbar"
+
+#: inc/class-razzi-options.php:1973
+msgid "Control items on the left side of header bottom"
+msgstr "Control items on the left side of header bottom"
+
+#: inc/class-razzi-options.php:1844
+msgid "Control items on the left side of header main"
+msgstr "Control items on the left side of header main"
+
+#: inc/class-razzi-options.php:1377
+msgid "Control items on the left side of the topbar"
+msgstr "Control items on the left side of the topbar"
+
+#: inc/class-razzi-options.php:2025
+msgid "Control items on the right of header bottom"
+msgstr "Control items on the right of header bottom"
+
+#: inc/class-razzi-options.php:1896
+msgid "Control items on the right of header main"
+msgstr "Control items on the right of header main"
+
+#: inc/class-razzi-options.php:1417
+msgid "Control items on the right side of the topbar"
+msgstr "Control items on the right side of the topbar"
+
+#: inc/class-razzi-options.php:6271
+msgid "Control items on the topbar mobile"
+msgstr "Control items on the topbar mobile"
+
+#: inc/class-razzi-options.php:4005
+msgid "Control left items of the footer"
+msgstr "Control left items of the footer"
+
+#: inc/class-razzi-options.php:4043
+msgid "Control right items of the footer"
+msgstr "Control right items of the footer"
+
+#: inc/class-razzi-footer.php:109 inc/class-razzi-options.php:151
+#: inc/class-razzi-options.php:541
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/class-razzi-options.php:3698
+msgid "Count"
+msgstr "Count"
+
+#: inc/class-razzi-options.php:3039 inc/class-razzi-options.php:3130
+msgid "Counter"
+msgstr "Counter"
+
+#: woocommerce/cart/cart.php:137
+msgid "Coupon code:"
+msgstr "Coupon code:"
+
+#: inc/class-razzi-options.php:5950
+#: inc/admin/class-razzi-admin-meta-boxes.php:504
+msgid "Cover"
+msgstr "Cover"
+
+#: woocommerce/add-to-wishlist-popup.php:67
+#: woocommerce/add-to-wishlist-popup.php:83
+msgid "Create a new list"
+msgstr "Create a new list"
+
+#: template-parts/modals/account.php:49
+msgid "Create An Account"
+msgstr "Create An Account"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:138
+msgid "Cross Sells Products"
+msgstr "Cross Sells Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:850
+msgid "Cross-Sells Products Numbers"
+msgstr "Cross-Sells Products Numbers"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:837
+msgid "Cross-Sells Products Title"
+msgstr "Cross-Sells Products Title"
+
+#: inc/class-razzi-header.php:714 inc/class-razzi-options.php:180
+msgid "Currencies"
+msgstr "Currencies"
+
+#: inc/class-razzi-options.php:459
+msgid "Currency"
+msgstr "Currency"
+
+#: inc/class-razzi-options.php:198 inc/class-razzi-topbar.php:272
+msgid "Currency Switcher"
+msgstr "Currency Switcher"
+
+#: inc/class-razzi-options.php:2344
+msgid "Current Color"
+msgstr "Current Color"
+
+#: inc/class-razzi-options.php:4610 inc/class-razzi-options.php:5644
+#: inc/class-razzi-options.php:7062
+#: inc/admin/class-razzi-admin-meta-boxes.php:181
+#: inc/admin/class-razzi-admin-meta-boxes.php:314
+#: inc/admin/class-razzi-admin-meta-boxes.php:378
+#: inc/admin/class-razzi-admin-meta-boxes.php:400
+#: inc/admin/class-razzi-admin-meta-boxes.php:551
+#: inc/woocommerce/class-razzi-woo-customizer.php:1887
+msgid "Custom"
+msgstr "Custom"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:109
+msgid "Custom Badge Background"
+msgstr "Custom Badge Background"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:119
+msgid "Custom Badge Color"
+msgstr "Custom Badge Color"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:99
+msgid "Custom Badge Text"
+msgstr "Custom Badge Text"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:593
+msgid "Custom Button Color"
+msgstr "Custom Button Color"
+
+#: inc/class-razzi-options.php:3669
+#: inc/woocommerce/class-razzi-woo-customizer.php:2420
+msgid "Custom Categories"
+msgstr "Custom Categories"
+
+#: inc/class-razzi-options.php:3661
+msgid "Custom Categories List"
+msgstr "Custom Categories List"
+
+#: inc/class-razzi-options.php:668 inc/class-razzi-options.php:1521
+#: inc/class-razzi-options.php:2836 inc/class-razzi-options.php:3503
+msgid "Custom Color"
+msgstr "Custom Color"
+
+#: inc/class-razzi-options.php:3064 inc/class-razzi-options.php:3155
+#: inc/class-razzi-options.php:3282
+msgid "Custom Color Counter"
+msgstr "Custom Color Counter"
+
+#: inc/class-razzi-options.php:3576
+msgid "Custom Currency"
+msgstr "Custom Currency"
+
+#: inc/class-razzi-options.php:7320
+msgid "Custom Homepage"
+msgstr "Custom Homepage"
+
+#: inc/class-razzi-options.php:6894
+msgid "Custom Logo"
+msgstr "Custom Logo"
+
+#: inc/class-razzi-options.php:3960 inc/class-razzi-options.php:4096
+#: inc/class-razzi-options.php:4372 inc/class-razzi-options.php:4449
+#: inc/class-razzi-options.php:4560
+msgid "Custom Padding"
+msgstr "Custom Padding"
+
+#: inc/class-razzi-header.php:717 inc/class-razzi-header.php:736
+#: inc/class-razzi-options.php:183 inc/class-razzi-options.php:247
+#: inc/class-razzi-options.php:455 inc/class-razzi-options.php:553
+#: inc/class-razzi-options.php:1474 inc/class-razzi-options.php:3570
+#: inc/class-razzi-options.php:4157 inc/class-razzi-options.php:6324
+msgid "Custom Text"
+msgstr "Custom Text"
+
+#: inc/class-razzi-footer.php:111 inc/class-razzi-options.php:153
+msgid "Custom text"
+msgstr "Custom text"
+
+#: inc/class-razzi-options.php:201 inc/class-razzi-topbar.php:275
+msgid "Custom Text 1"
+msgstr "Custom Text 1"
+
+#: inc/class-razzi-options.php:206 inc/class-razzi-options.php:1504
+#: inc/class-razzi-topbar.php:276
+msgid "Custom Text 2"
+msgstr "Custom Text 2"
+
+#: inc/class-razzi-options.php:1460
+msgid "Custom Text SVG"
+msgstr "Custom Text SVG"
+
+#: inc/class-razzi-options.php:1490
+msgid "Custom Text SVG 2"
+msgstr "Custom Text SVG 2"
+
+#: inc/class-razzi-options.php:5621 inc/class-razzi-options.php:6008
+msgid "Custom Title"
+msgstr "Custom Title"
+
+#: inc/class-razzi-options.php:3046 inc/class-razzi-options.php:3137
+msgid "Custom Wishlist Link"
+msgstr "Custom Wishlist Link"
+
+#: inc/class-razzi-options.php:964
+msgid "Customize the body font"
+msgstr "Customize the body font"
+
+#: inc/class-razzi-options.php:1183
+msgid "Customize the font of blog header"
+msgstr "Customize the font of blog header"
+
+#: inc/class-razzi-options.php:1227
+msgid "Customize the font of blog post excerpt"
+msgstr "Customize the font of blog post excerpt"
+
+#: inc/class-razzi-options.php:1205
+msgid "Customize the font of blog post title"
+msgstr "Customize the font of blog post title"
+
+#: inc/class-razzi-options.php:1272
+msgid "Customize the font of footer extra"
+msgstr "Customize the font of footer extra"
+
+#: inc/class-razzi-options.php:1312
+msgid "Customize the font of footer main"
+msgstr "Customize the font of footer main"
+
+#: inc/class-razzi-options.php:1292
+msgid "Customize the font of footer widgets"
+msgstr "Customize the font of footer widgets"
+
+#: inc/class-razzi-options.php:986
+msgid "Customize the H1 font"
+msgstr "Customize the H1 font"
+
+#: inc/class-razzi-options.php:1008
+msgid "Customize the H2 font"
+msgstr "Customize the H2 font"
+
+#: inc/class-razzi-options.php:1030
+msgid "Customize the H3 font"
+msgstr "Customize the H3 font"
+
+#: inc/class-razzi-options.php:1052
+msgid "Customize the H4 font"
+msgstr "Customize the H4 font"
+
+#: inc/class-razzi-options.php:1074
+msgid "Customize the H5 font"
+msgstr "Customize the H5 font"
+
+#: inc/class-razzi-options.php:1096
+msgid "Customize the H6 font"
+msgstr "Customize the H6 font"
+
+#: inc/class-razzi-options.php:1119
+msgid "Customize the menu font"
+msgstr "Customize the menu font"
+
+#: inc/class-razzi-options.php:1160
+msgid "Customize the page title font"
+msgstr "Customize the page title font"
+
+#: inc/class-razzi-options.php:1139
+msgid "Customize the sub-menu font"
+msgstr "Customize the sub-menu font"
+
+#: inc/class-razzi-options.php:1250
+msgid "Customize the widget title font"
+msgstr "Customize the widget title font"
+
+#: inc/class-razzi-breadcrumbs.php:107
+msgid "Daily:"
+msgstr "Daily:"
+
+#: inc/class-razzi-options.php:2630 inc/class-razzi-options.php:4607
+#: inc/admin/class-razzi-admin-meta-boxes.php:165
+msgid "Dark"
+msgstr "Dark"
+
+#: woocommerce/myaccount/orders.php:46 woocommerce/order/order-details.php:61
+msgid "Date:"
+msgstr "Date:"
+
+#: inc/class-razzi-options.php:6158
+#: inc/admin/class-razzi-admin-meta-boxes.php:135
+#: inc/admin/class-razzi-admin-meta-boxes.php:154
+#: inc/admin/class-razzi-admin-meta-boxes.php:164
+#: inc/admin/class-razzi-admin-meta-boxes.php:180
+#: inc/admin/class-razzi-admin-meta-boxes.php:245
+#: inc/admin/class-razzi-admin-meta-boxes.php:295
+#: inc/admin/class-razzi-admin-meta-boxes.php:313
+#: inc/admin/class-razzi-admin-meta-boxes.php:376
+#: inc/admin/class-razzi-admin-meta-boxes.php:398
+#: inc/admin/class-razzi-admin-meta-boxes.php:458
+#: inc/admin/class-razzi-admin-meta-boxes.php:469
+#: inc/admin/class-razzi-admin-meta-boxes.php:480
+#: inc/admin/class-razzi-admin-meta-boxes.php:492
+#: inc/admin/class-razzi-admin-meta-boxes.php:502
+#: inc/admin/class-razzi-admin-meta-boxes.php:540
+#: inc/admin/class-razzi-admin-meta-boxes.php:550
+#: inc/woocommerce/class-razzi-woo-settings-product.php:286
+msgid "Default"
+msgstr "Default"
+
+#: inc/class-razzi-options.php:716
+msgid "Default Icon"
+msgstr "Default Icon"
+
+#: inc/class-razzi-options.php:890
+msgid "Delay Time"
+msgstr "Delay Time"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:112
+#: inc/woocommerce/class-razzi-woo-settings-category.php:137
+#: inc/woocommerce/class-razzi-woo-settings-category.php:183
+#: inc/woocommerce/class-razzi-woo-settings-category.php:196
+#: inc/woocommerce/class-razzi-woo-settings-category.php:230
+#: inc/woocommerce/class-razzi-woo-settings-category.php:242
+#: inc/woocommerce/class-razzi-woo-settings-category.php:269
+#: inc/woocommerce/class-razzi-woo-settings-category.php:305
+#: inc/woocommerce/class-razzi-woo-settings-category.php:317
+msgid "Delete"
+msgstr "Delete"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:111
+#: inc/woocommerce/class-razzi-woo-settings-category.php:136
+#: inc/woocommerce/class-razzi-woo-settings-category.php:183
+#: inc/woocommerce/class-razzi-woo-settings-category.php:195
+#: inc/woocommerce/class-razzi-woo-settings-category.php:230
+#: inc/woocommerce/class-razzi-woo-settings-category.php:241
+#: inc/woocommerce/class-razzi-woo-settings-category.php:268
+#: inc/woocommerce/class-razzi-woo-settings-category.php:305
+#: inc/woocommerce/class-razzi-woo-settings-category.php:316
+msgid "Delete image"
+msgstr "Delete image"
+
+#: inc/class-razzi-header.php:715 inc/class-razzi-options.php:181
+#: inc/class-razzi-options.php:451
+msgid "Department"
+msgstr "Department"
+
+#: inc/class-razzi-setup.php:106
+msgid "Department Menu"
+msgstr "Department Menu"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:203
+msgid "Department Menu Display"
+msgstr "Department Menu Display"
+
+#: inc/class-razzi-options.php:3710
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:563
+msgid "Description Length"
+msgstr "Description Length"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:917
+msgid "Detect background color from product main image"
+msgstr "Detect background color from product main image"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:435
+msgid "Disable Boxed Layout"
+msgstr "Disable Boxed Layout"
+
+#: inc/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1501
+msgid "Display a badge for featured products."
+msgstr "Display a badge for featured products."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1419
+msgid "Display a badge for new products."
+msgstr "Display a badge for new products."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1567
+msgid "Display a badge for out of stock products."
+msgstr "Display a badge for out of stock products."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1328
+msgid "Display a badge for sale products."
+msgstr "Display a badge for sale products."
+
+#: inc/class-razzi-options.php:2353
+msgid ""
+"Display a bar bellow site header. This bar will be hidden when the header "
+"background is transparent."
+msgstr ""
+"Display a bar bellow site header. This bar will be hidden when the header "
+"background is transparent."
+
+#: inc/class-razzi-options.php:3882 inc/class-razzi-options.php:3932
+#: inc/class-razzi-options.php:4068 inc/class-razzi-options.php:4344
+#: inc/class-razzi-options.php:4421 inc/class-razzi-options.php:4532
+msgid "Display a divide line on top"
+msgstr "Display a divide line on top"
+
+#: inc/class-razzi-options.php:2784
+msgid "Display a list of links bellow the search field"
+msgstr "Display a list of links bellow the search field"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:684
+msgid "Display a notification when a product is added to cart."
+msgstr "Display a notification when a product is added to cart."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:794
+msgid "Display a notification when a product is added to compare"
+msgstr "Display a notification when a product is added to compare"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:771
+msgid "Display a notification when a product is added to wishlist"
+msgstr "Display a notification when a product is added to wishlist"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:965
+msgid "Display breadcrumb on top of product page"
+msgstr "Display breadcrumb on top of product page"
+
+#: inc/class-razzi-options.php:3655
+msgid "Display categories list above posts list"
+msgstr "Display categories list above posts list"
+
+#: inc/class-razzi-options.php:3450
+msgid "Display copyright"
+msgstr "Display copyright"
+
+#: inc/class-razzi-options.php:4141
+msgid "Display copyright info on the left side of footer"
+msgstr "Display copyright info on the left side of footer"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:411
+msgid "Display Empty Stars"
+msgstr "Display Empty Stars"
+
+#: inc/class-razzi-options.php:6657
+msgid "Display footer extra on mobile"
+msgstr "Display footer extra on mobile"
+
+#: inc/class-razzi-options.php:6720
+msgid "Display footer links on mobile"
+msgstr "Display footer links on mobile"
+
+#: inc/class-razzi-options.php:6593
+msgid "Display footer main on mobile"
+msgstr "Display footer main on mobile"
+
+#: inc/class-razzi-options.php:6465
+msgid "Display footer newsletter on mobile"
+msgstr "Display footer newsletter on mobile"
+
+#: inc/class-razzi-options.php:6529
+msgid "Display footer widget on mobile"
+msgstr "Display footer widget on mobile"
+
+#: inc/class-razzi-options.php:6127
+msgid "Display On Page"
+msgstr "Display On Page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:698
+msgid "Display recommended products on the cart popup"
+msgstr "Display recommended products on the cart popup"
+
+#: inc/class-razzi-options.php:3438
+msgid "Display social menu"
+msgstr "Display social menu"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1095
+msgid "Display stock on right of product price"
+msgstr "Display stock on right of product price"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1439
+msgid "Display the \"New\" badge for how many days?"
+msgstr "Display the \"New\" badge for how many days?"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1288
+msgid "Display the badges in the catalog page"
+msgstr "Display the badges in the catalog page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1296
+msgid "Display the badges in the single page"
+msgstr "Display the badges in the single page"
+
+#: inc/class-razzi-options.php:3736
+msgid "Display the featured image on the post"
+msgstr "Display the featured image on the post"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:865
+msgid "Display the product thumbnail"
+msgstr "Display the product thumbnail"
+
+#: inc/class-razzi-options.php:6262
+msgid "Display topbar on mobile"
+msgstr "Display topbar on mobile"
+
+#: inc/class-razzi-options.php:851
+msgid ""
+"Do NOT show the popup to the same visitor again until this much days has "
+"passed."
+msgstr ""
+"Do NOT show the popup to the same visitor again until this much days has "
+"passed."
+
+#: template-parts/popup/newsletter-popup.php:52
+msgid "Don't show this popup again"
+msgstr "Don't show this popup again"
+
+#: inc/class-razzi-options.php:6248
+#: inc/woocommerce/class-razzi-woo-customizer.php:1217
+msgid "Dots"
+msgstr "Dots"
+
+#. Author of the theme
+msgid "DrFuri"
+msgstr "Inamba"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1636
+msgid "Dropdown"
+msgstr "Dropdown"
+
+#: inc/class-razzi-comments.php:249
+msgid "Edit"
+msgstr "Edit"
+
+#: inc/woocommerce/class-razzi-woo-template-account.php:65
+msgid "Edit Account"
+msgstr "Edit Account"
+
+#: inc/class-razzi-options.php:6159
+msgid "Effect Hover"
+msgstr "Effect Hover"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:84
+msgid "Elementor Page Builder"
+msgstr "Elementor Page Builder"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1866
+msgid "Elements"
+msgstr "Elements"
+
+#: inc/class-razzi-comments.php:158 inc/class-razzi-options.php:3784
+#: inc/woocommerce/class-razzi-woo-customizer.php:1244
+msgid "Email"
+msgstr "Email"
+
+#: template-parts/modals/account.php:74
+msgid "Email address"
+msgstr "Email address"
+
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:79
+msgid "Email Address *"
+msgstr "Email Address *"
+
+#: inc/class-razzi-options.php:3652 inc/class-razzi-options.php:3805
+#: inc/woocommerce/class-razzi-woo-customizer.php:1418
+#: inc/woocommerce/class-razzi-woo-customizer.php:1500
+#: inc/woocommerce/class-razzi-woo-customizer.php:1566
+msgid "Enable"
+msgstr "Enable"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1786
+msgid "Enable Active Product Filters"
+msgstr "Enable Active Product Filters"
+
+#: inc/class-razzi-options.php:7292
+msgid "Enable Breadcrumb"
+msgstr "Enable Breadcrumb"
+
+#: inc/class-razzi-options.php:3726 inc/class-razzi-options.php:6457
+msgid "Enable breadcrumb"
+msgstr "Enable breadcrumb"
+
+#: inc/class-razzi-options.php:3733
+msgid "Enable featured image"
+msgstr "Enable featured image"
+
+#: inc/class-razzi-options.php:776
+msgid "Enable Homepage only"
+msgstr "Enable Homepage only"
+
+#: inc/class-razzi-options.php:916
+msgid "Enable Maintenance Mode"
+msgstr "Enable Maintenance Mode"
+
+#: inc/class-razzi-options.php:5554 inc/class-razzi-options.php:5966
+#: inc/class-razzi-options.php:6396 inc/class-razzi-options.php:6429
+#: inc/class-razzi-options.php:7002
+msgid "Enable Page Header"
+msgstr "Enable Page Header"
+
+#: inc/class-razzi-options.php:768
+msgid "Enable Popup"
+msgstr "Enable Popup"
+
+#: inc/class-razzi-options.php:681
+msgid "Enable Preloader"
+msgstr "Enable Preloader"
+
+#: inc/class-razzi-options.php:7410
+msgid "Enable to display the item label."
+msgstr "Enable to display the item label."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:128
+msgid ""
+"Enable to set this product as a new product. A \"New\" badge will be added "
+"to this product."
+msgstr ""
+"Enable to set this product as a new product. A \"New\" badge will be added "
+"to this product."
+
+#: inc/class-razzi-options.php:5556 inc/class-razzi-options.php:5968
+#: inc/class-razzi-options.php:6398 inc/class-razzi-options.php:6431
+msgid "Enable to show a page header for the page below the site header"
+msgstr "Enable to show a page header for the page below the site header"
+
+#: inc/class-razzi-options.php:7004
+msgid "Enable to show a page header for the shop page below the site header"
+msgstr "Enable to show a page header for the shop page below the site header"
+
+#: inc/class-razzi-options.php:7294
+msgid ""
+"Enable to show a page header for the single product page below the site "
+"header"
+msgstr ""
+"Enable to show a page header for the single product page below the site "
+"header"
+
+#: inc/class-razzi-options.php:7260
+msgid "Enable Top Categories"
+msgstr "Enable Top Categories"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1327
+msgid "Enalble"
+msgstr "Enalble"
+
+#: woocommerce/cart/cart-shipping.php:71
+msgid "Enter a different address"
+msgstr "Enter a different address"
+
+#: woocommerce/cart/cart.php:140
+msgid "Enter coupon code"
+msgstr "Enter coupon code"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:124
+#: inc/woocommerce/class-razzi-woo-settings-category.php:209
+msgid "Enter links for each banner here. Divide links with linebreaks (Enter)."
+msgstr ""
+"Enter links for each banner here. Divide links with linebreaks (Enter)."
+
+#: inc/class-razzi-options.php:819
+msgid "Enter popup content. HTML and shortcodes are allowed."
+msgstr "Enter popup content. HTML and shortcodes are allowed."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2434
+msgid "Enter product category name, separate by commas."
+msgstr "Enter product category name, separate by commas."
+
+#: inc/class-razzi-options.php:4512
+msgid "Enter the shortcode of MailChimp form"
+msgstr "Enter the shortcode of MailChimp form"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:101
+msgid "Enter this optional to show your badges."
+msgstr "Enter this optional to show your badges."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:216
+msgid ""
+"Enter URL of Youtube or Vimeo or specific filetypes such as mp4, webm, ogv."
+msgstr ""
+"Enter URL of Youtube or Vimeo or specific filetypes such as mp4, webm, ogv."
+
+#: woocommerce/add-to-wishlist-popup.php:91
+msgid "Enter wishlist name"
+msgstr "Enter wishlist name"
+
+#: woocommerce/cart/cart-shipping.php:64
+msgid "Enter your address to view shipping options."
+msgstr "Enter your address to view shipping options."
+
+#: inc/class-razzi-options.php:3630
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: inc/class-razzi-options.php:718
+msgid "External image URL"
+msgstr "External image URL"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:172
+msgid "External Product"
+msgstr "External Product"
+
+#: inc/libs/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr "External Source"
+
+#: inc/class-razzi-options.php:3850
+msgid "Extra Content"
+msgstr "Extra Content"
+
+#: inc/class-razzi-options.php:3775
+#: inc/woocommerce/class-razzi-woo-customizer.php:1237
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:267
+msgid "Fadein"
+msgstr "Fadein"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1495
+msgid "Featured Badge"
+msgstr "Featured Badge"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:293
+msgid "Featured Icons"
+msgstr "Featured Icons"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:704
+msgid "Featured products"
+msgstr "Featured products"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:966
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:988
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:732
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:1110
+msgid "Filter By"
+msgstr "Filter By"
+
+#: inc/class-razzi-options.php:7278
+msgid "Filter Label"
+msgstr "Filter Label"
+
+#: inc/class-razzi-options.php:5931
+#: inc/admin/class-razzi-admin-meta-boxes.php:494
+msgid "Fixed"
+msgstr "Fixed"
+
+#: inc/class-razzi-options.php:7456
+msgid "Floating Action Button"
+msgstr "Floating Action Button"
+
+#: inc/class-razzi-options.php:957
+msgid "Font Family Default"
+msgstr "Font Family Default"
+
+#: inc/class-razzi-options.php:340
+msgid "Fonts Families"
+msgstr "Fonts Families"
+
+#: inc/class-razzi-options.php:297 inc/class-razzi-options.php:368
+#: inc/class-razzi-options.php:594 inc/class-razzi-widgets.php:67
+msgid "Footer"
+msgstr "Footer"
+
+#: inc/class-razzi-options.php:535
+msgid "Footer Background"
+msgstr "Footer Background"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:535
+msgid "Footer Border"
+msgstr "Footer Border"
+
+#: inc/class-razzi-options.php:4140
+msgid "Footer Copyright"
+msgstr "Footer Copyright"
+
+#: inc/class-razzi-options.php:4726
+msgid "FOOTER EXTRA"
+msgstr "FOOTER EXTRA"
+
+#: inc/class-razzi-options.php:517 inc/class-razzi-options.php:1271
+#: inc/class-razzi-options.php:6656
+msgid "Footer Extra"
+msgstr "Footer Extra"
+
+#: inc/class-razzi-options.php:499
+msgid "Footer Layout"
+msgstr "Footer Layout"
+
+#: inc/class-razzi-options.php:5416
+msgid "FOOTER LINKS"
+msgstr "FOOTER LINKS"
+
+#: inc/class-razzi-options.php:529 inc/class-razzi-options.php:3853
+#: inc/class-razzi-options.php:6719 inc/class-razzi-widgets.php:62
+msgid "Footer Links"
+msgstr "Footer Links"
+
+#: inc/class-razzi-options.php:5293
+msgid "FOOTER MAIN"
+msgstr "FOOTER MAIN"
+
+#: inc/class-razzi-options.php:523 inc/class-razzi-options.php:1311
+#: inc/class-razzi-options.php:3852 inc/class-razzi-options.php:6592
+msgid "Footer Main"
+msgstr "Footer Main"
+
+#: inc/class-razzi-options.php:4850
+msgid "FOOTER NEWSLETTER"
+msgstr "FOOTER NEWSLETTER"
+
+#: inc/class-razzi-options.php:505 inc/class-razzi-options.php:6464
+msgid "Footer Newsletter"
+msgstr "Footer Newsletter"
+
+#: inc/class-razzi-options.php:3845
+msgid "Footer Sections"
+msgstr "Footer Sections"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:522
+msgid "Footer Settings"
+msgstr "Footer Settings"
+
+#: inc/class-razzi-options.php:511 inc/class-razzi-options.php:6528
+msgid "Footer Widget"
+msgstr "Footer Widget"
+
+#: inc/class-razzi-options.php:5118
+msgid "FOOTER WIDGETS"
+msgstr "FOOTER WIDGETS"
+
+#: inc/class-razzi-options.php:1291 inc/class-razzi-options.php:3851
+msgid "Footer Widgets"
+msgstr "Footer Widgets"
+
+#: inc/class-razzi-options.php:3864
+msgid "Footer Width"
+msgstr "Footer Width"
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Forgot Password?"
+msgstr "Forgot Password?"
+
+#: inc/class-razzi-options.php:4511
+msgid "Form"
+msgstr "Form"
+
+#: inc/class-razzi-options.php:850
+msgid "Frequency"
+msgstr "Frequency"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1065
+msgid "From Page"
+msgstr "From Page"
+
+#: inc/class-razzi-options.php:3624 inc/class-razzi-options.php:3750
+msgid "Full Content"
+msgstr "Full Content"
+
+#: inc/class-razzi-options.php:2609
+msgid "Full Width"
+msgstr "Full Width"
+
+#: inc/class-razzi-options.php:266
+msgid "General"
+msgstr "General"
+
+#: inc/class-razzi-options.php:3458
+msgid ""
+"Go to Appearance > Menus > create a new menu and check to Department Menu "
+"location"
+msgstr ""
+"Go to Appearance > Menus > create a new menu and check to Department Menu "
+"location"
+
+#: inc/class-razzi-options.php:4416
+msgid "Go to Appearance > Widgets > Footer Links to add widgets content."
+msgstr "Go to Appearance > Widgets > Footer Links to add widgets content."
+
+#: inc/class-razzi-options.php:3618 inc/class-razzi-options.php:3744
+msgid "Go to appearance > widgets find to blog sidebar to edit your sidebar"
+msgstr "Go to appearance > widgets find to blog sidebar to edit your sidebar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1680
+msgid "Go to appearance > widgets find to catalog sidebar to edit your sidebar"
+msgstr ""
+"Go to appearance > widgets find to catalog sidebar to edit your sidebar"
+
+#: inc/class-razzi-options.php:3910
+msgid "Go to appearance > widgets find to footer sidebar to edit your sidebar"
+msgstr "Go to appearance > widgets find to footer sidebar to edit your sidebar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:904
+msgid "Go to Appearance > Widgets find to Product Sidebar to edit your sidebar"
+msgstr ""
+"Go to Appearance > Widgets find to Product Sidebar to edit your sidebar"
+
+#: 404.php:21
+msgid "Go to homepage"
+msgstr "Go to homepage"
+
+#: inc/class-razzi-options.php:4520
+msgid "Go to MailChimp form"
+msgstr "Go to MailChimp form"
+
+#: inc/class-razzi-options.php:3777
+#: inc/woocommerce/class-razzi-woo-customizer.php:1239
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: inc/class-razzi-options.php:4609
+msgid "Gray"
+msgstr "Gray"
+
+#: inc/class-razzi-options.php:3589
+#: inc/woocommerce/class-razzi-woo-customizer.php:1652
+msgid "Grid"
+msgstr "Grid"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2194
+msgid "Groups"
+msgstr "Groups"
+
+#: inc/class-razzi-header.php:707 inc/class-razzi-options.php:173
+msgid "Hamburger Icon"
+msgstr "Hamburger Icon"
+
+#: inc/class-razzi-options.php:447 inc/class-razzi-setup.php:104
+msgid "Hamburger Menu"
+msgstr "Hamburger Menu"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:282
+msgid "has been added to your cart."
+msgstr "has been added to your cart."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:314
+msgid "has been added to your compare."
+msgstr "has been added to your compare."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:302
+msgid "has been added to your wishlist."
+msgstr "has been added to your wishlist."
+
+#: woocommerce/myaccount/orders.php:42 woocommerce/order/order-details.php:58
+msgctxt "hash before order number"
+msgid "#"
+msgstr "#"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:315
+msgid "have been added to your compare."
+msgstr "have been added to your compare."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:303
+msgid "have been added to your wishlist."
+msgstr "have been added to your wishlist."
+
+#: inc/class-razzi-options.php:277 inc/class-razzi-options.php:352
+#: inc/class-razzi-options.php:586
+#: inc/woocommerce/class-razzi-woo-customizer.php:941
+msgid "Header"
+msgstr "Header"
+
+#: inc/class-razzi-options.php:1731
+msgid "Header Account"
+msgstr "Header Account"
+
+#: inc/class-razzi-options.php:411
+#: inc/admin/class-razzi-admin-meta-boxes.php:150
+msgid "Header Background"
+msgstr "Header Background"
+
+#: inc/class-razzi-widgets.php:61
+msgid "Header Bar"
+msgstr "Header Bar"
+
+#: inc/class-razzi-options.php:407 inc/class-razzi-options.php:1833
+msgid "Header Bottom"
+msgstr "Header Bottom"
+
+#: inc/class-razzi-options.php:2239
+msgid "Header Bottom Custom Color"
+msgstr "Header Bottom Custom Color"
+
+#: inc/class-razzi-options.php:1785
+msgid "Header Cart"
+msgstr "Header Cart"
+
+#: inc/class-razzi-options.php:1767
+msgid "Header Compare"
+msgstr "Header Compare"
+
+#: inc/class-razzi-options.php:1926 inc/class-razzi-options.php:2055
+#: inc/class-razzi-options.php:6346
+msgid "Header Height"
+msgstr "Header Height"
+
+#: inc/class-razzi-options.php:6369
+msgid "Header Icons"
+msgstr "Header Icons"
+
+#: inc/class-razzi-options.php:399 inc/class-razzi-options.php:1687
+#: inc/admin/class-razzi-admin-meta-boxes.php:131
+msgid "Header Layout"
+msgstr "Header Layout"
+
+#: inc/class-razzi-options.php:403 inc/class-razzi-options.php:1832
+msgid "Header Main"
+msgstr "Header Main"
+
+#: inc/class-razzi-options.php:2140
+msgid "Header Main Custom Color"
+msgstr "Header Main Custom Color"
+
+#: inc/class-razzi-options.php:6849
+msgid "Header Menu Panel"
+msgstr "Header Menu Panel"
+
+#: inc/class-razzi-options.php:1713
+msgid "Header Search"
+msgstr "Header Search"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:111
+msgid "Header Settings"
+msgstr "Header Settings"
+
+#: inc/class-razzi-options.php:2113
+msgid "Header Spacing"
+msgstr "Header Spacing"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:159
+msgid "Header Text Color"
+msgstr "Header Text Color"
+
+#: inc/class-razzi-options.php:1676
+msgid "Header Type"
+msgstr "Header Type"
+
+#: inc/class-razzi-options.php:1691
+#: inc/admin/class-razzi-admin-meta-boxes.php:136
+msgid "Header v1"
+msgstr "Header v1"
+
+#: inc/class-razzi-options.php:1700
+#: inc/admin/class-razzi-admin-meta-boxes.php:145
+msgid "Header v10"
+msgstr "Header v10"
+
+#: inc/class-razzi-options.php:1701
+#: inc/admin/class-razzi-admin-meta-boxes.php:146
+msgid "Header v11"
+msgstr "Header v11"
+
+#: inc/class-razzi-options.php:1692
+#: inc/admin/class-razzi-admin-meta-boxes.php:137
+msgid "Header v2"
+msgstr "Header v2"
+
+#: inc/class-razzi-options.php:1693
+#: inc/admin/class-razzi-admin-meta-boxes.php:138
+msgid "Header v3"
+msgstr "Header v3"
+
+#: inc/class-razzi-options.php:1694
+#: inc/admin/class-razzi-admin-meta-boxes.php:139
+msgid "Header v4"
+msgstr "Header v4"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:176
+msgid "Header V4 Spacing"
+msgstr "Header V4 Spacing"
+
+#: inc/class-razzi-options.php:1695
+#: inc/admin/class-razzi-admin-meta-boxes.php:140
+msgid "Header v5"
+msgstr "Header v5"
+
+#: inc/class-razzi-options.php:1696
+#: inc/admin/class-razzi-admin-meta-boxes.php:141
+msgid "Header v6"
+msgstr "Header v6"
+
+#: inc/class-razzi-options.php:1697
+#: inc/admin/class-razzi-admin-meta-boxes.php:142
+msgid "Header v7"
+msgstr "Header v7"
+
+#: inc/class-razzi-options.php:1698
+#: inc/admin/class-razzi-admin-meta-boxes.php:143
+msgid "Header v8"
+msgstr "Header v8"
+
+#: inc/class-razzi-options.php:1699
+#: inc/admin/class-razzi-admin-meta-boxes.php:144
+msgid "Header v9"
+msgstr "Header v9"
+
+#: inc/class-razzi-options.php:1816
+msgid "Header Width"
+msgstr "Header Width"
+
+#: inc/class-razzi-options.php:1749
+msgid "Header Wishlist"
+msgstr "Header Wishlist"
+
+#: inc/class-razzi-options.php:985
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: inc/class-razzi-options.php:1007
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: inc/class-razzi-options.php:1029
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: inc/class-razzi-options.php:1051
+msgid "Heading 4"
+msgstr "Heading 4"
+
+#: inc/class-razzi-options.php:1073
+msgid "Heading 5"
+msgstr "Heading 5"
+
+#: inc/class-razzi-options.php:1095
+msgid "Heading 6"
+msgstr "Heading 6"
+
+#: inc/class-razzi-options.php:4650 inc/class-razzi-options.php:4909
+#: inc/class-razzi-options.php:5202 inc/class-razzi-options.php:5474
+msgid "Heading Color"
+msgstr "Heading Color"
+
+#: inc/class-razzi-options.php:348
+msgid "Headings"
+msgstr "Headings"
+
+#: inc/class-razzi-options.php:1349 inc/class-razzi-options.php:2375
+msgid "Height"
+msgstr "Height"
+
+#: inc/class-razzi-options.php:3468
+msgid "Height (Scrollable)"
+msgstr "Height (Scrollable)"
+
+#. 1: user display name 2: logout url
+#: woocommerce/myaccount/dashboard.php:37
+#, php-format
+msgid "Hello %1$s <span>(not %1$s? <a href=\"%2$s\">Log out</a>)</span>"
+msgstr "Hello %1$s <span>(not %1$s? <a href=\"%2$s\">Log out</a>)</span>"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:541
+msgid "Hide"
+msgstr "Hide"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:170
+msgid "Hide Border Bottom"
+msgstr "Hide Border Bottom"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:284
+msgid "Hide Breadcrumb"
+msgstr "Hide Breadcrumb"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:124
+msgid "Hide Campain Bar"
+msgstr "Hide Campain Bar"
+
+#: inc/class-razzi-options.php:6112
+msgid "Hide Empty Products"
+msgstr "Hide Empty Products"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:528
+msgid "Hide Footer Section"
+msgstr "Hide Footer Section"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:117
+msgid "Hide Header Section"
+msgstr "Hide Header Section"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:582
+msgid "Hide Navigation Bar"
+msgstr "Hide Navigation Bar"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:270
+msgid "Hide Page Header"
+msgstr "Hide Page Header"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1741
+#: inc/woocommerce/class-razzi-woo-customizer.php:2380
+msgid "Hide the content"
+msgstr "Hide the content"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:276
+msgid "Hide Title"
+msgstr "Hide Title"
+
+#: inc/class-razzi-breadcrumbs.php:100 inc/class-razzi-options.php:221
+#: template-parts/navigation-bar/home.php:11
+msgid "Home"
+msgstr "Home"
+
+#: inc/class-razzi-options.php:7326
+msgid "Homepage"
+msgstr "Homepage"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:152
+msgid "Hot"
+msgstr "Hot"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2211
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:883
+msgid "Hot Products"
+msgstr "Hot Products"
+
+#: inc/class-razzi-options.php:3822
+msgid "How many related posts would you like to show"
+msgstr "How many related posts would you like to show"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:750
+#: inc/woocommerce/class-razzi-woo-customizer.php:779
+#: inc/woocommerce/class-razzi-woo-customizer.php:802
+msgid "How many seconds you want to hide the notification."
+msgstr "How many seconds you want to hide the notification."
+
+#. URI of the theme
+msgid "http://demo4.drfuri.com/razzi"
+msgstr "https://inamba.com/"
+
+#. Author URI of the theme
+msgid "http://drfuri.com"
+msgstr "https://inamba.com/"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1012
+#: inc/woocommerce/class-razzi-woo-customizer.php:1023
+msgid "Icon"
+msgstr "Icon"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1013
+#: inc/woocommerce/class-razzi-woo-customizer.php:1024
+msgid "Icon & Title"
+msgstr "Icon & Title"
+
+#: inc/class-razzi-options.php:2590
+msgid "Icon and categories"
+msgstr "Icon and categories"
+
+#: inc/class-razzi-options.php:2591
+msgid "Icon and search field"
+msgstr "Icon and search field"
+
+#: inc/class-razzi-options.php:2897
+msgid "Icon Color"
+msgstr "Icon Color"
+
+#: inc/class-razzi-options.php:2592
+msgid "Icon only"
+msgstr "Icon only"
+
+#: inc/class-razzi-options.php:3264
+msgid "Icon SVG code"
+msgstr "Icon SVG code"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:245
+msgid "Icons & Add to cart button"
+msgstr "Icons & Add to cart button"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:250
+msgid "Icons & Add to cart text"
+msgstr "Icons & Add to cart text"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:244
+msgid "Icons & Quick view button"
+msgstr "Icons & Quick view button"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:246
+msgid "Icons on the bottom"
+msgstr "Icons on the bottom"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:243
+msgid "Icons over thumbnail on hover"
+msgstr "Icons over thumbnail on hover"
+
+#: inc/class-razzi-options.php:3700
+msgid "ID"
+msgstr "ID"
+
+#: inc/class-razzi-options.php:925
+#, php-format
+msgid ""
+"If you are putting your site into maintenance mode for a longer perior of "
+"time, you should set this to \"Coming Soon\". Maintenance will return HTTP "
+"503, Comming Soon will set HTTP to 200. <a href=\"%s\" target=\"_blank"
+"\">Learn more</a>"
+msgstr ""
+"If you are putting your site into maintenance mode for a longer perior of "
+"time, you should set this to \"Coming Soon\". Maintenance will return HTTP "
+"503, Comming Soon will set HTTP to 200. <a href=\"%s\" target=\"_blank"
+"\">Learn more</a>"
+
+#: inc/class-razzi-options.php:803 inc/class-razzi-options.php:2454
+#: inc/class-razzi-options.php:4168 inc/class-razzi-options.php:4173
+#: inc/class-razzi-options.php:4189 inc/class-razzi-options.php:5586
+#: inc/class-razzi-options.php:7043
+#: inc/admin/class-razzi-admin-meta-boxes.php:301
+#: inc/woocommerce/class-razzi-woo-customizer.php:1853
+#: inc/woocommerce/class-razzi-woo-customizer.php:2075
+#: inc/woocommerce/class-razzi-woo-customizer.php:2080
+msgid "Image"
+msgstr "Image"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1041
+msgid "Image Lightbox"
+msgstr "Image Lightbox"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1034
+msgid "Image Zoom"
+msgstr "Image Zoom"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2071
+msgid "Images"
+msgstr "Images"
+
+#: inc/blog/class-razzi-blog-post.php:301
+msgid "in"
+msgstr "in"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1066
+msgid "In Popup"
+msgstr "In Popup"
+
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:143
+msgid "In Stock"
+msgstr "In Stock"
+
+#: inc/woocommerce/class-razzi-woo-template-general.php:394
+msgid "In stock"
+msgstr "In stock"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1637
+msgid "Incremental"
+msgstr "Incremental"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1814
+msgid "Infinite Scroll"
+msgstr "Infinite Scroll"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:249
+msgid "Info on hover"
+msgstr "Info on hover"
+
+#: inc/libs/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr "Install"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:146
+#: inc/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:145
+#: inc/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#. 1: install status, 2: update status
+#: inc/libs/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/libs/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: inc/libs/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: inc/admin/class-razzi-admin-plugin-install.php:147
+#: inc/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: inc/woocommerce/class-razzi-woo-modules-quick-view.php:124
+msgid "Invalid product."
+msgstr "Invalid product."
+
+#: template-parts/content/content-none.php:46
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+
+#: inc/class-razzi-options.php:1382 inc/class-razzi-options.php:1402
+#: inc/class-razzi-options.php:1422 inc/class-razzi-options.php:1850
+#: inc/class-razzi-options.php:1876 inc/class-razzi-options.php:1902
+#: inc/class-razzi-options.php:1979 inc/class-razzi-options.php:2005
+#: inc/class-razzi-options.php:2031 inc/class-razzi-options.php:4010
+#: inc/class-razzi-options.php:4029 inc/class-razzi-options.php:4048
+#: inc/class-razzi-options.php:4323 inc/class-razzi-options.php:6278
+#: inc/class-razzi-options.php:6376 inc/class-razzi-options.php:7376
+msgid "Item"
+msgstr "Item"
+
+#: inc/class-razzi-options.php:7409
+msgid "Item label"
+msgstr "Item label"
+
+#: inc/class-razzi-options.php:4317 inc/class-razzi-options.php:7361
+msgid "Items"
+msgstr "Items"
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: inc/class-razzi-helper.php:49
+msgctxt "Jost font: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/class-razzi-options.php:3372
+msgid "Justify Content"
+msgstr "Justify Content"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:70
+msgid "Kirki"
+msgstr "Kirki"
+
+#: inc/class-razzi-options.php:199 inc/class-razzi-topbar.php:273
+msgid "Language Switcher"
+msgstr "Language Switcher"
+
+#: inc/class-razzi-header.php:713 inc/class-razzi-options.php:179
+msgid "Languages"
+msgstr "Languages"
+
+#: inc/class-razzi-options.php:1821 inc/class-razzi-options.php:3869
+#: inc/admin/class-razzi-admin-meta-boxes.php:368
+#: inc/woocommerce/class-razzi-woo-customizer.php:896
+#: inc/woocommerce/class-razzi-woo-customizer.php:1665
+msgid "Large"
+msgstr "Large"
+
+#: inc/class-razzi-options.php:3741 inc/class-razzi-options.php:3911
+#: inc/class-razzi-options.php:4493 inc/class-razzi-options.php:5562
+#: inc/class-razzi-options.php:6154 inc/class-razzi-options.php:7008
+#: inc/admin/class-razzi-admin-meta-boxes.php:291
+#: inc/woocommerce/class-razzi-woo-customizer.php:1840
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/class-razzi-options.php:4497 inc/class-razzi-options.php:5566
+#: inc/class-razzi-options.php:7012
+#: inc/admin/class-razzi-admin-meta-boxes.php:296
+#: inc/woocommerce/class-razzi-woo-customizer.php:881
+#: inc/woocommerce/class-razzi-woo-customizer.php:1307
+#: inc/woocommerce/class-razzi-woo-customizer.php:1845
+msgid "Layout 1"
+msgstr "Layout 1"
+
+#: inc/class-razzi-options.php:4498 inc/class-razzi-options.php:5567
+#: inc/class-razzi-options.php:7013
+#: inc/admin/class-razzi-admin-meta-boxes.php:297
+#: inc/woocommerce/class-razzi-woo-customizer.php:882
+#: inc/woocommerce/class-razzi-woo-customizer.php:1308
+#: inc/woocommerce/class-razzi-woo-customizer.php:1846
+msgid "Layout 2"
+msgstr "Layout 2"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:883
+msgid "Layout 3"
+msgstr "Layout 3"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:884
+msgid "Layout 4"
+msgstr "Layout 4"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:885
+msgid "Layout 5"
+msgstr "Layout 5"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:886
+msgid "Layout 6"
+msgstr "Layout 6"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2138
+msgid "Layout V1"
+msgstr "Layout V1"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2139
+msgid "Layout V2"
+msgstr "Layout V2"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2140
+msgid "Layout V3"
+msgstr "Layout V3"
+
+#. %s: post title
+#: inc/class-razzi-helper.php:503
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+
+#: inc/class-razzi-options.php:3377 inc/class-razzi-options.php:5869
+#: inc/class-razzi-options.php:7395
+#: inc/admin/class-razzi-admin-meta-boxes.php:459
+msgid "Left"
+msgstr "Left"
+
+#: inc/class-razzi-options.php:1376 inc/class-razzi-options.php:1843
+#: inc/class-razzi-options.php:1972 inc/class-razzi-options.php:4004
+msgid "Left Items"
+msgstr "Left Items"
+
+#: inc/class-razzi-options.php:3623 inc/class-razzi-options.php:3749
+#: inc/woocommerce/class-razzi-woo-customizer.php:908
+#: inc/woocommerce/class-razzi-woo-customizer.php:1684
+msgid "Left Sidebar"
+msgstr "Left Sidebar"
+
+#: inc/class-razzi-options.php:2631 inc/class-razzi-options.php:4608
+#: inc/admin/class-razzi-admin-meta-boxes.php:166
+msgid "Light"
+msgstr "Light"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2480
+msgid "Limit"
+msgstr "Limit"
+
+#: inc/class-razzi-options.php:2796 inc/class-razzi-options.php:4178
+#: inc/woocommerce/class-razzi-woo-customizer.php:2085
+msgid "Link"
+msgstr "Link"
+
+#: inc/class-razzi-options.php:3780
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/class-razzi-options.php:2790
+msgid "Links"
+msgstr "Links"
+
+#. used between list items, there is a space after the comma
+#: inc/class-razzi-helper.php:490
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#: inc/class-razzi-options.php:6270
+msgid "List Items"
+msgstr "List Items"
+
+#: inc/class-razzi-options.php:3588
+msgid "Listing"
+msgstr "Listing"
+
+#: inc/class-razzi-helper.php:114
+#: inc/woocommerce/class-razzi-woo-customizer.php:1813
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:530
+msgid "Load More"
+msgstr "Load More"
+
+#: inc/class-razzi-options.php:6098
+msgid "Load With Ajax"
+msgstr "Load With Ajax"
+
+#: inc/class-razzi-options.php:3638
+msgid "Loading Text"
+msgstr "Loading Text"
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Log in"
+msgstr "Log in"
+
+#: woocommerce/myaccount/form-login.php:28
+msgid "Login"
+msgstr "Login"
+
+#: inc/class-razzi-footer.php:114 inc/class-razzi-header.php:704
+#: inc/class-razzi-options.php:156 inc/class-razzi-options.php:170
+#: inc/class-razzi-options.php:419 inc/class-razzi-options.php:565
+#: inc/class-razzi-options.php:2480 inc/class-razzi-options.php:4216
+#: inc/woocommerce/class-razzi-woo-customizer.php:995
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/class-razzi-options.php:2543 inc/class-razzi-options.php:4291
+#: inc/class-razzi-options.php:6826 inc/class-razzi-options.php:6912
+msgid "Logo Dimension"
+msgstr "Logo Dimension"
+
+#: inc/class-razzi-options.php:2559 inc/class-razzi-options.php:4266
+msgid "Logo Font"
+msgstr "Logo Font"
+
+#: inc/class-razzi-options.php:2512 inc/class-razzi-options.php:6813
+msgid "Logo Light"
+msgstr "Logo Light"
+
+#: inc/class-razzi-options.php:2493
+msgid "Logo Light SVG"
+msgstr "Logo Light SVG"
+
+#: inc/class-razzi-options.php:2461 inc/class-razzi-options.php:4197
+msgid "Logo SVG"
+msgstr "Logo SVG"
+
+#: inc/class-razzi-options.php:2525 inc/class-razzi-options.php:4229
+msgid "Logo Text"
+msgstr "Logo Text"
+
+#: inc/class-razzi-options.php:2450 inc/class-razzi-options.php:4185
+msgid "Logo Type"
+msgstr "Logo Type"
+
+#: template-parts/headers/account.php:36
+msgid "Logout"
+msgstr "Logout"
+
+#: template-parts/modals/account.php:37 woocommerce/myaccount/form-login.php:48
+msgid "Lost your password?"
+msgstr "Lost your password?"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:107
+msgid "MailChimp for WordPress"
+msgstr "MailChimp for WordPress"
+
+#: inc/class-razzi-options.php:344
+msgid "Main"
+msgstr "Main"
+
+#: inc/class-razzi-options.php:313 inc/class-razzi-options.php:928
+msgid "Maintenance"
+msgstr "Maintenance"
+
+#: inc/class-razzi-options.php:942
+msgid "Maintenance Page"
+msgstr "Maintenance Page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1653
+msgid "Masonry"
+msgstr "Masonry"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:255
+msgid "Max"
+msgstr "Max"
+
+#: inc/class-razzi-footer.php:110 inc/class-razzi-options.php:152
+#: inc/class-razzi-options.php:222 inc/class-razzi-options.php:547
+#: inc/class-razzi-options.php:1118 inc/class-razzi-options.php:1437
+#: inc/class-razzi-options.php:4148 inc/class-razzi-options.php:7428
+#: template-parts/navigation-bar/menu.php:11
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/class-razzi-header.php:734 inc/class-razzi-options.php:245
+msgid "Menu Icon"
+msgstr "Menu Icon"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:63
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:254
+msgid "Min"
+msgstr "Min"
+
+#: inc/class-razzi-options.php:3354
+msgid "Mini Cart Buttons"
+msgstr "Mini Cart Buttons"
+
+#: inc/libs/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: inc/class-razzi-options.php:303
+msgid "Mobile"
+msgstr "Mobile"
+
+#: inc/class-razzi-options.php:6973
+msgid "Mobile Landscape(767px)"
+msgstr "Mobile Landscape(767px)"
+
+#: inc/class-razzi-options.php:6796
+msgid "Mobile Logo"
+msgstr "Mobile Logo"
+
+#: inc/class-razzi-setup.php:107
+msgid "Mobile Menu"
+msgstr "Mobile Menu"
+
+#: inc/class-razzi-options.php:6984
+msgid "Mobile Portrait(479px)"
+msgstr "Mobile Portrait(479px)"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:576
+msgid "Mobile Settings"
+msgstr "Mobile Settings"
+
+#: inc/class-razzi-options.php:623 inc/class-razzi-options.php:7309
+msgid "Mobile Version"
+msgstr "Mobile Version"
+
+#: inc/class-razzi-options.php:923
+msgid "Mode"
+msgstr "Mode"
+
+#: inc/class-razzi-breadcrumbs.php:108
+msgid "Monthly:"
+msgstr "Monthly:"
+
+#: woocommerce/myaccount/orders.php:82
+msgid "more"
+msgstr "more"
+
+#: inc/woocommerce/class-razzi-woo-modules-quick-view.php:185
+msgid "More Product Info"
+msgstr "More Product Info"
+
+#. Description of the theme
+msgid "Multipurpose WooCommerce WordPress Theme"
+msgstr "Multipurpose WooCommerce WordPress Theme"
+
+#: woocommerce/order/order-details-customer.php:42
+#: woocommerce/order/order-details-customer.php:60
+#: woocommerce/single-product/meta.php:36
+msgid "N/A"
+msgstr "N/A"
+
+#: inc/class-razzi-comments.php:154
+msgid "Name"
+msgstr "Name"
+
+#: inc/class-razzi-options.php:6243
+msgid "Navigation"
+msgstr "Navigation"
+
+#: inc/class-razzi-options.php:7348
+msgid "Navigation Bar"
+msgstr "Navigation Bar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1809
+msgid "Navigation Type"
+msgstr "Navigation Type"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:147
+msgid "New"
+msgstr "New"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1413
+msgid "New Badge"
+msgstr "New Badge"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:127
+msgid "New product?"
+msgstr "New product?"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2212
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:884
+msgid "New Products"
+msgstr "New Products"
+
+#: inc/class-razzi-options.php:3849
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: inc/class-razzi-options.php:833
+msgid "NewsLetter Form"
+msgstr "NewsLetter Form"
+
+#: inc/class-razzi-options.php:374 inc/class-razzi-options.php:578
+msgid "Newsletter Popup"
+msgstr "Newsletter Popup"
+
+#: inc/class-razzi-options.php:6887
+msgid "Newsletter_Popup"
+msgstr "Newsletter_Popup"
+
+#: woocommerce/myaccount/orders.php:112
+msgid "Next"
+msgstr "Next"
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: woocommerce/myaccount/orders.php:120
+msgid "No order has been made yet."
+msgstr "No order has been made yet."
+
+#: inc/libs/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: inc/libs/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: inc/libs/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: inc/libs/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: inc/libs/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: inc/libs/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: inc/libs/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: inc/woocommerce/class-razzi-woo-modules-quick-view.php:114
+msgid "No product."
+msgstr "No product."
+
+#: inc/class-razzi-options.php:5909
+#: inc/admin/class-razzi-admin-meta-boxes.php:481
+msgid "No Repeat"
+msgstr "No Repeat"
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:70
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "No shipping options were found for %s."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:909
+#: inc/woocommerce/class-razzi-woo-customizer.php:1685
+msgid "No Sidebar"
+msgstr "No Sidebar"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:377
+#: inc/admin/class-razzi-admin-meta-boxes.php:399
+msgid "No spacing"
+msgstr "No spacing"
+
+#: inc/class-razzi-options.php:5868 inc/class-razzi-options.php:5888
+#: inc/class-razzi-options.php:5908 inc/class-razzi-options.php:5929
+#: inc/class-razzi-options.php:5948 inc/class-razzi-options.php:7352
+#: inc/woocommerce/class-razzi-woo-customizer.php:691
+#: inc/woocommerce/class-razzi-woo-customizer.php:702
+#: inc/woocommerce/class-razzi-woo-customizer.php:985
+#: inc/woocommerce/class-razzi-woo-customizer.php:1011
+#: inc/woocommerce/class-razzi-woo-customizer.php:1022
+#: inc/woocommerce/class-razzi-woo-customizer.php:1844
+#: inc/woocommerce/class-razzi-woo-customizer.php:2582
+#: inc/woocommerce/class-razzi-woo-settings-product.php:287
+msgid "None"
+msgstr "None"
+
+#: inc/class-razzi-options.php:1820 inc/class-razzi-options.php:3868
+#: inc/admin/class-razzi-admin-meta-boxes.php:367
+#: inc/woocommerce/class-razzi-woo-customizer.php:895
+#: inc/woocommerce/class-razzi-woo-customizer.php:1664
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/class-razzi-breadcrumbs.php:104
+msgid "Not Found"
+msgstr "Not Found"
+
+#: inc/libs/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: woocommerce/order/order-details.php:132
+msgid "Note:"
+msgstr "Note:"
+
+#: template-parts/content/content-none.php:16
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: inc/class-razzi-modules-search-ajax.php:96
+msgid "Nothing matches your search"
+msgstr "Nothing matches your search"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:735
+msgid "Number of products"
+msgstr "Number of products"
+
+#: inc/class-razzi-options.php:3821 inc/class-razzi-options.php:6229
+msgid "Numbers"
+msgstr "Numbers"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1812
+msgid "Numeric"
+msgstr "Numeric"
+
+#: inc/class-razzi-helper.php:95
+msgid "of"
+msgstr "of"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:207
+msgid "On Hover"
+msgstr "On Hover"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:208
+msgid "On Page Load"
+msgstr "On Page Load"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:689
+msgid "Open cart popup"
+msgstr "Open cart popup"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2321
+msgid "Open filters bellow"
+msgstr "Open filters bellow"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2320
+msgid "Open filters on side"
+msgstr "Open filters on side"
+
+#: inc/class-razzi-options.php:7303
+#: inc/woocommerce/class-razzi-woo-customizer.php:1127
+msgid "Open first tab"
+msgstr "Open first tab"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:688
+msgid "Open mini cart panel"
+msgstr "Open mini cart panel"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1274
+msgid "Open new tab"
+msgstr "Open new tab"
+
+#: inc/class-razzi-options.php:3032
+msgid "Open the account page"
+msgstr "Open the account page"
+
+#: inc/class-razzi-options.php:3031
+msgid "Open the account panel"
+msgstr "Open the account panel"
+
+#: inc/class-razzi-options.php:3226
+msgid "Open the cart page"
+msgstr "Open the cart page"
+
+#: inc/class-razzi-options.php:3225
+msgid "Open the cart panel"
+msgstr "Open the cart panel"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1042
+msgid "Opens your images against a dark backdrop"
+msgstr "Opens your images against a dark backdrop"
+
+#: woocommerce/add-to-wishlist-popup.php:66
+#: woocommerce/add-to-wishlist-remove.php:61
+msgid "or"
+msgstr "or"
+
+#: woocommerce/myaccount/orders.php:54 woocommerce/order/order-details.php:69
+msgid "Order Amount:"
+msgstr "Order Amount:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2266
+#: inc/woocommerce/class-razzi-woo-customizer.php:2490
+msgid "Order By"
+msgstr "Order By"
+
+#: woocommerce/order/order-details.php:46
+msgid "Order item"
+msgstr "Order item"
+
+#: woocommerce/order/order-details.php:43
+msgid "Order items"
+msgstr "Order items"
+
+#: woocommerce/myaccount/orders.php:40 woocommerce/order/order-details.php:57
+msgid "Order No:"
+msgstr "Order No:"
+
+#: woocommerce/order/order-details.php:116
+msgid "Order Total"
+msgstr "Order Total"
+
+#: inc/class-razzi-maintenance.php:78
+msgid ""
+"Our website is currently undergoing scheduled maintenance. Please check back "
+"soon."
+msgstr ""
+"Our website is currently undergoing scheduled maintenance. Please check back "
+"soon."
+
+#: inc/class-razzi-maintenance.php:76
+msgid ""
+"Our website is under construction. We will be here soon with our new awesome "
+"site."
+msgstr ""
+"Our website is under construction. We will be here soon with our new awesome "
+"site."
+
+#: inc/class-razzi-options.php:5790 inc/class-razzi-options.php:6057
+#: inc/class-razzi-options.php:6496 inc/class-razzi-options.php:6560
+#: inc/class-razzi-options.php:6624 inc/class-razzi-options.php:6688
+#: inc/class-razzi-options.php:6751 inc/class-razzi-options.php:7189
+#: inc/woocommerce/class-razzi-woo-customizer.php:1931
+msgid "Padding Bottom"
+msgstr "Padding Bottom"
+
+#: inc/class-razzi-options.php:5753 inc/class-razzi-options.php:6025
+#: inc/class-razzi-options.php:6471 inc/class-razzi-options.php:6535
+#: inc/class-razzi-options.php:6599 inc/class-razzi-options.php:6663
+#: inc/class-razzi-options.php:6726 inc/class-razzi-options.php:7158
+#: inc/woocommerce/class-razzi-woo-customizer.php:1899
+msgid "Padding Top"
+msgstr "Padding Top"
+
+#: inc/class-razzi-options.php:283 inc/class-razzi-options.php:356
+#: inc/class-razzi-options.php:602
+msgid "Page"
+msgstr "Page"
+
+#: inc/class-razzi-options.php:465 inc/class-razzi-options.php:6391
+#: inc/class-razzi-options.php:6424 inc/class-razzi-options.php:6997
+#: inc/woocommerce/class-razzi-woo-customizer.php:186
+#: inc/woocommerce/class-razzi-woo-customizer.php:2163
+msgid "Page Header"
+msgstr "Page Header"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:130
+#: inc/woocommerce/class-razzi-woo-settings-category.php:216
+#: inc/woocommerce/class-razzi-woo-settings-category.php:262
+#: inc/woocommerce/class-razzi-woo-settings-category.php:291
+msgid "Page Header Background"
+msgstr "Page Header Background"
+
+#: inc/class-razzi-options.php:5600 inc/class-razzi-options.php:5987
+#: inc/class-razzi-options.php:6402 inc/class-razzi-options.php:6435
+#: inc/class-razzi-options.php:7231
+msgid "Page Header Elements"
+msgstr "Page Header Elements"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:264
+msgid "Page Header Settings"
+msgstr "Page Header Settings"
+
+#: inc/class-razzi-page-header.php:98
+msgid "Page Not Found"
+msgstr "Page Not Found"
+
+#: inc/class-razzi-options.php:7014
+#: inc/woocommerce/class-razzi-woo-customizer.php:1847
+msgid "Page Template"
+msgstr "Page Template"
+
+#: inc/class-razzi-options.php:1159
+msgid "Page Title"
+msgstr "Page Title"
+
+#: inc/class-razzi-page.php:61 inc/blog/class-razzi-blog-post.php:383
+msgid "Pages:"
+msgstr "Pages:"
+
+#: inc/class-razzi-options.php:598
+msgid "Panel"
+msgstr "Panel"
+
+#: inc/class-razzi-options.php:2688
+msgid "Panel Search Title"
+msgstr "Panel Search Title"
+
+#: template-parts/modals/account.php:24 template-parts/modals/account.php:82
+msgid "Password"
+msgstr "Password"
+
+#: woocommerce/myaccount/form-login.php:38
+#: woocommerce/myaccount/form-login.php:85
+msgid "Password *"
+msgstr "Password *"
+
+#: inc/class-razzi-options.php:2463 inc/class-razzi-options.php:2495
+#: inc/class-razzi-options.php:4199
+msgid "Paste SVG code of your logo here"
+msgstr "Paste SVG code of your logo here"
+
+#: inc/class-razzi-options.php:4164
+msgid "Payment Images"
+msgstr "Payment Images"
+
+#: woocommerce/order/order-details.php:73
+msgid "Payment method:"
+msgstr "Payment method:"
+
+#: inc/class-razzi-footer.php:112 inc/class-razzi-options.php:154
+#: inc/class-razzi-options.php:559
+msgid "Payments"
+msgstr "Payments"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1337
+msgid "Percentage"
+msgstr "Percentage"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:142
+msgid ""
+"Pick a background color for product page. Or leave it empty to automatically "
+"detect the background from product main image."
+msgstr ""
+"Pick a background color for product page. Or leave it empty to automatically "
+"detect the background from product main image."
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:110
+msgid "Pick background color for your badge"
+msgstr "Pick background color for your badge"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:120
+msgid "Pick color for your badge"
+msgstr "Pick color for your badge"
+
+#: inc/class-razzi-options.php:662
+msgid "Pick my favorite color"
+msgstr "Pick my favorite color"
+
+#: inc/class-razzi-options.php:3779
+#: inc/woocommerce/class-razzi-woo-customizer.php:1240
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: template-parts/navigation-bar/add-to-order.php:10
+msgid "Place order"
+msgstr "Place order"
+
+#: inc/class-razzi-options.php:2715
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: inc/woocommerce/class-razzi-woo-template-single-product.php:637
+msgid "Play Video"
+msgstr "Play Video"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1061
+msgid "Play video"
+msgstr "Play video"
+
+#: inc/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: inc/libs/class-tgm-plugin-activation.php:1019
+#: inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+
+#: woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Please enter your Email Address. You will receive a link to create a new "
+"password via Email."
+msgstr ""
+"Please enter your Email Address. You will receive a link to create a new "
+"password via Email."
+
+#: inc/libs/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/libs/class-tgm-plugin-activation.php:1206
+#: inc/libs/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:160
+#: inc/libs/class-tgm-plugin-activation.php:394
+#: inc/libs/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: inc/libs/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#: inc/class-razzi-options.php:3783
+msgid "Pocket"
+msgstr "Pocket"
+
+#: inc/class-razzi-options.php:818
+msgid "Popup Content"
+msgstr "Popup Content"
+
+#: inc/class-razzi-options.php:784
+msgid "Popup Layout"
+msgstr "Popup Layout"
+
+#: inc/class-razzi-options.php:870
+msgid "Popup Visible"
+msgstr "Popup Visible"
+
+#: inc/class-razzi-breadcrumbs.php:105 inc/class-razzi-breadcrumbs.php:165
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: inc/class-razzi-options.php:2358
+#: inc/woocommerce/class-razzi-woo-customizer.php:370
+msgid "Position"
+msgstr "Position"
+
+#: inc/class-razzi-helper.php:88
+msgid "post"
+msgstr "post"
+
+#. %s: post author.
+#: inc/blog/class-razzi-blog-post.php:263
+#, php-format
+msgctxt "post author"
+msgid " by %s"
+msgstr " by %s"
+
+#. 1: list of categories.
+#: inc/class-razzi-helper.php:486
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#: inc/class-razzi-helper.php:88
+msgid "posts"
+msgstr "posts"
+
+#: inc/libs/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/class-razzi-options.php:380 inc/class-razzi-options.php:712
+#: template-parts/preloader/preloader.php:27
+msgid "Preloader"
+msgstr "Preloader"
+
+#: inc/class-razzi-options.php:731
+msgid "Preloader Image"
+msgstr "Preloader Image"
+
+#: inc/class-razzi-options.php:749
+msgid "Preloader URL"
+msgstr "Preloader URL"
+
+#: woocommerce/myaccount/orders.php:108
+msgid "Previous"
+msgstr "Previous"
+
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:133
+msgid "Price"
+msgstr "Price"
+
+#: inc/class-razzi-options.php:2343
+msgid "Primary Color"
+msgstr "Primary Color"
+
+#: inc/class-razzi-header.php:705 inc/class-razzi-options.php:171
+#: inc/class-razzi-options.php:197 inc/class-razzi-options.php:443
+#: inc/class-razzi-setup.php:102 inc/class-razzi-topbar.php:270
+#: inc/admin/class-razzi-admin-meta-boxes.php:197
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: inc/class-razzi-options.php:1596
+msgid "Primary Menu Color"
+msgstr "Primary Menu Color"
+
+#: inc/class-razzi-options.php:1616
+msgid "Primary Menu Hover Color"
+msgstr "Primary Menu Hover Color"
+
+#: template-parts/navigation-bar/add-to-checkout.php:21
+msgid "Proceed to checkout"
+msgstr "Proceed to checkout"
+
+#: woocommerce/checkout/review-order.php:23
+msgid "Product"
+msgstr "Product"
+
+#: inc/class-razzi-helper.php:91
+msgid "product"
+msgstr "product"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:481
+#: inc/woocommerce/class-razzi-woo-settings-product.php:294
+msgid "Product Attribute"
+msgstr "Product Attribute"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:496
+msgid "Product Attribute In"
+msgstr "Product Attribute In"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:518
+#: inc/woocommerce/class-razzi-woo-settings-product.php:304
+msgid "Product Attribute Number"
+msgstr "Product Attribute Number"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:141
+msgid "Product Background Color"
+msgstr "Product Background Color"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1295
+msgid "Product Badges"
+msgstr "Product Badges"
+
+#: inc/class-razzi-options.php:614
+#: inc/woocommerce/class-razzi-woo-customizer.php:69
+msgid "Product Catalog"
+msgstr "Product Catalog"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2230
+msgid ""
+"Product categories. Enter category names, separate by commas. Leave empty to "
+"get all categories. Enter a number to get limit number of top categories."
+msgstr ""
+"Product categories. Enter category names, separate by commas. Leave empty to "
+"get all categories. Enter a number to get limit number of top categories."
+
+#: inc/class-razzi-options.php:6968
+msgid "Product Columns"
+msgstr "Product Columns"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:891
+msgid "Product Content Width"
+msgstr "Product Content Width"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2273
+#: inc/woocommerce/class-razzi-woo-customizer.php:2497
+msgid "Product Counts"
+msgstr "Product Counts"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2303
+msgid "Product Filter"
+msgstr "Product Filter"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:260
+msgid "Product hover animation."
+msgstr "Product hover animation."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:147
+#: inc/woocommerce/class-razzi-woo-customizer.php:877
+msgid "Product Layout"
+msgstr "Product Layout"
+
+#: inc/class-razzi-options.php:6930
+#: inc/woocommerce/class-razzi-woo-customizer.php:102
+msgid "Product Loop"
+msgstr "Product Loop"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:259
+msgid "Product Loop Hover"
+msgstr "Product Loop Hover"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:238
+msgid "Product Loop Layout"
+msgstr "Product Loop Layout"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1076
+msgid "Product Meta"
+msgstr "Product Meta"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1438
+msgid "Product Newness"
+msgstr "Product Newness"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:111
+msgid "Product Notifications"
+msgstr "Product Notifications"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:129
+msgid "Product Qty"
+msgstr "Product Qty"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:167
+#: inc/woocommerce/class-razzi-woo-customizer.php:1223
+msgid "Product Sharing"
+msgstr "Product Sharing"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2398
+msgid "Product Sorting"
+msgstr "Product Sorting"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1105
+msgid "Product Tabs Position"
+msgstr "Product Tabs Position"
+
+#: inc/class-razzi-options.php:7298
+#: inc/woocommerce/class-razzi-woo-customizer.php:1122
+msgid "Product Tabs Status"
+msgstr "Product Tabs Status"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:351
+#: inc/woocommerce/class-razzi-woo-customizer.php:977
+msgid "Product Taxonomy"
+msgstr "Product Taxonomy"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:990
+msgid "Product Taxonomy Type"
+msgstr "Product Taxonomy Type"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1168
+msgid "Product Variable Style"
+msgstr "Product Variable Style"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:238
+msgid "Product Video"
+msgstr "Product Video"
+
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:927
+msgid "Products"
+msgstr "Products"
+
+#: inc/class-razzi-helper.php:91
+msgid "products"
+msgstr "products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2473
+msgid "Products Count"
+msgstr "Products Count"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2317
+msgid "Products Filter Open"
+msgstr "Products Filter Open"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2190
+msgid "Products Tabs"
+msgstr "Products Tabs"
+
+#: inc/class-razzi-options.php:917
+msgid "Put your site into maintenance mode"
+msgstr "Put your site into maintenance mode"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1632
+msgid "Qty Input"
+msgstr "Qty Input"
+
+#: woocommerce/cart/mini-cart.php:62
+msgid "QTY:"
+msgstr "QTY:"
+
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:155
+msgid "Quantity"
+msgstr "Quantity"
+
+#: inc/class-razzi-header.php:1094
+msgid "Quick Links"
+msgstr "Quick Links"
+
+#: inc/class-razzi-options.php:2783
+msgid "Quick links"
+msgstr "Quick links"
+
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1228
+msgid "Quick Shop"
+msgstr "Quick Shop"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:251
+msgid "Quick Shop button"
+msgstr "Quick Shop button"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:212
+#: inc/woocommerce/class-razzi-woo-customizer.php:299
+#: inc/woocommerce/class-razzi-woo-helper.php:285
+#: inc/woocommerce/class-razzi-woo-helper.php:287
+msgid "Quick View"
+msgstr "Quick View"
+
+#. 1: rating 2: rating count
+#: inc/woocommerce/class-razzi-woo-template-general.php:367
+#, php-format
+msgid "Rated %1$s out of 5 based on %2$s customer rating"
+msgid_plural "Rated %1$s out of 5 based on %2$s customer ratings"
+msgstr[0] "Rated %1$s out of 5 based on %2$s customer rating"
+msgstr[1] "Rated %1$s out of 5 based on %2$s customer ratings"
+
+#. %s: rating
+#: inc/woocommerce/class-razzi-woo-template-general.php:370
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1383
+#, php-format
+msgid "Rated %s out of 5"
+msgstr "Rated %s out of 5"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:346
+msgid "Rating"
+msgstr "Rating"
+
+#. Name of the theme
+msgid "Razzi"
+msgstr "Inamba"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:91
+msgid "Razzi Addons"
+msgstr "Inamba Razzi Addons"
+
+#: inc/blog/class-razzi-blog-post-loop.php:150
+msgid "Read more"
+msgstr "Read more"
+
+#. 1: link to WP admin new post page.
+#: template-parts/content/content-none.php:26
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:705
+msgid "Recent products"
+msgstr "Recent products"
+
+#: inc/class-razzi-options.php:572 inc/class-razzi-options.php:6090
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:223
+msgid "Recently Viewed"
+msgstr "Recently Viewed"
+
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:115
+msgid ""
+"Recently Viewed Products is a function which helps you keep track of your "
+"recent viewing history."
+msgstr ""
+"Recently Viewed Products is a function which helps you keep track of your "
+"recent viewing history."
+
+#: inc/libs/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr "Recommended"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:697
+msgid "Recommended Products"
+msgstr "Recommended Products"
+
+#: inc/class-razzi-options.php:3781
+msgid "Reddit"
+msgstr "Reddit"
+
+#: woocommerce/myaccount/form-login.php:64
+#: woocommerce/myaccount/form-login.php:98
+msgid "Register"
+msgstr "Register"
+
+#: inc/class-razzi-options.php:3800
+#: inc/blog/class-razzi-blog-related-posts.php:67
+msgid "Related Posts"
+msgstr "Related Posts"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:157
+msgid "Related Products"
+msgstr "Related Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:708
+msgid "Related products"
+msgstr "Related products"
+
+#: template-parts/modals/account.php:34 woocommerce/myaccount/form-login.php:45
+msgid "Remember me"
+msgstr "Remember me"
+
+#: woocommerce/cart/cart.php:116 woocommerce/cart/mini-cart.php:80
+msgid "Remove"
+msgstr "Remove"
+
+#: woocommerce/cart/cart.php:111 woocommerce/cart/mini-cart.php:75
+msgid "Remove this item"
+msgstr "Remove this item"
+
+#: inc/class-razzi-options.php:5910
+#: inc/admin/class-razzi-admin-meta-boxes.php:482
+msgid "Repeat"
+msgstr "Repeat"
+
+#: inc/class-razzi-options.php:5912
+#: inc/admin/class-razzi-admin-meta-boxes.php:484
+msgid "Repeat Horizontal"
+msgstr "Repeat Horizontal"
+
+#: inc/class-razzi-options.php:5911
+#: inc/admin/class-razzi-admin-meta-boxes.php:483
+msgid "Repeat Vertical"
+msgstr "Repeat Vertical"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2248
+#: inc/woocommerce/class-razzi-woo-customizer.php:2466
+msgid "Replace by sub-categories"
+msgstr "Replace by sub-categories"
+
+#: inc/libs/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr "Required"
+
+#: inc/libs/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: inc/libs/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: woocommerce/myaccount/form-lost-password.php:39
+msgid "Reset password"
+msgstr "Reset password"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:159
+#: inc/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: inc/libs/class-tgm-plugin-activation.php:393
+#: inc/libs/class-tgm-plugin-activation.php:912
+#: inc/libs/class-tgm-plugin-activation.php:2618
+#: inc/libs/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: inc/woocommerce/class-razzi-woo-elements-product-slider.php:176
+#: inc/woocommerce/class-razzi-woo-template-product-loop.php:1375
+#: woocommerce/single-product/rating.php:38
+#, php-format
+msgid "Review (%s)"
+msgid_plural "Reviews (%s)"
+msgstr[0] "Review (%s)"
+msgstr[1] "Reviews (%s)"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:393
+msgid "Review Counter"
+msgstr "Review Counter"
+
+#: inc/class-razzi-options.php:3378 inc/class-razzi-options.php:5871
+#: inc/class-razzi-options.php:7396
+#: inc/admin/class-razzi-admin-meta-boxes.php:461
+msgid "Right"
+msgstr "Right"
+
+#: inc/class-razzi-options.php:874
+msgid "Right after page loads"
+msgstr "Right after page loads"
+
+#: inc/class-razzi-options.php:1416 inc/class-razzi-options.php:1895
+#: inc/class-razzi-options.php:2024 inc/class-razzi-options.php:4042
+msgid "Right Items"
+msgstr "Right Items"
+
+#: inc/class-razzi-options.php:3622 inc/class-razzi-options.php:3748
+#: inc/woocommerce/class-razzi-woo-customizer.php:907
+#: inc/woocommerce/class-razzi-woo-customizer.php:1683
+msgid "Right Sidebar"
+msgstr "Right Sidebar"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:187
+msgid "Sale"
+msgstr "Sale"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1323
+msgid "Sale Badge"
+msgstr "Sale Badge"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2213
+#: inc/woocommerce/class-razzi-woo-template-catalog.php:885
+msgid "Sale Products"
+msgstr "Sale Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:706
+msgid "Sale products"
+msgstr "Sale products"
+
+#: inc/class-razzi-options.php:5930
+#: inc/admin/class-razzi-admin-meta-boxes.php:493
+msgid "Scroll"
+msgstr "Scroll"
+
+#: inc/class-razzi-options.php:6247
+#: inc/woocommerce/class-razzi-woo-customizer.php:1215
+msgid "Scrollbar"
+msgstr "Scrollbar"
+
+#: inc/class-razzi-options.php:223 inc/class-razzi-options.php:423
+#: template-parts/modals/search.php:20
+#: template-parts/navigation-bar/search.php:11
+msgid "Search"
+msgstr "Search"
+
+#: inc/class-razzi-options.php:2663
+msgid "Search For"
+msgstr "Search For"
+
+#: inc/class-razzi-options.php:2667
+msgid "Search for everything"
+msgstr "Search for everything"
+
+#: template-parts/headers/search.php:12 template-parts/headers/search.php:17
+#: template-parts/mobile/header-panel-search.php:13
+#: template-parts/search-form/form-modal.php:45
+msgid "Search for items"
+msgstr "Search for items"
+
+#: inc/class-razzi-options.php:2668
+msgid "Search for products"
+msgstr "Search for products"
+
+#: inc/class-razzi-options.php:2702
+msgid "Search Form"
+msgstr "Search Form"
+
+#: inc/class-razzi-options.php:2653
+msgid "Search Form Type"
+msgstr "Search Form Type"
+
+#: inc/class-razzi-header.php:708 inc/class-razzi-header.php:735
+#: inc/class-razzi-options.php:174 inc/class-razzi-options.php:246
+msgid "Search Icon"
+msgstr "Search Icon"
+
+#: inc/class-razzi-options.php:2586
+msgid "Search Layout"
+msgstr "Search Layout"
+
+#: template-parts/modals/search.php:18
+msgid "Search Products"
+msgstr "Search Products"
+
+#: inc/class-razzi-breadcrumbs.php:103
+msgid "Search results for"
+msgstr "Search results for"
+
+#: inc/class-razzi-page-header.php:96
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
+
+#: inc/class-razzi-modules-search-ajax.php:106
+msgid "Search Results:"
+msgstr "Search Results:"
+
+#: inc/class-razzi-options.php:2626
+msgid "Search Skin"
+msgstr "Search Skin"
+
+#: inc/class-razzi-options.php:2604
+msgid "Search Style"
+msgstr "Search Style"
+
+#: inc/class-razzi-header.php:706 inc/class-razzi-options.php:172
+#: inc/class-razzi-setup.php:103 inc/class-razzi-topbar.php:271
+msgid "Secondary Menu"
+msgstr "Secondary Menu"
+
+#: inc/class-razzi-options.php:1677
+msgid "Select a default header or custom header"
+msgstr "Select a default header or custom header"
+
+#: inc/class-razzi-header.php:703 inc/class-razzi-options.php:169
+msgid "Select a item"
+msgstr "Select a item"
+
+#: inc/class-razzi-options.php:3846
+msgid "Select and order footer contents"
+msgstr "Select and order footer contents"
+
+#: inc/class-razzi-options.php:118
+#: inc/woocommerce/class-razzi-woo-customizer.php:2529
+msgid "Select Category"
+msgstr "Select Category"
+
+#: inc/class-razzi-options.php:3620 inc/class-razzi-options.php:3746
+msgid "Select default sidebar for the single post page."
+msgstr "Select default sidebar for the single post page."
+
+#: inc/class-razzi-options.php:7518
+msgid "Select Menu"
+msgstr "Select Menu"
+
+#: inc/class-razzi-options.php:3912
+msgid "Select number of columns for displaying widgets"
+msgstr "Select number of columns for displaying widgets"
+
+#: inc/class-razzi-options.php:3670
+msgid "Select product categories you want to show."
+msgstr "Select product categories you want to show."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1229
+msgid "Select social media for sharing products"
+msgstr "Select social media for sharing products"
+
+#: inc/class-razzi-options.php:924
+msgid "Select the correct mode for your site"
+msgstr "Select the correct mode for your site"
+
+#: inc/class-razzi-options.php:3865
+msgid "Select the width of footer container"
+msgstr "Select the width of footer container"
+
+#: inc/class-razzi-options.php:871
+msgid "Select when the popup appear"
+msgstr "Select when the popup appear"
+
+#: inc/class-razzi-options.php:5608 inc/class-razzi-options.php:5995
+#: inc/class-razzi-options.php:6410 inc/class-razzi-options.php:6443
+#: inc/class-razzi-options.php:7239
+#: inc/woocommerce/class-razzi-woo-customizer.php:1874
+msgid "Select which elements you want to show."
+msgstr "Select which elements you want to show."
+
+#: inc/woocommerce/class-razzi-woo-template-single-product.php:464
+msgid "Share:"
+msgstr "Share:"
+
+#: woocommerce/order/order-details-customer.php:58
+msgid "Shipping address"
+msgstr "Shipping address"
+
+#: woocommerce/cart/cart-shipping.php:62
+msgid "Shipping costs are calculated during checkout."
+msgstr "Shipping costs are calculated during checkout."
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr "Shipping options will be updated during checkout."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr "Shipping to %s."
+
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:117
+msgid "Shop Now"
+msgstr "Shop Now"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:542
+msgid "Show"
+msgstr "Show"
+
+#: inc/class-razzi-options.php:769
+msgid "Show a newsletter popup after website loaded."
+msgstr "Show a newsletter popup after website loaded."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:979
+msgid "Show a taxonomy above the product title"
+msgstr "Show a taxonomy above the product title"
+
+#: inc/class-razzi-options.php:682
+msgid "Show a waiting screen when page is loading"
+msgstr "Show a waiting screen when page is loading"
+
+#: inc/class-razzi-options.php:6954
+msgid "Show Add To Cart Button"
+msgstr "Show Add To Cart Button"
+
+#: inc/class-razzi-options.php:1445 inc/class-razzi-options.php:3366
+#: inc/class-razzi-options.php:3424
+msgid "Show Arrow Icon"
+msgstr "Show Arrow Icon"
+
+#: inc/class-razzi-options.php:6786
+msgid "Show back icon in the inner pages"
+msgstr "Show back icon in the inner pages"
+
+#: inc/class-razzi-options.php:3447 inc/class-razzi-options.php:6875
+msgid "Show Copyright"
+msgstr "Show Copyright"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:830
+msgid "Show Cross-Sells Products"
+msgstr "Show Cross-Sells Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:549
+msgid "Show Description"
+msgstr "Show Description"
+
+#: inc/class-razzi-options.php:3404 inc/class-razzi-options.php:7436
+msgid "Show Menu"
+msgstr "Show Menu"
+
+#: inc/class-razzi-options.php:6778
+msgid "Show Menu Left"
+msgstr "Show Menu Left"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:306
+msgid "Show number of the product attribute in the product card"
+msgstr "Show number of the product attribute in the product card"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2065
+#: inc/woocommerce/class-razzi-woo-customizer.php:2459
+msgid "Show on Category Page"
+msgstr "Show on Category Page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2058
+#: inc/woocommerce/class-razzi-woo-customizer.php:2413
+msgid "Show on Shop Page"
+msgstr "Show on Shop Page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:485
+msgid "Show product attribute in the product loop"
+msgstr "Show product attribute in the product loop"
+
+#: inc/class-razzi-options.php:6863
+msgid "Show Search"
+msgstr "Show Search"
+
+#: inc/class-razzi-options.php:3435 inc/class-razzi-options.php:6869
+msgid "Show Socials"
+msgstr "Show Socials"
+
+#: inc/class-razzi-options.php:3414 inc/class-razzi-options.php:6853
+#: inc/class-razzi-options.php:7446
+msgid "Show Sub-Menus"
+msgstr "Show Sub-Menus"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1740
+#: inc/woocommerce/class-razzi-woo-customizer.php:2379
+msgid "Show the content"
+msgstr "Show the content"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:296
+msgid "Show the product attribute in the product card"
+msgstr "Show the product attribute in the product card"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1187
+msgid "Show Upsells Products"
+msgstr "Show Upsells Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:437
+msgid "Show Variations"
+msgstr "Show Variations"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:450
+msgid "Show Variations With AJAX"
+msgstr "Show Variations With AJAX"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:538
+msgid "Show/hide a divide line on top of the footer"
+msgstr "Show/hide a divide line on top of the footer"
+
+#: inc/class-razzi-helper.php:95
+msgid "Showing"
+msgstr "Showing"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2164
+msgid "Showing Result"
+msgstr "Showing Result"
+
+#: inc/class-razzi-options.php:3409 inc/class-razzi-options.php:7441
+msgid "Side to left"
+msgstr "Side to left"
+
+#: inc/class-razzi-options.php:3408 inc/class-razzi-options.php:7440
+msgid "Side to right"
+msgstr "Side to right"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:903
+#: inc/woocommerce/class-razzi-woo-customizer.php:1679
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: template-parts/modals/account.php:45
+msgid "Siging in..."
+msgstr "Siging in..."
+
+#: template-parts/modals/account.php:10 template-parts/modals/account.php:44
+#: template-parts/modals/account.php:46
+msgid "Sign in"
+msgstr "Sign in"
+
+#: template-parts/modals/account.php:93
+msgid "Sign up"
+msgstr "Sign up"
+
+#: template-parts/modals/account.php:46
+msgid "Signed In"
+msgstr "Signed In"
+
+#: inc/class-razzi-options.php:7353
+#: inc/woocommerce/class-razzi-woo-customizer.php:247
+#: inc/woocommerce/class-razzi-woo-customizer.php:690
+msgid "Simple"
+msgstr "Simple"
+
+#: inc/class-razzi-options.php:7354
+msgid "Simple Adaptive"
+msgstr "Simple Adaptive"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:501
+msgid "Simple Product"
+msgstr "Simple Product"
+
+#: inc/class-razzi-options.php:610
+msgid "Single Blog"
+msgstr "Single Blog"
+
+#: inc/class-razzi-options.php:490
+msgid "Single Post"
+msgstr "Single Post"
+
+#: inc/class-razzi-options.php:618 inc/class-razzi-options.php:6132
+#: inc/woocommerce/class-razzi-woo-customizer.php:74
+msgid "Single Product"
+msgstr "Single Product"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:107
+msgid "Single Product Extra Content"
+msgstr "Single Product Extra Content"
+
+#: inc/woocommerce/class-razzi-woo-sidebars.php:97
+msgid "Single Product Sidebar"
+msgstr "Single Product Sidebar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1081
+msgid "Sku"
+msgstr "Sku"
+
+#: woocommerce/single-product/meta.php:36
+msgid "SKU:"
+msgstr "SKU:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:266
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/class-razzi-setup.php:105
+msgid "Social Menu"
+msgstr "Social Menu"
+
+#: inc/class-razzi-footer.php:113 inc/class-razzi-header.php:716
+#: inc/class-razzi-options.php:155 inc/class-razzi-options.php:182
+#: inc/class-razzi-options.php:200 inc/class-razzi-topbar.php:274
+msgid "Socials"
+msgstr "Socials"
+
+#: inc/class-razzi-options.php:3771
+msgid "Socials List"
+msgstr "Socials List"
+
+#: inc/class-razzi-options.php:3762
+msgid "Socials Share"
+msgstr "Socials Share"
+
+#: inc/woocommerce/class-razzi-woo-modules-badges.php:142
+msgid "Sold Out"
+msgstr "Sold Out"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1562
+msgid "Sold Out Badge"
+msgstr "Sold Out Badge"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:253
+msgid "Solid Border"
+msgstr "Solid Border"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:148
+#: inc/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: template-parts/content/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:154
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:151
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:156
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr[1] ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+
+#: 404.php:18
+msgid ""
+"Sorry, we couldn&rsquo;t find the page you where looking for. We suggest "
+"that you return to homepage."
+msgstr ""
+"Sorry, we couldn&rsquo;t find the page you where looking for. We suggest "
+"that you return to homepage."
+
+#: inc/libs/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-razzi-options.php:3376
+msgid "Space Between"
+msgstr "Space Between"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:185
+#: inc/admin/class-razzi-admin-meta-boxes.php:212
+#: inc/admin/class-razzi-admin-meta-boxes.php:309
+msgid "Spacing"
+msgstr "Spacing"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:853
+msgid ""
+"Specify how many numbers of Cross-Sells products you want to show on product "
+"cart page"
+msgstr ""
+"Specify how many numbers of Cross-Sells products you want to show on product "
+"cart page"
+
+#: inc/class-razzi-options.php:6224 inc/class-razzi-options.php:6239
+msgid ""
+"Specify how many numbers of recently viewed products you want to show on page"
+msgstr ""
+"Specify how many numbers of recently viewed products you want to show on page"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1206
+msgid ""
+"Specify how many numbers of up-sells products you want to show on single "
+"product page"
+msgstr ""
+"Specify how many numbers of up-sells products you want to show on single "
+"product page"
+
+#: inc/class-razzi-options.php:7355
+msgid "Standard"
+msgstr "Standard"
+
+#: inc/class-razzi-options.php:7356
+msgid "Standard Adaptive"
+msgstr "Standard Adaptive"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:254
+msgid "Standard button"
+msgstr "Standard button"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:248
+msgid "Standard button ( Solid Border )"
+msgstr "Standard button ( Solid Border )"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:252
+msgid "Standard button on hover"
+msgstr "Standard button on hover"
+
+#: inc/libs/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr "Status"
+
+#: woocommerce/myaccount/orders.php:50 woocommerce/order/order-details.php:65
+msgid "Status:"
+msgstr "Status:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:152
+#: inc/woocommerce/class-razzi-woo-customizer.php:1143
+msgid "Sticky Add To Cart"
+msgstr "Sticky Add To Cart"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1151
+msgid "Sticky Bar Position"
+msgstr "Sticky Bar Position"
+
+#: inc/class-razzi-options.php:1810
+msgid "Sticky Header"
+msgstr "Sticky Header"
+
+#: inc/class-razzi-options.php:1827
+msgid "Sticky Header Elements"
+msgstr "Sticky Header Elements"
+
+#: inc/class-razzi-options.php:1944 inc/class-razzi-options.php:2073
+msgid "Sticky Header Height"
+msgstr "Sticky Header Height"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1760
+msgid "Sticky Sidebar"
+msgstr "Sticky Sidebar"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1093
+#: inc/woocommerce/class-razzi-woo-modules-wishlist.php:140
+msgid "Stock"
+msgstr "Stock"
+
+#: inc/class-razzi-options.php:1138
+msgid "Sub-Menu"
+msgstr "Sub-Menu"
+
+#: woocommerce/checkout/review-order.php:24
+#: woocommerce/checkout/review-order.php:63
+msgid "Subtotal"
+msgstr "Subtotal"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:101
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:283
+msgid "Successfully added to your cart."
+msgstr "Successfully added to your cart."
+
+#: inc/class-razzi-options.php:2455 inc/class-razzi-options.php:4190
+msgid "SVG"
+msgstr "SVG"
+
+#: inc/class-razzi-options.php:3241
+msgid "SVG Code"
+msgstr "SVG Code"
+
+#: inc/class-razzi-options.php:6303
+msgid "SVG code"
+msgstr "SVG code"
+
+#: woocommerce/single-product/meta.php:50
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "Tag:"
+msgstr[1] "Tags:"
+
+#. 1: list of tags.
+#: inc/class-razzi-helper.php:493
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1082
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:345
+msgid "Taxonomy"
+msgstr "Taxonomy"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:192
+#: inc/woocommerce/class-razzi-woo-customizer.php:2100
+msgid "Taxonomy Description"
+msgstr "Taxonomy Description"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2107
+msgid "Taxonomy Description Position"
+msgstr "Taxonomy Description Position"
+
+#: inc/class-razzi-options.php:3782
+#: inc/woocommerce/class-razzi-woo-customizer.php:1242
+msgid "Telegram"
+msgstr "Telegram"
+
+#: inc/class-razzi-options.php:7026
+#: inc/woocommerce/class-razzi-woo-customizer.php:2039
+msgid "Template"
+msgstr "Template"
+
+#: inc/class-razzi-options.php:2423 inc/class-razzi-options.php:2456
+#: inc/class-razzi-options.php:2802 inc/class-razzi-options.php:3462
+#: inc/class-razzi-options.php:4191
+#: inc/woocommerce/class-razzi-woo-customizer.php:1338
+#: inc/woocommerce/class-razzi-woo-customizer.php:1352
+#: inc/woocommerce/class-razzi-woo-customizer.php:1425
+#: inc/woocommerce/class-razzi-woo-customizer.php:1507
+#: inc/woocommerce/class-razzi-woo-customizer.php:1573
+msgid "Text"
+msgstr "Text"
+
+#: inc/class-razzi-options.php:1547 inc/class-razzi-options.php:2170
+#: inc/class-razzi-options.php:2265 inc/class-razzi-options.php:2869
+#: inc/class-razzi-options.php:3103 inc/class-razzi-options.php:3194
+#: inc/class-razzi-options.php:3309 inc/class-razzi-options.php:3530
+#: inc/class-razzi-options.php:4671 inc/class-razzi-options.php:4785
+#: inc/class-razzi-options.php:5228 inc/class-razzi-options.php:5351
+#: inc/class-razzi-options.php:5500
+#: inc/woocommerce/class-razzi-woo-customizer.php:631
+msgid "Text Color"
+msgstr "Text Color"
+
+#: inc/class-razzi-options.php:4966
+msgid "Text Field Background Color"
+msgstr "Text Field Background Color"
+
+#: inc/class-razzi-options.php:5023
+msgid "Text Field Color"
+msgstr "Text Field Color"
+
+#: inc/class-razzi-options.php:4997
+msgid "Text Field Placehoder Color"
+msgstr "Text Field Placehoder Color"
+
+#: inc/class-razzi-options.php:1571 inc/class-razzi-options.php:2194
+#: inc/class-razzi-options.php:2293 inc/class-razzi-options.php:4692
+#: inc/class-razzi-options.php:4811 inc/class-razzi-options.php:5254
+#: inc/class-razzi-options.php:5377 inc/class-razzi-options.php:5526
+msgid "Text Hover Color"
+msgstr "Text Hover Color"
+
+#. %s: version number
+#: inc/libs/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-razzi-options.php:1475 inc/class-razzi-options.php:1505
+#: inc/class-razzi-options.php:6326
+msgid "The content of Custom Text item"
+msgstr "The content of Custom Text item"
+
+#: inc/class-razzi-options.php:3571 inc/class-razzi-options.php:4158
+msgid "The content of the Custom Text item"
+msgstr "The content of the Custom Text item"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:155
+#: inc/libs/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[1] ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+
+#: inc/libs/class-tgm-plugin-activation.php:395
+#: inc/libs/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:153
+#: inc/libs/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:152
+#: inc/libs/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: inc/libs/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#. 1: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: inc/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: inc/class-razzi-page-header.php:102
+msgid "The Latest Posts"
+msgstr "The Latest Posts"
+
+#: inc/class-razzi-options.php:3585
+msgid "The layout of blog posts"
+msgstr "The layout of blog posts"
+
+#: inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+
+#: inc/libs/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+
+#: inc/class-razzi-options.php:1461 inc/class-razzi-options.php:1491
+#: inc/class-razzi-options.php:6305
+msgid "The SVG before your text"
+msgstr "The SVG before your text"
+
+#: inc/class-razzi-options.php:891
+msgid ""
+"The time (in seconds) before the popup is displayed, after the page loaded."
+msgstr ""
+"The time (in seconds) before the popup is displayed, after the page loaded."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:336
+#, php-format
+msgid "There are %s items in your cart"
+msgstr "There are %s items in your cart"
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+
+#: inc/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:338
+#, php-format
+msgid "There is %s item in your cart"
+msgstr "There is %s item in your cart"
+
+#: inc/libs/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for: %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#: inc/class-razzi-options.php:804
+msgid ""
+"This image will be used as background of the popup if the layout is 1 Column"
+msgstr ""
+"This image will be used as background of the popup if the layout is 1 Column"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2108
+msgid ""
+"This option works with the taxonomy such as product category, tag, brand..."
+msgstr ""
+"This option works with the taxonomy such as product category, tag, brand..."
+
+#: inc/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: woocommerce/loop/add-to-cart-variable.php:26
+#: woocommerce/single-product/add-to-cart/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "This product is currently out of stock and unavailable."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:150
+#: inc/libs/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: inc/admin/class-razzi-admin-plugin-install.php:149
+#: inc/libs/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1048
+msgid "Thumbnail Numbers"
+msgstr "Thumbnail Numbers"
+
+#: inc/class-razzi-options.php:3699 inc/class-razzi-options.php:3813
+#: inc/class-razzi-options.php:4504 inc/class-razzi-options.php:5606
+#: inc/class-razzi-options.php:5993 inc/class-razzi-options.php:6172
+#: inc/class-razzi-options.php:6408 inc/class-razzi-options.php:6441
+#: inc/class-razzi-options.php:7237
+#: inc/woocommerce/class-razzi-woo-customizer.php:722
+#: inc/woocommerce/class-razzi-woo-customizer.php:994
+#: inc/woocommerce/class-razzi-woo-customizer.php:1872
+msgid "Title"
+msgstr "Title"
+
+#: inc/class-razzi-options.php:5690 inc/class-razzi-options.php:7106
+#: inc/woocommerce/class-razzi-woo-customizer.php:1987
+msgid "Title Color"
+msgstr "Title Color"
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2134
+msgid "Toolbar Layout"
+msgstr "Toolbar Layout"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:2159
+msgid "Toolbar Left"
+msgstr "Toolbar Left"
+
+#: inc/class-razzi-options.php:3965 inc/class-razzi-options.php:4101
+#: inc/class-razzi-options.php:4377 inc/class-razzi-options.php:4454
+#: inc/class-razzi-options.php:4565 inc/class-razzi-options.php:5889
+#: inc/admin/class-razzi-admin-meta-boxes.php:470
+#: inc/woocommerce/class-razzi-woo-customizer.php:1155
+msgid "Top"
+msgstr "Top"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:940
+msgid "Top bar"
+msgstr "Top bar"
+
+#: inc/class-razzi-options.php:7255
+#: inc/woocommerce/class-razzi-woo-customizer.php:202
+msgid "Top Categories"
+msgstr "Top Categories"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:707
+msgid "Top rated products"
+msgstr "Top rated products"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:319
+msgid "Top Spacing"
+msgstr "Top Spacing"
+
+#: inc/class-razzi-options.php:387 inc/class-razzi-options.php:582
+#: inc/class-razzi-options.php:1333 inc/class-razzi-options.php:6261
+msgid "Topbar"
+msgstr "Topbar"
+
+#: inc/class-razzi-options.php:395
+msgid "Topbar Background"
+msgstr "Topbar Background"
+
+#: inc/class-razzi-options.php:391
+msgid "Topbar Items"
+msgstr "Topbar Items"
+
+#: inc/class-razzi-options.php:196
+msgid "Topbar Menu"
+msgstr "Topbar Menu"
+
+#: woocommerce/checkout/review-order.php:110
+msgid "Total"
+msgstr "Total"
+
+#: inc/admin/class-razzi-admin-meta-boxes.php:155
+msgid "Transparent"
+msgstr "Transparent"
+
+#: inc/class-razzi-options.php:3778
+#: inc/woocommerce/class-razzi-woo-customizer.php:1241
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/class-razzi-options.php:3776
+#: inc/woocommerce/class-razzi-woo-customizer.php:1238
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/libs/class-tgm-plugin-activation.php:2634
+#: inc/woocommerce/class-razzi-woo-customizer.php:1334
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-razzi-options.php:272
+msgid "Typography"
+msgstr "Typography"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1109
+msgid "Under Product Gallery"
+msgstr "Under Product Gallery"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1110
+msgid "Under Product Summary"
+msgstr "Under Product Summary"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1210
+msgid "Up-sells Products Navigation"
+msgstr "Up-sells Products Navigation"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1202
+msgid "Up-sells Products Numbers"
+msgstr "Up-sells Products Numbers"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1195
+msgid "Up-sells Products Title"
+msgstr "Up-sells Products Title"
+
+#: inc/libs/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr "Update"
+
+#. %2$s: plugin name in screen reader markup
+#: inc/libs/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. 1: number of plugins.
+#: inc/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#: woocommerce/cart/cart.php:151
+msgid "Update cart"
+msgstr "Update cart"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:817
+msgid "Update Cart Automatically"
+msgstr "Update Cart Automatically"
+
+#: inc/libs/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: inc/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Update Required"
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/libs/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#. %s: plugin name.
+#: inc/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#: inc/libs/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#: inc/class-razzi-options.php:717
+msgid "Upload custom image"
+msgstr "Upload custom image"
+
+#: inc/woocommerce/class-razzi-woo-settings-category.php:113
+#: inc/woocommerce/class-razzi-woo-settings-category.php:138
+#: inc/woocommerce/class-razzi-woo-settings-category.php:197
+#: inc/woocommerce/class-razzi-woo-settings-category.php:243
+#: inc/woocommerce/class-razzi-woo-settings-category.php:270
+#: inc/woocommerce/class-razzi-woo-settings-category.php:318
+msgid "Upload/Add Images"
+msgstr "Upload/Add Images"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:162
+msgid "Upsells Products"
+msgstr "Upsells Products"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:709
+msgid "Upsells products"
+msgstr "Upsells products"
+
+#: inc/class-razzi-options.php:2806
+msgid "URL"
+msgstr "URL"
+
+#: inc/class-razzi-options.php:6798
+msgid "Use a different logo on mobile"
+msgstr "Use a different logo on mobile"
+
+#: inc/class-razzi-options.php:6896
+msgid "Use a different logo on mobile panel"
+msgstr "Use a different logo on mobile panel"
+
+#: inc/class-razzi-options.php:2658
+msgid "Use a shortcode"
+msgstr "Use a shortcode"
+
+#: inc/class-razzi-options.php:2657
+msgid "Use by the theme"
+msgstr "Use by the theme"
+
+#: inc/class-razzi-options.php:1681
+msgid "Use pre-build header"
+msgstr "Use pre-build header"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1353
+msgid ""
+"Use {%} to display discount percentages, {$} to display discount amount."
+msgstr ""
+"Use {%} to display discount percentages, {$} to display discount amount."
+
+#: inc/class-razzi-setup.php:108
+msgid "User Logged Menu"
+msgstr "User Logged Menu"
+
+#: template-parts/modals/account.php:20 template-parts/modals/account.php:67
+msgid "Username"
+msgstr "Username"
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "Username *"
+msgstr "Username *"
+
+#: inc/woocommerce/class-razzi-woo-modules-login-ajax.php:115
+msgid "Username is required."
+msgstr "Username is required."
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:500
+msgid "Variable Product"
+msgstr "Variable Product"
+
+#: woocommerce/single-product/review-meta.php:38
+msgid "verified owner"
+msgstr "verified owner"
+
+#: inc/libs/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr "Version"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:230
+msgid "Video Position"
+msgstr "Video Position"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:221
+msgid "Video Thumbnail"
+msgstr "Video Thumbnail"
+
+#: inc/woocommerce/class-razzi-woo-settings-product.php:212
+msgid "Video URL"
+msgstr "Video URL"
+
+#: woocommerce/add-to-wishlist-remove.php:62
+msgid "View &rsaquo;"
+msgstr "View &rsaquo;"
+
+#: inc/class-razzi-modules-search-ajax.php:102
+#: inc/woocommerce/class-razzi-woo-modules-recently-viewed.php:219
+msgid "View All"
+msgstr "View All"
+
+#: inc/class-razzi-options.php:3686
+msgid "View All Text"
+msgstr "View All Text"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:284
+msgid "View Cart"
+msgstr "View Cart"
+
+#: inc/woocommerce/class-razzi-woo-modules-mini-cart.php:169
+msgid "View cart"
+msgstr "View cart"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:316
+msgid "View Compare"
+msgstr "View Compare"
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:304
+msgid "View Wishlist"
+msgstr "View Wishlist"
+
+#: inc/class-razzi-options.php:875
+msgid "Wait for seconds"
+msgstr "Wait for seconds"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:128
+msgid "WCBoost - Products Compare"
+msgstr "WCBoost - Products Compare"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:114
+msgid "WCBoost - Variation Swatches"
+msgstr "WCBoost - Variation Swatches"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:121
+msgid "WCBoost - Wishlist"
+msgstr "WCBoost - Wishlist"
+
+#: inc/class-razzi-comments.php:162
+msgid "Website"
+msgstr "Website"
+
+#: inc/class-razzi-maintenance.php:78
+msgid "Website Under Maintenance"
+msgstr "Website Under Maintenance"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1243
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1256
+msgid "WhatsApp Phone Number"
+msgstr "WhatsApp Phone Number"
+
+#: inc/class-razzi-options.php:1822 inc/class-razzi-options.php:3870
+#: inc/woocommerce/class-razzi-woo-customizer.php:897
+#: inc/woocommerce/class-razzi-woo-customizer.php:1666
+msgid "Wide"
+msgstr "Wide"
+
+#: inc/class-razzi-options.php:1249
+msgid "Widget Title"
+msgstr "Widget Title"
+
+#: inc/class-razzi-options.php:364
+msgid "Widgets"
+msgstr "Widgets"
+
+#: inc/class-razzi-options.php:225 inc/class-razzi-options.php:431
+#: inc/woocommerce/class-razzi-woo-customizer.php:300
+#: template-parts/navigation-bar/wishlist.php:27
+#: woocommerce/loop/add-to-wishlist.php:29
+msgid "Wishlist"
+msgstr "Wishlist"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1007
+msgid "Wishlist button"
+msgstr "Wishlist button"
+
+#: inc/class-razzi-options.php:7474 inc/class-razzi-options.php:7486
+msgid "Wishlist Counter"
+msgstr "Wishlist Counter"
+
+#: inc/class-razzi-header.php:710 inc/class-razzi-header.php:731
+#: inc/class-razzi-options.php:176 inc/class-razzi-options.php:242
+msgid "Wishlist Icon"
+msgstr "Wishlist Icon"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:778
+msgid "Wishlist Notification Auto Hide"
+msgstr "Wishlist Notification Auto Hide"
+
+#: inc/admin/class-razzi-admin-plugin-install.php:77
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:64
+msgid "Woocommerce"
+msgstr "Woocommerce"
+
+#: inc/libs/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-razzi-breadcrumbs.php:109
+msgid "Yearly:"
+msgstr "Yearly:"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1440
+msgid ""
+"You can also add the NEW badge to each product in the Advanced setting tab "
+"of them."
+msgstr ""
+"You can also add the NEW badge to each product in the Advanced setting tab "
+"of them."
+
+#: inc/woocommerce/class-razzi-woo-modules-notices.php:241
+#: inc/woocommerce/class-razzi-woo-template-cart.php:107
+msgid "You may also like"
+msgstr "You may also like"
+
+#: template-parts/modals/cart.php:10
+msgid "Your Cart"
+msgstr "Your Cart"
+
+#: woocommerce/cart/mini-cart.php:121
+msgid "Your cart is empty"
+msgstr "Your cart is empty"
+
+#: inc/class-razzi-comments.php:240
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: woocommerce/myaccount/form-lost-password.php:30
+msgid "Your Email *"
+msgstr "Your Email *"
+
+#: woocommerce/single-product/review-meta.php:27
+msgid "Your review is awaiting approval"
+msgstr "Your review is awaiting approval"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:268
+msgid "Zoom"
+msgstr "Zoom"
+
+#: inc/woocommerce/class-razzi-woo-customizer.php:1035
+msgid "Zooms in where your cursor is on the image"
+msgstr "Zooms in where your cursor is on the image"

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GTmetrix for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-06 01:46+0000\n"
+"PO-Revision-Date: 2023-04-06 01:48+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: gtmetrix-for-wordpress"
+
+#. Author of the plugin
+msgid "GTmetrix"
+msgstr "GTmetrix"
+
+#. Description of the plugin
+msgid ""
+"GTmetrix can help you develop a faster, more efficient, and all-around "
+"improved website experience for your users. Your users will love you for it."
+msgstr ""
+"GTmetrix puede ayudarle a desarrollar un más rápido, más eficiente, y todos-"
+"en torno a la mejora de la experiencia del sitio web para sus usuarios. A "
+"sus usuarios le encantará."
+
+#. Name of the plugin
+msgid "GTmetrix for WordPress"
+msgstr "GTmetrix for WordPress"
+
+#. Author URI of the plugin
+msgid "https://gtmetrix.com/"
+msgstr "https://gtmetrix.com/"
+
+#. URI of the plugin
+msgid "https://gtmetrix.com/gtmetrix-for-wordpress-plugin.html"
+msgstr "https://gtmetrix.com/gtmetrix-for-wordpress-plugin.html"

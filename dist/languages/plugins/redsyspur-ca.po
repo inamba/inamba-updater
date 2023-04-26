@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pasarela Unificada de Redsys para WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-04-11 03:23+0000\n"
+"PO-Revision-Date: 2023-04-11 03:36+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: redsyspur"
+
+#. Description of the plugin
+msgid ""
+"Acepta pagos con tarjeta o con BIZUM utilizando los servicios de Redsys."
+msgstr ""
+"Accepteu pagaments amb targeta o amb BIZUM utilitzant els serveis de Redsys."
+
+#. Author URI of the plugin
+msgid "http://www.redsys.es/"
+msgstr "http://www.redsys.es/"
+
+#. URI of the plugin
+msgid "https://pagosonline.redsys.es/"
+msgstr "https://pagosonline.redsys.es/"
+
+#. Name of the plugin
+msgid "Pasarela Unificada de Redsys para WooCommerce"
+msgstr "Redsys for WooCommerce"
+
+#. Author of the plugin
+msgid "Redsys Servicios de Procesamiento S.L."
+msgstr "Redsys"

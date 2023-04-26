@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPS Menu Exporter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-03 09:32+0200\n"
+"PO-Revision-Date: 2023-04-12 19:51-0300\n"
+"Last-Translator: Inamba <support@inamba.com>\n"
+"Language-Team: Esperanto\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wps-menu-exporter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/lib/wp-dismissible-notices-handler/handler.php:97
+#: classes/review.php:120
+#, php-format
+msgid ""
+"The library can not be used because your version of WordPress is too old. "
+"You need version %s at least."
+msgstr ""
+"La biblioteko povas esti uzita#? ar via versio de WordPress estas tro "
+"maljuna. Vi devas versio %s # almena?."
+
+#: classes/lib/wp-dismissible-notices-handler/handler.php:110
+#: classes/review.php:131
+#, php-format
+msgid ""
+"The library can not be used because your version of PHP is too old. You need "
+"version %s at least."
+msgstr ""
+"La biblioteko povas esti uzita#? ar via versio de PHP estas tro maljuna. Vi "
+"devas versio %s # almena?."
+
+#: classes/lib/wp-dismissible-notices-handler/handler.php:230
+msgid "Dismissible Notices Handler Error:"
+msgstr "Dismissible Avizoj Prizorganto Eraro:"
+
+#: classes/lib/wp-dismissible-notices-handler/handler.php:317
+#, php-format
+msgid "A notice with the ID %s has already been registered."
+msgstr "Avizo kun la IDENTIGILO %s jam estis registrita."
+
+#: classes/plugin.php:49
+msgid "Export"
+msgstr "Eksporti"
+
+#: classes/review.php:99
+msgid ""
+"Hey! It&#039;s been a little while that you&#039;ve been using this product. "
+"You might not realize it, but user reviews are such a great help to us. We "
+"would be so grateful if you could take a minute to leave a review on "
+"WordPress.org. Many thanks in advance :)"
+msgstr ""
+"Hey! Ĝi estis iom, ke vi estis uzante ĉi tiu produkto. Vi eble ne rimarkos "
+"ĝin, sed uzantaj revizioj estas tia granda helpo al ni. Ni estus tre dankema "
+"se vi povus preni minuton por lasi revizio sur WordPress.org. Multaj "
+"dankonas en # anta? enigo :)"
+
+#: classes/review.php:100
+msgid "Click here to leave your review"
+msgstr "Klaku ĉi-tie lasi viajn revizio"
+
+#: classes/review.php:191
+msgid "WP Review Me Error:"
+msgstr "WP Review Min Eraro:"
+
+#: classes/review.php:377
+msgid ""
+"Do you like plugin WPS Menu Exporter? <br> Thank you for taking a few "
+"seconds to note us on"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WPS Menu Exporter"
+msgstr "WPS Menu Exporter"
+
+#. Description of the plugin/theme
+msgid "WPS Menu Exporter permet d'exporter les menus WordPress."
+msgstr "WPS Menu Exporter permet d''exporter les WordPress menuoj."
+
+#. Author of the plugin/theme
+msgid "WPServeur, NicolasKulka"
+msgstr "WPServeur, NicolasKulka"
+
+#. Author URI of the plugin/theme
+msgid "https://wpserveur.net"
+msgstr "https://wpserveur.net"

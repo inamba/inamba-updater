@@ -1,0 +1,3568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: recoverabandoncart\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-12 18:13+0530\n"
+"PO-Revision-Date: 2023-04-12 17:41-0300\n"
+"Last-Translator: Inamba <support@inamba.com>\n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_attr_e;esc_html__;esc_attr__;"
+"esc_html_x;esc_attr_x\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Poedit-SearchPath-0: templates\n"
+"X-Poedit-SearchPath-1: inc\n"
+"X-Poedit-SearchPath-2: recoverabandoncart.php\n"
+
+#: inc/admin/class-fp-rac-admin-assets.php:144
+msgid "Please enter a value greater than "
+msgstr "Si us plau, introdueix un valor superior a "
+
+#: inc/admin/class-fp-rac-admin-assets.php:201
+msgid "Please enter email id"
+msgstr "Si us plau, introdueixi el correu electrònic id"
+
+#: inc/admin/class-fp-rac-admin-assets.php:202
+msgid "Please Enter any Value"
+msgstr "Si us plau Introduïu cap Valor"
+
+#: inc/admin/class-fp-rac-admin-assets.php:203
+msgid "Please select any Product/Category"
+msgstr "Si us plau, seleccioneu qualsevol Producte/Categoria"
+
+#: inc/admin/class-fp-rac-admin-assets.php:218
+msgid "Do you want to change the status of this cart to Recovered?"
+msgstr "Vols canviar l'estat d'aquest carro per Recuperar?"
+
+#: inc/admin/class-fp-rac-admin-assets.php:219
+msgid "save"
+msgstr "guardar"
+
+#: inc/admin/class-fp-rac-admin-assets.php:234
+msgid "Orders found and added to Abandon List"
+msgstr "Les comandes es troben i s'afegeix a Abandonar Llista"
+
+#: inc/admin/class-fp-rac-admin-assets.php:235
+msgid "No Orders found"
+msgstr "No Comandes trobat"
+
+#: inc/admin/class-fp-rac-admin-assets.php:246
+msgid ""
+"Mail has been Sent, but this doesn't mean mail will be delivered "
+"Successfully. Check Wordpress Codex for More info on Mail"
+msgstr ""
+"Correu electrònic ha estat Enviat, però això no vol dir correu serà lliurat "
+"amb Èxit. Fes Wordpress Codex per a Més informació al Correu"
+
+#: inc/admin/class-fp-rac-admin-assets.php:247
+msgid "Mail not Sent."
+msgstr "El correu no s'Envia."
+
+#: inc/admin/class-fp-rac-admin-assets.php:248
+msgid ""
+"For WooCommerce 2.3 or higher version mail() function will not load the "
+"woocommerce default template. This option will be deprecated"
+msgstr ""
+"Per WooCommerce 2.3 o superior versió mail() funció no carregar el "
+"woocommerce plantilla per defecte. Aquesta opció s'abandonaran"
+
+#: inc/admin/class-fp-rac-admin-assets.php:251
+msgid ""
+"Are you sure you want to proceed with the updation? Based on data available, "
+"it may take some time to update"
+msgstr ""
+"Esteu segur que voleu continuar amb el updation? A partir de les dades "
+"disponibles, es pot prendre una mica de temps per actualitzar"
+
+#: inc/admin/class-fp-rac-admin-assets.php:253
+msgid "Update Completed"
+msgstr "Actualització Completa"
+
+#: inc/admin/class-fp-rac-admin-assets.php:272
+msgid "Double Click here to Edit Email ID for Guest"
+msgstr "Feu doble Clic aquí per Editar Correu electrònic DNI, per a Cases d'"
+
+#: inc/admin/class-fp-rac-admin-assets.php:274
+#, php-format
+msgid "<h4>Upgrade to v%s Completed Successfully.</h4>"
+msgstr "Actualització a v%s s'ha Completat amb Èxit."
+
+#: inc/admin/class-fp-rac-admin-assets.php:276
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+"Es recomana que vostè còpia de seguretat de la vostra base de dades abans de "
+"continuar. Esteu segur que voleu executar l'updater ara?"
+
+#: inc/admin/class-fp-rac-admin-assets.php:294
+#: inc/class-fp-rac-register-post-type.php:96
+#: inc/class-fp-rac-register-post-type.php:97
+#: inc/class-fp-rac-register-post-type.php:98
+#: inc/class-fp-rac-register-post-type.php:99
+msgid "Email Log"
+msgstr "Correu Electrònic De Registre"
+
+#: inc/admin/class-fp-rac-admin-assets.php:295
+msgid "Abandoned Carts"
+msgstr "Abandonat Carros"
+
+#: inc/admin/class-fp-rac-admin-assets.php:296
+#: inc/class-fp-rac-register-post-type.php:184
+#: inc/class-fp-rac-register-post-type.php:185
+msgid "Recovered Orders"
+msgstr "Recuperat Comandes"
+
+#: inc/admin/fp-rac-privacy.php:11
+msgid ""
+"This includes the basics of what personal data your store may be collecting, "
+"storing and sharing. Depending on what settings are enabled and which "
+"additional plugins are used, the specific information shared by your store "
+"will vary."
+msgstr ""
+"Això inclou els conceptes bàsics de quines dades personals la seva botiga "
+"pot ser recollida, emmagatzematge i intercanvi. En funció de quins "
+"paràmetres s'han habilitat i connectors que s'utilitzen, la informació "
+"específica que es compartida per la teva botiga variarà."
+
+#: inc/admin/fp-rac-privacy.php:12
+msgid "What the Plugin Does"
+msgstr "Que el Plugin No"
+
+#: inc/admin/fp-rac-privacy.php:13
+msgid ""
+"- When a user adds a product to cart and doesn't complete their purchase "
+"within a specified time, their cart will be considered as abandoned"
+msgstr ""
+"- Quan un usuari afegeix un producte a la cistella, i no a completar la seva "
+"compra en un termini de temps especificat, el carro es considerarà abandonat"
+
+#: inc/admin/fp-rac-privacy.php:14
+msgid ""
+"- An email will be sent to the user who has abandoned the cart. The user can "
+"complete the purchase by clicking the purchase link provided in the email"
+msgstr ""
+"- S'enviarà un correu electrònic a l'usuari que ha abandonat la cistella de "
+"la compra. L'usuari pot realitzar la compra fent clic a l'enllaç de compra "
+"sempre en el correu electrònic"
+
+#: inc/admin/fp-rac-privacy.php:15
+msgid ""
+"- The user can unsubscribe from the abandoned cart emails using the "
+"unsubscribe link provided in the emails."
+msgstr ""
+"- L'usuari podrà donar-se de baixa de la abandonats de la cistella de "
+"missatges de correu electrònic utilitzant la baixa enllaç proporcionat en "
+"els missatges de correu electrònic."
+
+#: inc/admin/fp-rac-privacy.php:16
+msgid "What we collect and store"
+msgstr "El que recollim i emmagatzemem"
+
+#: inc/admin/fp-rac-privacy.php:17
+msgid "- Email ID"
+msgstr "- Correu electrònic ID"
+
+#: inc/admin/fp-rac-privacy.php:18
+msgid ""
+"For logged in users, their registered email id will be recorded. For guests, "
+"email id will be recorded from the email id field on the checkout page. The "
+"email id obtained will be used for sending abandoned cart emails."
+msgstr ""
+"Per a usuaris registrats, la seva registrat correu electrònic id seran "
+"registrades. Per als clients de correu electrònic id serà enregistrat des "
+"del correu electrònic camp id de la caixa de pàgina. El correu electrònic id "
+"obtingudes seran utilitzades per l'enviament d'abandonar la cistella de "
+"missatges de correu electrònic."
+
+#: inc/admin/fp-rac-privacy.php:19
+msgid "- User First Name and Last Name"
+msgstr "- Usuari Nom i cognom"
+
+#: inc/admin/fp-rac-privacy.php:20
+msgid ""
+"For logged in users, their first name and last name will be obtained from "
+"their profile. For guests, their first name and last name will be obtained "
+"from the first name and last name fields on the checkout page. The name "
+"obtained will be used in the abandoned cart emails."
+msgstr ""
+"Per a usuaris registrats, el seu nom i cognom es poden obtenir des del seu "
+"perfil. Per als clients, el seu nom i cognom es poden obtenir a partir de "
+"l'nom i cognom camps de la caixa de pàgina. El nom obtinguda s'utilitzarà en "
+"l'abandonat la cistella de missatges de correu electrònic."
+
+#: inc/admin/fp-rac-privacy.php:21
+msgid "- Phone Number"
+msgstr "- Número De Telèfon"
+
+#: inc/admin/fp-rac-privacy.php:22
+msgid ""
+"For guests, their phone number will be recorded from the phone number field "
+"on the checkout page."
+msgstr ""
+"Per als clients, el seu número de telèfon es registra el número de telèfon "
+"al camp de la caixa de pàgina."
+
+#: inc/admin/fp-rac-privacy.php:23
+msgid "- Cookies"
+msgstr "- Galetes"
+
+#: inc/admin/fp-rac-privacy.php:24
+msgid "We use cookies to"
+msgstr "Nosaltres utilitzem cookies per"
+
+#: inc/admin/fp-rac-privacy.php:25
+msgid ""
+"- Track the orders which were recovered using the purchase link provided in "
+"the abandoned cart emails."
+msgstr ""
+"- Seguiment de les comandes que es van recuperar mitjançant la compra enllaç "
+"proporcionat en el abandonats de la cistella de missatges de correu "
+"electrònic."
+
+#: inc/admin/fp-rac-privacy.php:26
+msgid "- Capture the carts abandoned by guests"
+msgstr "- Captura de la carros abandonats per clients"
+
+#: inc/admin/fp-rac-privacy.php:27
+msgid "- IP Address"
+msgstr "- Adreça IP"
+
+#: inc/admin/fp-rac-privacy.php:28
+msgid ""
+"We record the IP address of guests to differentiate one guest user from an "
+"another user"
+msgstr ""
+"Ens registre de l'adreça IP dels clients per diferenciar un usuari convidat "
+"des d'un altre usuari"
+
+#: inc/admin/fp-rac-privacy.php:41
+#: inc/background-updater/class-fp-rac-updating-process.php:64
+#: inc/class-fp-rac-register-post-type.php:52
+msgid "Recover Abandoned Cart"
+msgstr "Recover Abandoned Cart"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:51
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:51
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:44
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:45
+msgid "ID"
+msgstr "ID"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:52
+msgid "Cart Details / Cart Total"
+msgstr "Cistella De Dades / Cistella Total"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:53
+msgid "User Name / First Last Name"
+msgstr "Nom D'Usuari / A Primer Cognom"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:54
+msgid "Email ID / Phone Number"
+msgstr "Correu electrònic ID / Número de Telèfon"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:55
+msgid "Email Captured By"
+msgstr "Capturat Per Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:56
+msgid "Abandoned Date / Time"
+msgstr "Abandonat Data / Hora"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:57
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:57
+msgid "Status"
+msgstr "Estat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:58
+msgid "Email Template / Email Status / Cart Link in Email"
+msgstr ""
+"Correu electrònic Plantilla / Correu electrònic Estat / de la Cistella "
+"Enllaç al Correu electrònic"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:59
+msgid "Recovered Order ID"
+msgstr "Recuperat IDENTIFICADOR de Comanda"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:60
+msgid "Coupon Used"
+msgstr "Descompte Utilitzat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:61
+msgid "Payment Status"
+msgstr "Pagament De L'Estat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:62
+#: inc/class-fp-rac-admin-ajax-functions.php:149
+msgid "Email Status"
+msgstr "Correu Electrònic Estat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:175
+msgid "All"
+msgstr "Tot"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:176
+msgid "Subscribed"
+msgstr "Subscrit"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:177
+msgid "Unsubscribed"
+msgstr "Donat de baixa"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:178
+msgid "Users"
+msgstr "Usuaris"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:179
+msgid "Guests"
+msgstr "Clients"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:190
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:151
+msgid "From Date"
+msgstr "A Partir De La Data"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:191
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:152
+msgid "To Date"
+msgstr "Fins A La Data"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:253
+msgid "Restore all Cart Lists"
+msgstr "Restaurar totes les Llistes de la Cistella"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:253
+msgid "Move all Cart Lists to Trash"
+msgstr "Moure totes Carret de Llistes a la Paperera"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:263
+msgid "Send Manual Email for all Carts"
+msgstr "Enviar Manual de Correu electrònic per a tots els Carros"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:271
+msgid "Export as CSV"
+msgstr "Exportació CSV"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:276
+msgid "Update Status"
+msgstr "Actualització De L'Estat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:290
+msgid "Send Manual Cart Recovery Email"
+msgstr "Enviar Manual De La Cistella De La Recuperació De Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:290
+msgid "Send Email"
+msgstr "Enviar Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:582
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:586
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:385
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:389
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:305
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:309
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:349
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:353
+msgid "Error in moving to Trash."
+msgstr "Error en moure a la Paperera."
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:603
+msgid "No Cart List to send email!"
+msgstr "No Cistella de la Llista per enviar un correu electrònic!"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:737
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:778
+msgid "Product Details not Available"
+msgstr "Detalls del producte no Disponible"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:816
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:829
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:30
+#: inc/email-template/class-fp-rac-email-template.php:166
+msgid "Guest"
+msgstr "Cases d'"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:833
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:893
+msgid "Order Details not Available"
+msgstr "Informació no Disponible"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:853
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:863
+msgid "Double Click to Change an Editable"
+msgstr "Feu doble Clic per Canviar una Editable"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:906
+msgid "Email ID has been Unsubscribed"
+msgstr "Correu electrònic ID ha estat donat de baixa"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:907
+msgid "Subscribe"
+msgstr "Subscriure's"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:909
+#: inc/frontend/class-fp-rac-unsubscribe-function.php:218
+#: inc/frontend/class-fp-rac-unsubscribe-function.php:263
+msgid "Unsubscribe"
+msgstr "Donar-se de baixa"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:918
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:54
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:61
+msgid "Cart Page"
+msgstr "Cistella De La Pàgina"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:920
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:55
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:62
+msgid "Checkout Page"
+msgstr "Obtenció De La Pàgina"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:922
+msgid "Order Page"
+msgstr "La Finalitat De La Pàgina"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:924
+msgid "Popup Page"
+msgstr "Emergent De La Pàgina"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:926
+msgid "its available on latest version"
+msgstr "la seva disposició en l'última versió"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:945
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1055
+msgid "Trashed"
+msgstr "Trashed"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:950
+msgid "Manually Recovered"
+msgstr "Manualment Recuperat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:958
+msgid "Mark as Recovered"
+msgstr "Marca com a Recuperat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:985
+#: inc/class-fp-rac-admin-ajax-functions.php:238
+#: inc/class-fp-rac-admin-ajax-functions.php:244
+msgid "Enter Order ID"
+msgstr "Introduïu IDENTIFICADOR de Comanda"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:988
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1020
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1028
+msgid "Not Yet"
+msgstr "Encara No"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1006
+msgid "Success"
+msgstr "Èxit"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1008
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1011
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1017
+msgid "Not Used"
+msgstr "No S'Utilitza"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1014
+msgid "Order details not available"
+msgstr "Informació no disponible"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1028
+msgid "Completed"
+msgstr "Finalitzat"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1044
+msgid "Stop Emailing"
+msgstr "Deixar De Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1046
+msgid "Start Emailing"
+msgstr "Inici Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-cartlist-submenu.php:1052
+#: inc/class-fp-rac-register-post-status.php:99
+msgid "Recovered"
+msgstr "Recuperat"
+
+#: inc/admin/menu/class-fp-rac-coupon-handler.php:72
+msgid "Other Coupons"
+msgstr "Altres Cupons"
+
+#: inc/admin/menu/class-fp-rac-coupon-handler.php:73
+msgid "Recover Abandoned Cart Coupons"
+msgstr "Recuperar Abandonat La Cistella De Cupons"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:52
+#: templates/email-template/templates.php:77
+msgid "Template Name"
+msgstr "El Nom De La Plantilla"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:53
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:644
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:714
+#: templates/email-template/templates.php:323
+msgid "From Name"
+msgstr "Des De Nom"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:54
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:653
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:723
+#: templates/email-template/templates.php:334
+msgid "From Email"
+msgstr "Des Del Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:55
+#: templates/email-template/templates.php:358
+msgid "Subject"
+msgstr "Tema"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:56
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:410
+#: templates/email-template/templates.php:404
+msgid "Message"
+msgstr "Missatge"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:58
+msgid "Email Sent"
+msgstr "Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:59
+msgid "Carts Recovered"
+msgstr "Carros De Recuperar"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:170
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:172
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:220
+msgid "Make a copy of this email template"
+msgstr "Fer una còpia d'aquest correu electrònic plantilla"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:220
+msgid "Duplicate"
+msgstr "Duplicats"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:241
+msgid "Restore Email Templates"
+msgstr "Restaurar Plantilles De Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:241
+msgid "Move all Email Templates to Trash"
+msgstr "Moure totes les Plantilles de Correu electrònic a la Paperera"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:407
+msgid "No Email Template to duplicate has been supplied!"
+msgstr "Cap de Correu electrònic Plantilla per duplicat ha estat lliurat!"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:428
+msgid "Email Template creation failed, could not find original Email Template:"
+msgstr ""
+"Correu electrònic de la Plantilla de la creació ha fallat, no ha pogut "
+"trobar original de Correu electrònic de la Plantilla:"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:475
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:955
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:270
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:221
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:887
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:95
+msgid "Save"
+msgstr "Guardar"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:477
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:264
+msgid "Send Test Email"
+msgstr "Enviar Prova Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:478
+#: inc/class-fp-rac-admin-ajax-functions.php:148
+#: inc/class-fp-rac-register-post-type.php:141
+msgid "Email Template"
+msgstr "Correu Electrònic Plantilla"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:479
+msgid "Coupon Creation Settings"
+msgstr "Cupó Creació Configuració"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:490
+msgid "Update Email Template"
+msgstr "Actualització De Correu Electrònic De La Plantilla"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:492
+msgid "Save Email Template"
+msgstr "Desa La Plantilla De Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:575
+msgid "Load Message from existing Template"
+msgstr "Càrrega Missatge de Plantilla existent"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:585
+msgid "Send Manual Email"
+msgstr "Enviar Manual De Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:586
+msgid "Mail Sent Successfully"
+msgstr "Correu Enviat Amb Èxit"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:595
+msgid "Test Email"
+msgstr "Prova Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:599
+msgid "Send Test"
+msgstr "Enviar Prova"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:601
+msgid "Mail Sent"
+msgstr "Correu Enviat"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:602
+msgid "Shortcodes replaced by Sample Data"
+msgstr "Codis curts substituïda per la Mostra de Dades"
+
+#: inc/admin/menu/class-fp-rac-emailtemplate-submenu.php:615
+msgid "Enter Template Name"
+msgstr "Introduïu El Nom De La Plantilla"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:69
+msgid "Abandoned Cart Reports"
+msgstr "Abandonat Carro Informes"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:74
+msgid "Number of Abandoned Carts Captured"
+msgstr "Nombre de Carros Abandonats Capturats"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:88
+msgid "Number of Total Emails Sent"
+msgstr "Nombre Total de Missatges Enviats"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:102
+msgid "Number of Total Email Links Clicked"
+msgstr "Nombre Total d'Enllaços de Correu electrònic Clic"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:116
+msgid "Number of Carts Recovered"
+msgstr "Nombre de Carretilles Recuperat"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:131
+msgid "Total Sales Amount Recovered"
+msgstr "Total De Vendes Quantitat Recuperada"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:150
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:154
+msgid "Frequently Abandoned Products"
+msgstr "Sovint Abandonat Productes"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:156
+msgid "Products which are frequently abandoned by the user"
+msgstr "Productes que sovint són abandonats per l'usuari"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:162
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:166
+msgid "Frequently Recovered Products"
+msgstr "Amb Freqüència Productes Recuperats"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:168
+msgid "Products which are frequently recovered by the user"
+msgstr "Productes que sovint són recuperats per l'usuari"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:174
+msgid "Clear Reports"
+msgstr "Clar Informes"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:174
+msgid "Are you sure to clear the reports ?"
+msgstr "Esteu segur per aclarir els informes ?"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:225
+msgid "Reports Graph"
+msgstr "Els Informes De Gràfic"
+
+#: inc/admin/menu/class-fp-rac-fpracreport-submenu.php:231
+msgid "Filter"
+msgstr "Filtre"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:45
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:302
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:444
+msgid "Email ID"
+msgstr "Correu electrònic ID"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:46
+msgid "Date Time"
+msgstr "Data Hora"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:47
+msgid "Template Used"
+msgstr "Plantilla Utilitzada"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:48
+msgid "Abandon Cart ID"
+msgstr "Abandonar la Cistella ID"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:111
+msgid "Template Info not Available"
+msgstr "Plantilla Informació no Disponible"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:119
+msgid "Cart List ID not Available"
+msgstr "Cistella de la Llista d'ID no Disponible"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:164
+msgid "Restore All Email Logs"
+msgstr "Restaurar Tots Els Registres Correu Electrònic"
+
+#: inc/admin/menu/class-fp-rac-maillog-submenu.php:164
+msgid "Move all Email Logs to Trash"
+msgstr "Moure totes Correu electrònic Registres a la Paperera"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:46
+msgid "Order ID"
+msgstr "IDENTIFICADOR de comanda"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:47
+msgid "Recovered Sales Total"
+msgstr "Recuperat Vendes Total"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:48
+msgid "Date"
+msgstr "Data"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:125
+msgid "Restore all Recovered Orders Log"
+msgstr "Restauració de tot Recuperat Ordres de Registre"
+
+#: inc/admin/menu/class-fp-rac-recovered-order-submenu.php:125
+msgid "Move all Recovered Orders Log to Trash"
+msgstr "Moure totes Recuperat Ordres de Registre a la Paperera"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:24
+msgid "Reports"
+msgstr "Informes"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:25
+msgid "Settings"
+msgstr "Configuració"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:46
+msgid "Sorting"
+msgstr "Classificació"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:47
+msgid "Display Table in"
+msgstr "Visualització de la Taula en"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:49
+msgid "Ascending Order"
+msgstr "Ordre Ascendent"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:50
+msgid "Descending Order"
+msgstr "Ordre Descendent"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:116
+msgid "General Settings"
+msgstr "Configuració General"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:117
+msgid "Advanced Settings"
+msgstr "Configuració Avançada"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:118
+msgid "Check Previous Orders"
+msgstr "Fes Comandes Anteriors"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:119
+msgid "Coupon in Email"
+msgstr "Descompte en el Correu electrònic"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:120
+msgid "Troubleshoot"
+msgstr "Solució de problemes"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:121
+msgid "Shortcodes"
+msgstr "Codis curts"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:122
+#: inc/background-updater/fp-rac-main-background-process.php:154
+#: inc/class-fp-rac-install.php:107
+msgid "Support"
+msgstr "Suport"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:145
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+"L'acció ha fallat. Si us plau, actualitzeu la pàgina i torneu a provar."
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:245
+msgid "Your settings have been saved."
+msgstr "La configuració s'han salvat."
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:247
+msgid "Your settings have been Restored."
+msgstr "La seva configuració ha estat Restaurada."
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:259
+msgid "Automatic Abandoned Cart capture has been Disabled for Members!!!"
+msgstr ""
+"Automàtic Abandonat la Cistella de captura ha estat Desactivat per Membres!!!"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:268
+msgid "Automatic Abandoned Cart capture has been Disabled for Guests!!!"
+msgstr ""
+"Automàtic Abandonat la Cistella de captura ha estat Desactivat per Clients!!!"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:286
+msgid ""
+"wp_cron is disabled in your Site <br />Recover Abandoned Cart will not be "
+"able to send Cart Abandoned Emails to Users Automatically<br />To enable "
+"wp_cron, edit the config.php of your Wordpress installation and search for "
+"'define('DISABLE_WP_CRON', 'true');' and set the value as false"
+msgstr ""
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:310
+msgid "Automatic emailing has been disabled for Members/Guests!!!"
+msgstr ""
+"Automàtics de correu electrònic ha estat desactivat per als Socis/Clients!!!"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:318
+msgid "Cron has not been set for sending Automatic Emails!!!"
+msgstr ""
+"Cron no ha estat establert per a l'enviament Automàtic de Correus "
+"electrònics!!!"
+
+#: inc/admin/menu/class-fp-rac-settings-submenu.php:319
+msgid "Try Deactivating the plugin and activating it again."
+msgstr "Proveu de Desactivar el plugin i activar-la de nou."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:34
+msgid "Product Info Table Settings"
+msgstr "Informació Del Producte Taula De Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:40
+msgid "Border for Table"
+msgstr "Vora de la Taula"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:48
+msgid "Display Variations for Variable Product"
+msgstr "Mostrar les Variacions de la Variable Producte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:49
+msgid ""
+"If \"Show\" is selected, variation name will be displayed if the product is "
+"a variable product)"
+msgstr ""
+"Si el \"Show\" està seleccionada, la variació nom es mostrarà si el producte "
+"és una variable producte)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:52
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:76
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:646
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:669
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:110
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:154
+msgid "Show"
+msgstr "Mostra"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:52
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:76
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:645
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:668
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:109
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:153
+msgid "Hide"
+msgstr "Amagar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:59
+msgid "Variable Product Display"
+msgstr "La Variable Producte De Display"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:66
+msgid "Attribute with Variation"
+msgstr "Atribut amb Variació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:67
+msgid "Variation Only"
+msgstr "Variació Només"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:71
+msgid "SKU"
+msgstr "SKU"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:74
+msgid ""
+"If enabled, SKU will be displayed next to product name in abandoned cart "
+"emails and cart list"
+msgstr ""
+"Si està habilitat, SKU es mostra al costat del nom del producte en abandonat "
+"la cistella de correus electrònics i de la cistella de la llista"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:82
+msgid "Product Name Column"
+msgstr "Nom Del Producte Columna"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:91
+msgid "Product Name Label"
+msgstr "Nom Del Producte Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:99
+msgid "Product Image Column"
+msgstr "Imatge De Producte Columna"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:108
+msgid "Product Image Label"
+msgstr "Imatge De Producte Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:121
+msgid "Product Quantity Column"
+msgstr "Quantitat De Productes Columna"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:130
+msgid "Product Quantity Label"
+msgstr "Quantitat De Productes Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:138
+msgid "Product Price Column"
+msgstr "Producte Preu Columna"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:147
+msgid "Product Price Label"
+msgstr "Producte Preu Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:155
+msgid "Subtotal, Shipping, Tax, Total Rows"
+msgstr "Subtotal, Transport, Impost, El Total De Files"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:164
+msgid "Subtotal Label"
+msgstr "Subtotal Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:173
+msgid "Total Label"
+msgstr "Total Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:182
+msgid "Shipping Row"
+msgstr "Enviament De La Fila"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:192
+msgid "Shipping Label"
+msgstr "Etiqueta D'Enviament"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:201
+msgid "Tax Row"
+msgstr "Impost Fila"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:211
+msgid "Tax Label"
+msgstr "Impost Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:220
+msgid "Display Product Price Including Tax in Emails"
+msgstr "Mostrar Preu del Producte Inclou l'Impost en els Correus electrònics"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:221
+msgid ""
+"If enabled, product price will be displayed including tax and if disabled, "
+"product price will be displayed excluding tax"
+msgstr ""
+"Si està habilitat, els preus de productes es mostrarà incloent-hi impostos i "
+"si discapacitats, el preu del producte es mostrarà excloent impostos"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:230
+msgid "Email Template Cart Link Settings"
+msgstr "Correu Electrònic Plantilla De La Cistella De L'Enllaç Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:235
+msgid "Cart Link Type"
+msgstr "Carro Tipus D'Enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:236
+msgid "Customize the cart link in email template"
+msgstr ""
+"Personalitzar la cistella de la compra enllaç al correu electrònic plantilla"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:243
+msgid "Hyperlink"
+msgstr "Enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:244
+msgid "URL"
+msgstr "URL"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:245
+msgid "Button"
+msgstr "Botó"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:246
+msgid "Image"
+msgstr "Imatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:251
+msgid "Button Background Color"
+msgstr "Botó Color De Fons"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:261
+msgid "Button Text Color"
+msgstr "Botó De Color Del Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:271
+msgid "Cart Link Color"
+msgstr "Cistella De Color De L'Enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:284
+msgid "Image Height"
+msgstr "Imatge D'Alçada"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:295
+msgid "Image Width"
+msgstr "Imatge Amplada"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:306
+msgid ""
+"Page to be Redirected on Clicking the Cart Link in Abandoned Cart Emails"
+msgstr ""
+"Pàgina per a ser Redirigit fent Clic a la Cistella de la compra Enllaç a "
+"Abandonar la Cistella de Missatges de correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:307
+msgid ""
+"Please Select the page that you want to redirect after clicking the Cart "
+"Link in email"
+msgstr ""
+"Si us plau, Selecciona la pàgina que voleu redirect després de fer clic a la "
+"Cistella de la compra Enllaç al correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:312
+msgid "Cart page"
+msgstr "Cistella de la pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:312
+msgid "Checkout page"
+msgstr "Obtenció de la pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:317
+msgid "Clear the Cart Content when Cart Link is Clicked"
+msgstr "Clar el Contingut de la Cistella quan el Carro es fa Clic a l'Enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:326
+msgid "Shortcode Customization in Email Template"
+msgstr "Abreujat de Personalització en el Correu electrònic de la Plantilla"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:331
+msgid "Date Format"
+msgstr "El Format De La Data"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:341
+msgid "Time Format"
+msgstr "Format D'Hora"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:351
+msgid "Shortcode in Email Subject Label"
+msgstr "Deficiència en l'Assumpte del Correu electrònic Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:352
+msgid ""
+"If the cart list contains more than one product, the label entered here will "
+"be displayed along with the name of the first product when using the "
+"shortcode {rac.productname} in abandoned cart email subject"
+msgstr ""
+"Si la cistella de la llista conté més d'un producte, l'etiqueta introdueix "
+"aquí es mostrarà juntament amb el nom del primer producte quan s'utilitza el "
+"codi abreujat {rac.productname} en abandonat carro assumpte del correu "
+"electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:361
+msgid "Unsubscription Settings"
+msgstr "Baixes Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:367
+msgid "Display Unsubscription option on My Account Page"
+msgstr "Pantalla de Baixes d'opció en el Meu Compte de la Pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:368
+msgid "If enabled, unsubscribe option will be displayed in \"My Account Page\""
+msgstr ""
+"Si està habilitat, donar-se de baixa opció es mostren a \"el Meu Compte de "
+"la Pàgina\""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:377
+msgid "Customize Unsubscription Heading"
+msgstr "Personalitza La Teva Baixa En Direcció"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:378
+msgid "Customize the heading appeared in My Account Page"
+msgstr ""
+"Personalitzar l'encapçalament van aparèixer en el Meu Compte de la Pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:388
+msgid "Customize Unsubscription Text"
+msgstr "Personalitza La Teva Baixa De Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:389
+msgid "Customize the Message appeared in My Account Page"
+msgstr "Personalitzar el Missatge ha aparegut al Meu Compte de la Pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:400
+msgid "Link in Email Footer"
+msgstr "Enllaç al Correu electrònic Peu de pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:401
+msgid "Note: "
+msgstr "Nota: "
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:401
+msgid ""
+"If unsubscription link is not visible in footer of email, then consider "
+"using the shortcode <b>{rac.unsubscribe}</b> in text editor for each email "
+"template"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:407
+msgid "If enabled, unsubscription link will be appended to the email footer"
+msgstr ""
+"Si està habilitat, baixes enllaç s'afegirà a la de correu electrònic peu de "
+"pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:411
+msgid "Enter Unsubscription Message which is visible in Email Footer"
+msgstr ""
+"Introduïu Baixes Missatge que és visible en el Correu electrònic Peu de "
+"pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:421
+msgid "Unsubscription Link Text in Email Template will"
+msgstr "Baixes Text de l'Enllaç en un Correu electrònic Plantilla"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:422
+msgid ""
+"Choose how the Unsubscription Link from Recovered Abandon Cart will be "
+"displayed in emails "
+msgstr ""
+"Trieu com la teva baixa Enllaç de Recuperar Abandonar la Cistella es "
+"mostrarà als correus electrònics "
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:427
+msgid "Replace WooCommerce footer text"
+msgstr "Substituir WooCommerce peu de pàgina text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:428
+msgid "Append to WooCommerce footer text"
+msgstr "Afegeix a WooCommerce peu de pàgina text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:435
+msgid "Link Anchor Text"
+msgstr "Enllaç De Text Àncora"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:436
+msgid "Enter the text to be replaced for {rac_unsubscribe} shortcode"
+msgstr "Introduïu el text a substituir per {rac_unsubscribe} abreujat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:445
+msgid "Unsubscribe Anchor Color"
+msgstr "Donar-Se De Baixa D'Ancoratge De Color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:455
+msgid "Type"
+msgstr "Tipus"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:456
+msgid "Please Select the Unsubscription Type"
+msgstr "Si us plau, Seleccioneu el Tipus de Baixes"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:467
+msgid "Redirect URL for Automatic Unsubscription"
+msgstr "URL de redirecció per Baixes Automàtiques"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:468
+msgid ""
+"Enter Redirect Url to redirect when click the Automatic unsubscription link"
+msgstr ""
+"Introduïu la Url de Redirecció per redirigir quan feu clic a l'baixes "
+"Automàtiques enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:478
+msgid "Redirect URL for Manual Unsubscription"
+msgstr "URL de redirecció per Manual de Baixes"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:479
+msgid ""
+"Enter Redirect Url to redirect when click the Manual unsubscription link"
+msgstr ""
+"Introduïu la Url de Redirecció per redirigir quan feu clic al Manual de "
+"baixes enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:489
+msgid "Already Unsubscribed Text"
+msgstr "Ja Donat De Baixa De Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:490
+msgid "Enter Already Unsubscribed Text"
+msgstr "Introduïu Ja Donat De Baixa De Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:499
+msgid "Unsubscribed Successfully Text"
+msgstr "Donat De Baixa Amb Èxit Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:500
+msgid "Enter Unsubscribed Successfully Text"
+msgstr "Introduïu Donat De Baixa Amb Èxit Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:509
+msgid "Confirm Unsubscription Text"
+msgstr "Confirmar Baixes De Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:510
+msgid "Enter Confirm Unsubscription Text"
+msgstr "Introduïu Confirmar Baixes De Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:520
+msgid "Message Text Color"
+msgstr "Text Del Missatge De Color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:521
+msgid "Choose Unsubscription Message Text color"
+msgstr "Triar Baixes Missatge de Text de color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:531
+msgid "Message Background color"
+msgstr "Missatge color de Fons"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:532
+msgid "Choose Background color for Unsubscription Message"
+msgstr "Triar el color de Fons per Baixes Missatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:542
+msgid "Unsubscription Email Text color"
+msgstr "Baixes de Correu electrònic Text de color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:543
+msgid "Choose Unsubscription Email Text color"
+msgstr "Triar Baixes de Correu electrònic Text de color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:553
+msgid "Confirm Unsubscription Text color"
+msgstr "Confirmar Baixes color del Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:554
+msgid "Choose Confirm Unsubscription Text color"
+msgstr "Triar Confirmar Baixes color del Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:565
+msgid "Menu Display Settings"
+msgstr "Menú De Configuració De Visualització"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:571
+msgid "Hide the Recover Abandoned Cart plugin Menu"
+msgstr "Amagar l'Recuperar Abandonat Carro plugin Menú"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:577
+msgid ""
+"Enable this option to Hide the Recover Abandoned Cart Menu for the following "
+"selected User Role(s)"
+msgstr ""
+"Activeu aquesta opció per Amagar la Recuperació Abandonat Carro Menú per a "
+"les següents seleccionat el Paper d'Usuari(s)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:580
+msgid "Select the User Role(s) to Hide the Recover Abandoned Cart plugin Menu"
+msgstr ""
+"Seleccioneu la Funció d'Usuari(s) per a Ocultar la Recuperació Abandonat "
+"Carro plugin Menú"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:592
+msgid "Add to Cart Popup Settings for Guest"
+msgstr "Afegir al Carret Emergent Configuració per a Cases d'"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:598
+msgid "Enable Add to cart popup"
+msgstr "Permeten Afegir a la cistella emergent"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:599
+msgid ""
+"Enabling this option will display popup to get email address when click Add "
+"to cart button"
+msgstr ""
+"En habilitar aquesta opció es mostrarà emergent per aconseguir adreça de "
+"correu electrònic quan feu clic a Afegir a la cistella botó"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:607
+msgid "Popup Display Mode"
+msgstr "Finestra Emergent De Mode De Visualització"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:608
+msgid ""
+"Instant Display - The Pop-up will display immediately if add to cart button "
+"clicked, Time Delayed Display - The Pop-up will display afer a Specific Time "
+"Duration delay"
+msgstr ""
+"Instant Mostrar - La Pop-up mostrarà immediatament si afegir al carret botó "
+"clicat, Temps de Retard de Mostrar - La Pop-up mostrarà afer un determinat "
+"Temps de Durada de retard"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:614
+msgid "Instant Display"
+msgstr "Instantània De Display"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:615
+msgid "Time Delayed Display"
+msgstr "Temps De Retard De Display"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:628
+msgid "Is Email Address Mandatory for Add to Cart"
+msgstr "És l'Adreça de Correu electrònic Obligatori per a Afegir a la Cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:629
+msgid "Enabling this option will force guest to enter email address"
+msgstr ""
+"En habilitar aquesta opció es força cases d'introduir adreça de correu "
+"electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:638
+msgid "To Show or Hide First name and last name in Guest add to cart Pop Up"
+msgstr ""
+"Per Mostrar o Amagar el nom i cognom en Cases d'afegir a la cistella emergent"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:651
+msgid "Is First/Last Name Mandatory for Add to Cart"
+msgstr "És el Primer/Últim Nom Obligatori per a Afegir a la Cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:652
+msgid ""
+"Enabling this option will Force Guest Users to Enter their First Name and "
+"Last Name"
+msgstr ""
+"En habilitar aquesta opció es Força els Usuaris Convidats a Entrar al seu "
+"Nom i cognom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:661
+msgid "To Show or Hide Contact number in Guest add to cart Pop Up"
+msgstr ""
+"Per Mostrar o Amagar el número de telèfon de Contacte en Cases d'afegir a la "
+"cistella emergent"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:674
+msgid "Is Phone Number Mandatory for Add to Cart"
+msgstr "És el Número de Telèfon Obligatori per a Afegir a la Cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:675
+msgid ""
+"Enabling this option will Force Guest Users to Enter their Contact Number"
+msgstr ""
+"En habilitar aquesta opció es Força Cases d'Usuaris d'Introduir el seu "
+"Número de Contacte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:684
+msgid "Popup Heading"
+msgstr "Emergent Epígraf"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:686
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:687
+msgid "Please enter your Details"
+msgstr "Si us plau, introdueixi les seves Dades"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:693
+msgid "Enable Popup Sub Heading"
+msgstr "Enable Popup Sub Epígraf"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:702
+msgid "Popup Sub Heading"
+msgstr "Emergent Sub Epígraf"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:704
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:705
+msgid "To add this item to your cart, please enter the details below"
+msgstr ""
+"Afegir aquest element a la seva cistella, si us plau, introduïu les dades "
+"següents"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:711
+msgid "First Name Label"
+msgstr "Primera Etiqueta De Nom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:713
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:714
+msgid "Enter your First Name"
+msgstr "Escriu el teu Nom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:720
+msgid "Last Name Label"
+msgstr "Última Etiqueta De Nom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:722
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:723
+msgid "Enter your Last Name"
+msgstr "Introdueix el teu cognom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:729
+msgid "Phone Number Label"
+msgstr "Número De Telèfon Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:731
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:732
+msgid "Enter Your Contact Number"
+msgstr "Introduïu El Vostre Número De Telèfon De Contacte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:738
+msgid "Email Address Label"
+msgstr "Adreça De Correu Electrònic Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:740
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:741
+msgid "Enter your Email Address"
+msgstr "Introduïu la vostra Adreça de Correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:747
+msgid "Background Color of Pop_Up field"
+msgstr "Color de fons del camp Pop_Up"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:757
+msgid "Add to cart button Text"
+msgstr "Afegir al carret de Text de botons"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:759
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:760
+msgid "Add to cart"
+msgstr "Afegir a la cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:766
+msgid "Add to cart button Color"
+msgstr "Afegir al carret de botó de Color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:776
+msgid "Cancel button Text"
+msgstr "Botó cancel·la Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:778
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:779
+msgid "Cancel"
+msgstr "Cancel·la"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:785
+msgid "Cancel button Color"
+msgstr "Botó cancel·la Color"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:796
+msgid "Error Message Localization"
+msgstr "Missatge D'Error De Localització"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:802
+msgid "Error Message for Empty First Name field"
+msgstr "Missatge d'Error per Buida Primer Nom de camp"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:804
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:805
+msgid "Please Enter your First Name"
+msgstr "Si us plau, escriu el teu Nom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:811
+msgid "Error Message for Empty Last Name field"
+msgstr "Missatge d'Error per Buit cognom camp"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:813
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:814
+msgid "Please Enter your Last Name"
+msgstr "Si us plau, Introdueixi el seu Nom Passat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:820
+msgid "Error Message for Empty Contact Number field"
+msgstr "Missatge d'Error per Buit Número de telèfon de Contacte camp"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:822
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:823
+msgid "Please Enter your Contact Number"
+msgstr "Si us plau, Introdueixi el seu Número de Contacte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:829
+msgid "Error Message for Invalid Contact Number"
+msgstr "Missatge d'Error per Invalid Número de telèfon de Contacte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:831
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:832
+msgid "Please Enter valid Contact Number"
+msgstr "Si us plau Introduïu vàlida Número de telèfon de Contacte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:838
+msgid "Error Message for Empty Email field"
+msgstr "Missatge d'Error per a Buit el camp de Correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:840
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:841
+msgid "Please Enter your Email Address"
+msgstr "Si us plau, Introduïu la vostra Adreça de Correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:847
+msgid "Error Message for Invalid Email Address"
+msgstr "Missatge d'Error per Adreça Electrònica no Vàlida"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:849
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:850
+msgid "Please Enter your Valid Email Address"
+msgstr "Si us plau, Introduïu la vostra Adreça de Correu electrònic Vàlida"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:857
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:862
+#: templates/email-template/templates.php:396
+msgid "Custom CSS"
+msgstr "CSS personalitzat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:863
+msgid "Customize the popup window using custom CSS"
+msgstr "Personalitzar la finestra emergent utilitzant CSS personalitzat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:885
+msgid "Personal Data Export Settings for GDPR Compliance"
+msgstr "Personal d'Exportació de Dades de Configuració per GDPR Compliment"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:890
+msgid "Personal Data Export Label"
+msgstr "Dades Personals Exportació Etiqueta"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:892
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:893
+msgid "Cart Captured for Recovery"
+msgstr "Carro Capturat per a la Recuperació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:948
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:883
+msgid "Reset"
+msgstr "Reset"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:966
+msgid "Product Info Table Column Positioning"
+msgstr "Informació Del Producte Taula De La Columna De Posicionament"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:970
+#: inc/frontend/class-fp-rac-lightbox-handler.php:39
+#: inc/frontend/class-fp-rac-lightbox-handler.php:99
+msgid "Product Name"
+msgstr "Nom Del Producte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:970
+msgid "Product Image"
+msgstr "Imatge De Producte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:970
+#: inc/emails/class-fp-rac-admin-notification-email.php:38
+msgid "Quantity"
+msgstr "Quantitat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:970
+msgid "Total"
+msgstr "Total"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:994
+msgid "Cart Link Image"
+msgstr "Carro Enllaç De La Imatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:1001
+msgid "Choose Image"
+msgstr "Escolliu Imatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:1002
+msgid "Upload Image"
+msgstr "Pujar La Imatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:1019
+msgid "Seconds"
+msgstr "Segons"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:1034
+msgid "Product Image Size"
+msgstr "Producte Mida De La Imatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:1041
+msgid "px"
+msgstr "px"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracadvance-tab.php:1042
+msgid ""
+"(Width X Height)To customize the size of the Product Image to be displayed "
+"in Abandoned Cart Email(s)"
+msgstr ""
+"(Amplada X Alçada)Per personalitzar la mida de la Imatge del Producte per a "
+"ser visualitzat en Abandonat la Cistella de Correu electrònic(s)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:28
+msgid "Coupon Code Creation Global Settings"
+msgstr "Codi De Cupó Creació Configuració Global"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:33
+msgid "Coupon Creation Mode"
+msgstr "Cupó Creació Mode"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:34
+msgid ""
+"\"Default\" - same coupon code will be sent in all templates unless the user "
+"has used the coupon. \"Configure on Each Template\" - coupons with different "
+"values can be configured for each template"
+msgstr ""
+"\"Per defecte\" - el mateix codi de cupó serà enviat a totes les plantilles, "
+"tret que l'usuari ha utilitzat el cupó. \"Configurar en Cada Plantilla\" - "
+"cupons amb diferents valors es pot configurar per a cada plantilla"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:39
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:53
+#: templates/email-template/coupon.php:20
+msgid "Default"
+msgstr "Per defecte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:40
+msgid "Configure on Each Template"
+msgstr "Configurar en Cada Plantilla"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:47
+msgid "Coupon code Prefix Type"
+msgstr "Codi de cupó Prefix Tipus"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:48
+#: templates/email-template/coupon.php:18
+msgid "Select Prefix Text in Coupon Code"
+msgstr "Seleccioneu el Prefix de Text en el Codi de Cupó"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:54
+#: templates/email-template/coupon.php:21
+msgid "Custom"
+msgstr "Personalitzat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:61
+#: templates/email-template/coupon.php:26
+msgid "Coupon Code Prefix"
+msgstr "Codi De Cupó Prefix"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:62
+#: templates/email-template/coupon.php:28
+msgid "Enter Custom Prefix Text for Coupon Code"
+msgstr "Introduïu Personalitzada Prefix Text per Codi de Cupó"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:72
+#: templates/email-template/coupon.php:33
+msgid "Discount Type"
+msgstr "Tipus De Descompte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:73
+#: templates/email-template/coupon.php:35
+msgid "Please Select which type of discount should be applied"
+msgstr "Si us plau, Seleccioneu el tipus de descompte s'hauria d'aplicar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:78
+#: templates/email-template/coupon.php:37
+msgid "Amount"
+msgstr "Quantitat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:78
+#: templates/email-template/coupon.php:38
+msgid "Percentage"
+msgstr "Percentatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:84
+#: templates/email-template/coupon.php:43
+msgid "Value"
+msgstr "Valor"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:85
+#: templates/email-template/coupon.php:45
+#, php-format
+msgid ""
+"Enter the value to reduce in currency or % based on the Type of Discount "
+"Selected without any Symbols"
+msgstr ""
+"Introduïu el valor per a reduir en moneda o % en funció del Tipus de "
+"Descompte Seleccionat sense cap tipus de Símbols"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:95
+#: templates/email-template/coupon.php:50
+msgid "Validity in Days"
+msgstr "Validesa en Dies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:96
+#: templates/email-template/coupon.php:52
+msgid "Enter a value(days in number) for how long the Coupon should be Active"
+msgstr ""
+"Introduïu un valor(en dies en nombre) per el temps de Descompte ha de ser "
+"Activa"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:106
+#: templates/email-template/coupon.php:57
+msgid "Minimum Amount for Coupon Usage"
+msgstr "Import mínim de Descompte Ús"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:114
+#: templates/email-template/coupon.php:63
+msgid "Maximum Amount for Coupon Usage"
+msgstr "Per un Import màxim de Cupó Ús"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:123
+#: templates/email-template/coupon.php:69
+msgid "Individual Use Only"
+msgstr "L'Ús Individual, Només"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:125
+#: templates/email-template/coupon.php:72
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other "
+"coupons."
+msgstr ""
+"Marqueu aquesta casella si el cupó no pot ser utilitzat en combinació amb "
+"altres cupons."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:133
+#: templates/email-template/coupon.php:76
+msgid "Exclude sale items"
+msgstr "Excloure venda d'articles"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:135
+#: templates/email-template/coupon.php:79
+msgid ""
+"Check this box if the coupon should not apply to items on sale. Per-item "
+"coupons will only work if the item is not on sale. Per-cart coupons will "
+"only work if there are items in the cart that are not on sale"
+msgstr ""
+"Marqueu aquesta casella si el descompte no s'ha d'aplicar a articles a la "
+"venda. Per element cupons només funcionaran si l'article no està en venda. "
+"Per la cistella de cupons només funcionarà si no hi ha articles a la "
+"cistella de que no són a la venda"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:142
+#: templates/email-template/coupon.php:83
+msgid "Allow Free Shipping"
+msgstr "Permet L'Enviament Gratis"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:144
+#: templates/email-template/coupon.php:86
+msgid ""
+"Check this box if the coupon grants free shipping. A free shipping method "
+"must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see the \"Free Shipping Requires\" setting)."
+msgstr ""
+"Marqueu aquesta casella si el cupó subvencions enviament gratuït. Un "
+"enviament gratuït mètode ha d'estar habilitades en el vostre enviament de la "
+"zona i es va exigir \"una vàlid l'enviament gratuït de cupó\" (vegeu "
+"\"Enviament Gratuït Requereix\" configuració)."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:152
+#: templates/email-template/coupon.php:90
+msgid "Restrict Coupons to Issued Users"
+msgstr "Restringir Cupons per Emetre Usuaris"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:154
+#: templates/email-template/coupon.php:93
+msgid ""
+"When enabled, the issued Coupons can be used only by the users to whom it "
+"was issued."
+msgstr ""
+"Quan està habilitada, l'expedició Cupons només es pot utilitzar per els "
+"usuaris a qui s'ha emès."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:168
+msgid "Include Category"
+msgstr "Incloure Categoria"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:169
+#: templates/email-template/coupon.php:117
+msgid ""
+"Select the Categories to which the coupons from abandoned cart emails can be "
+"applied"
+msgstr ""
+"Seleccioneu les Categories a les quals els cupons de abandonada carret de "
+"correus electrònics es pot aplicar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:180
+msgid "Exclude Category"
+msgstr "Excloure Categoria"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:181
+#: templates/email-template/coupon.php:126
+msgid ""
+"Select the Categories to which the coupons from abandoned cart emails cannot "
+"be applied"
+msgstr ""
+"Seleccioneu les Categories a les quals els cupons de abandonada carret de "
+"correus electrònics no es pot aplicar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:193
+msgid "Coupon Code Deletion Settings"
+msgstr "Codi De Cupó Supressió De Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:198
+msgid "Delete Coupons once Used"
+msgstr "Esborrar Cupons, una vegada Utilitzats"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:199
+msgid ""
+"If enabled, coupons which are automatically created by Recover Abandoned "
+"Cart plugin will be deleted once the coupon is used"
+msgstr ""
+"Si està habilitat, els cupons que es creen automàticament per Recuperar "
+"Abandonat Carro plugin es poden suprimir un cop el cupó s'utilitza"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:207
+msgid "Delete Coupon when"
+msgstr "Suprimir quan Cupó"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:211
+msgid "User Place the Order"
+msgstr "Usuari Lloc de l'Ordre"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:211
+msgid "Placed Order reaches Specific Status"
+msgstr "Posat Fi arriba Estat Específics"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:218
+msgid "Delete Coupon when Order Status becomes"
+msgstr "Esborrar Cupó, quan es converteix en l'Estat de la Comanda"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:230
+msgid "Delete Coupons once Expired"
+msgstr "Esborrar Cupons un cop Caducat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpraccoupon-tab.php:231
+msgid ""
+"If enabled, the coupons which created automatically by Recover Abandoned "
+"Cart plugin will be deleted once the coupon expired based on the validity "
+"configured. If the validity not configured(set as blank), then the coupon "
+"will not generate"
+msgstr ""
+"Si està habilitat, els cupons que ha creat automàticament per Recuperar "
+"Abandonat Carro plugin es poden suprimir un cop descompte caducats, basat en "
+"la vigència configurat. Si la validesa no configurat(conjunt com en blanc), "
+"llavors el cupó no generen"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:27
+msgid "Troubleshoot Settings"
+msgstr "Resoldre Problemes De Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:32
+msgid "Email Function to Use"
+msgstr "Funció per a Utilitzar el correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:33
+msgid "Please Select which mail function to use while sending notification"
+msgstr ""
+"Si us plau, Seleccioneu la qual correu funció de l'ús, mentre que "
+"l'enviament de la notificació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:44
+msgid "Use Email Troubleshoot"
+msgstr "L'Ús De Correu Electrònic Solució De Problemes"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:45
+msgid ""
+"Please enable this option if you want to send Emails using Fifth Parameter "
+msgstr ""
+"Si us plau habiliteu aquesta opció si voleu enviar Missatges de correu "
+"electrònic utilitzant el Cinquè Paràmetre "
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:50
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:62
+msgid "Enable"
+msgstr "Habiliteu"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:50
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:61
+msgid "Disable"
+msgstr "Deshabilitar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:56
+msgid "Use Email as Fifth Parameter"
+msgstr "Utilitzar el Correu electrònic com a Cinquè Paràmetre"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:64
+msgid "MIME Version 1.0 Parameter"
+msgstr "MIME Versió 1.0 Paràmetre"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:69
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:80
+msgid "Include"
+msgstr "Incloure"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:69
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:80
+msgid "Exclude"
+msgstr "Excloure"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:75
+msgid "Reply-To Parameter"
+msgstr "Resposta A Paràmetre"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:87
+msgid "Troubleshoot Performance Settings"
+msgstr "Solució De Problemes De Rendiment Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:92
+msgid "Load Recover Abandoned Cart Scripts/Styles in"
+msgstr "Càrrega Recuperar Abandonat la Cistella de Scripts/Estils en"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:93
+msgid ""
+"\"Footer of the Site\" option is experimental and if your theme doesn't "
+"contain wp_footer hook then it won't work"
+msgstr ""
+"Peu de pàgina del Lloc\" opció és experimental i si el tema no conté "
+"wp_footer ganxo llavors no funcionarà"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:98
+msgid "Header of the site"
+msgstr "Capçalera de la pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:98
+msgid "Footer of the site(Experimental)"
+msgstr "Peu de pàgina de la pàgina web(Experimental)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:105
+msgid "Ajax Chunking Settings"
+msgstr "Ajax Segmentat Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:110
+msgid "Chunk Count Per Ajax Call"
+msgstr "Fragment De Comptar Per Ajax Convocatòria"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:111
+msgid "Applicable for \"Check Previous Orders\" tab"
+msgstr "Aplicables per a \"Comprovar Comandes Anteriors\" a la pestanya"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:118
+msgid "Don't Change the Value unless you need"
+msgstr "No Canvieu el Valor a menys que vostè necessita"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:122
+msgid "Cron Troubleshoot Settings"
+msgstr "Cron Resoldre Problemes De Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:128
+msgid "What Cron will be Used"
+msgstr "Què Cron serà Utilitzat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:133
+msgid "wp_cron"
+msgstr "wp_cron"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:133
+msgid "server_cron"
+msgstr "server_cron"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:140
+msgid "Remove Old Cart(s) Captured Hook Settings"
+msgstr "Esborrar de la Cistella(s) Capturat Ganxo de Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:146
+msgid "Hook used to Remove Old Carts"
+msgstr "Hook s'utilitza per Eliminar els Antics Carros"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:151
+msgid ""
+"Other Hooks - wc add to cart item, wc cart_item_removed, wc "
+"cart_item_restored & wc after_cart_item_quantity_update"
+msgstr ""
+"Altres Ganxos - wc afegir a la cistella de comanda, wc cart_item_removed, wc "
+"cart_item_restored wc after_cart_item_quantity_update"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:152
+msgid "WooCommerce_Cart_Updated"
+msgstr "WooCommerce_Cart_Updated"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:152
+msgid "Other Hooks"
+msgstr "Altres Ganxos"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:159
+msgid "Abandon Cart List Status Management Settings"
+msgstr ""
+"Abandonar La Cistella De La Llista De L'Estat De Gestió De La Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:164
+msgid "Update Status of Captured Carts when Cart List Table is Accessed"
+msgstr ""
+"Actualitzar l'Estat de Capturat Carros quan Cistella de la Llista de la "
+"Taula s'Accedeix"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:174
+msgid ""
+"Display Update Status Button in Cart List Table for Updating the Captured "
+"Carts Status"
+msgstr ""
+"Mostrar l'Estat d'Actualització Botó a la Cistella de la Llista de la Taula "
+"per a l'Actualització de la Capturat Carros Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:232
+msgid "Manual Data Updation"
+msgstr "Manual De Dades Updation"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:235
+msgid "Update User Data for Previous Orders"
+msgstr "Actualització de les Dades de l'Usuari per a Comandes Anteriors"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:237
+msgid "Update"
+msgstr "Actualització"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:248
+msgid "Test Email Settings"
+msgstr "Prova De La Configuració De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:251
+msgid "Email Format"
+msgstr "Format De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:254
+msgid "Plain Text"
+msgstr "Text"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:255
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracdebug-tab.php:261
+msgid "Send Test Email to"
+msgstr "Enviar Prova Correu electrònic a"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:44
+msgid "NEW"
+msgstr "NOUS"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:45
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:49
+msgid "ABANDON"
+msgstr "ABANDONAR"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:46
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:50
+msgid "RECOVERED"
+msgstr "RECUPERAT"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:53
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:60
+msgid "Shop Page"
+msgstr "La Botiga De La Pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:56
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:63
+msgid "Single Product Page"
+msgstr "Sola Pàgina De Producte"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:57
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:64
+msgid "Category Page"
+msgstr "Pàgina De Categoria"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:65
+msgid "Popup Window Email"
+msgstr "Finestra Emergent Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:66
+msgid "Checkout Page Email"
+msgstr "Obtenció De La Pàgina De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:71
+msgid "Time Settings"
+msgstr "Temps Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:80
+msgid "Email Cron Settings"
+msgstr "Correu Electrònic Configuració De Cron"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:92
+msgid "Cart List Settings"
+msgstr "Cistella De La Llista De Paràmetres"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:97
+msgid "Capture Carts of Logged-In Users"
+msgstr "Captura de Carros de Usuaris Registrats"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:103
+msgid "Enabling this option will capture abandoned carts of logged-in users"
+msgstr ""
+"En habilitar aquesta opció es captura abandonat carros de usuaris registrats"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:106
+msgid "Cart Capture Display Notice for Members"
+msgstr "La cistella de la Captura de Pantalla Avís per a Socis"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:118
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:162
+msgid "Pages to Display"
+msgstr "Pàgines a Mostrar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:128
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:172
+msgid ""
+"Enter the first three characters of the locations you wish to display the "
+"notice."
+msgstr ""
+"Introduïu els tres primers caràcters de les ubicacions que voleu mostrar "
+"l'anunci."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:131
+msgid "User Notice Message"
+msgstr "Usuari Avís Missatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:139
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:183
+msgid "This notice will be displayed on the locations selected above."
+msgstr "Aquest avís es mostrarà a la localització seleccionada anteriorment."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:142
+msgid "Capture Carts of Guests"
+msgstr "Captura de Carros de Clients"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:147
+msgid "Enabling this option will capture abandoned carts of guests"
+msgstr ""
+"En habilitar aquesta opció es captura abandonat els carros dels clients"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:150
+msgid "Cart Capture Display Notice for Guests"
+msgstr "La cistella de la Captura de Pantalla Avís per a Clients"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:175
+msgid "Guest Notice Message"
+msgstr "Cases D'Avís Missatge"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:186
+msgid ""
+"When Multiple Cart Entries are about to be Captured for the Same Email ID "
+"then"
+msgstr ""
+"Quan Diverses Carro Entrades estan a punt de ser Capturat per la Mateixa "
+"Correu electrònic ID continuació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:189
+msgid "Capture all the carts"
+msgstr "Capturar tots els carros"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:190
+msgid "Remove old carts and capture new cart"
+msgstr "Esborrar carros i captar nous cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:191
+msgid "Don't capture any new cart"
+msgstr "No capturar cap nova cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:199
+msgid "Remove Carts with \"NEW\" Status"
+msgstr "Treure els Carros amb \"NOU\" Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:200
+msgid "Enabling this option will remove New Carts by same Users"
+msgstr ""
+"En habilitar aquesta opció es eliminar Nou Carros de la mateixa Usuaris"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:209
+msgid "Remove Carts with \"ABANDON\" Status"
+msgstr "Treure els Carros amb \"ABANDONAR\" Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:210
+msgid "Enabling this option will remove Abandon Carts by same Users"
+msgstr ""
+"En habilitar aquesta opció es eliminar Abandonar Carros pels Usuaris mateixos"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:219
+msgid ""
+"Restrict Cart List Capturing when Old Carts of the User is in any One of the "
+"Following Status"
+msgstr ""
+"Restringir la Cistella de la Llista de Captura quan Antics Carros de "
+"l'Usuari en qualsevol de les Següents Estatus"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:231
+msgid ""
+"Create an Entry in Cart List Table when the Order reaches \"Failed\" status"
+msgstr ""
+"Crear una Entrada a Cistella de la Llista de la Taula quan la Comanda arribi "
+"a \"Fracassat\" estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:232
+msgid ""
+"If enabled, an entry will be added in \"Cart List\" when the order reaches "
+"\"Failed\" status"
+msgstr ""
+"Si està habilitada, una entrada serà afegit en la \"Cistella de la Llista\" "
+"quan la comanda arribi a \"Fracassat\" estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:240
+msgid ""
+"Create an Entry in Cart List Table when the User Cancels the Order from the "
+"Third Party Payment Page"
+msgstr ""
+"Crear una Entrada a Cistella de la Llista de la Taula quan l'Usuari "
+"Cancel·la l'Ordre de la Tercera Part de la Pàgina de Pagament"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:241
+msgid ""
+"If enabled, an entry will be added in \"Cart List\" when the user cancels "
+"the order from the third party payment pages"
+msgstr ""
+"Si està habilitada, una entrada serà afegit en la \"Cistella de la Llista\" "
+"quan l'usuari cancel·la l'ordre del tercer pagament de les pàgines"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:249
+msgid ""
+"Prevent Adding Additional Cart Entry when the Order is Cancelled by the Same "
+"User"
+msgstr ""
+"Evitar Afegir Addicionals de la Cistella de l'Entrada quan la Comanda es "
+"Cancel · la el Mateix Usuari"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:250
+msgid ""
+"Enabling this option will Prevent adding \"New\" cart when order cancelled "
+"in cart page"
+msgstr ""
+"Si activeu aquesta opció, s'evitarà afegir \"Noves\" carro quan l'ordre "
+"cancel·lat en la cistella de la pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:258
+msgid "Remove Carts after x Days"
+msgstr "Treure els Carros després de x Dies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:259
+msgid ""
+"If \"Yes\" is selected, you can remove captured carts with specific status "
+"after specific number of days"
+msgstr ""
+"Si el \"Sí\" està seleccionada, podeu eliminar capturat carros amb la "
+"situació específica després determinat nombre de dies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:263
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:519
+msgid "Yes"
+msgstr "Sí"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:263
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:519
+msgid "No"
+msgstr "No"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:270
+msgid "Remove Carts after"
+msgstr "Treure els Carros després"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:271
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:527
+msgid "day(s)"
+msgstr "dia(s)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:280
+msgid "Remove Carts with the Following Status"
+msgstr "Treure els Carros amb la Següent Condició"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:281
+msgid "carts will be removed from cart list table based on selected status"
+msgstr ""
+"carros serà eliminat de la cistella de la llista de taula basat en estat "
+"seleccionada"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:294
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:436
+msgid "Custom Restriction Settings"
+msgstr "Costum De Configuració De Restricció"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:295
+msgid "Cart List Entry Capturing Restriction based on the following option(s)"
+msgstr ""
+"Cistella de la Llista d'Entrada de la Captura de Restricció basada en "
+"l'opció següent(s)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:300
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:442
+#: templates/email-template/templates.php:211
+msgid "User Role"
+msgstr "Rol De L'Usuari"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:301
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:443
+msgid "Name"
+msgstr "Nom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:303
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:445
+msgid "Email Provider"
+msgstr "Proveïdor De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:304
+#: inc/compatibility/fp-rac-personal-data-handler.php:105
+msgid "IP Address"
+msgstr "Adreça IP"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:312
+msgid "Cart List Capturing is"
+msgstr "Cistella de la Llista de la Captura és"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:317
+msgid "Not allowed for selected option"
+msgstr "No es permet per a la selecció de l'opció"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:318
+msgid "Allowed for selected option"
+msgstr "Admesos per a la selecció de l'opció"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:326
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:467
+msgid "Select User Role"
+msgstr "Seleccioneu El Paper D'Usuari"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:327
+msgid "Enter the First Three Characters of User Role"
+msgstr "Introduïu els Tres Primers Caràcters del Rol de l'Usuari"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:339
+msgid "Select Users"
+msgstr "Seleccioneu Els Usuaris"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:340
+msgid "Enter the First Three Characters of User Name"
+msgstr "Introduïu els Tres Primers Caràcters del Nom d'Usuari"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:350
+msgid "Custom Email ID Selected"
+msgstr "Correu electrònic personalitzat ID Seleccionat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:351
+msgid ""
+"Enter Email ID per line which will be restricted to includes an entry in "
+"Cart List"
+msgstr ""
+"Introdueix el Correu electrònic ID per línia que serà restringit inclou una "
+"entrada a Cistella de la Llista"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:361
+msgid "Custom Email Provider Selected"
+msgstr "Correu Electrònic Personalitzat Proveïdor Seleccionat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:362
+msgid ""
+"Enter Mail ID per line which will be restricted to includes an entry in Cart "
+"List"
+msgstr ""
+"Introdueix el Correu ID per línia que serà restringit inclou una entrada a "
+"Cistella de la Llista"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:372
+msgid "Custom IP Address Selected"
+msgstr "Costum Adreça IP Seleccionada"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:373
+msgid ""
+"Enter IP Address per line which will be restricted to includes an entry in "
+"Cart List"
+msgstr ""
+"Introduïu l'Adreça IP per línia que serà restringit inclou una entrada a "
+"Cistella de la Llista"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:384
+msgid "Email Settings"
+msgstr "Configuració De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:389
+msgid "Send Email to Members"
+msgstr "Enviar un Correu electrònic a Socis"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:390
+msgid "If enabled, emails will be send to members"
+msgstr ""
+"Si està habilitat, missatges de correu electrònic s'enviarà als membres"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:398
+msgid "Send Email to Guests"
+msgstr "Enviar un Correu electrònic a Clients"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:399
+msgid "If enabled, emails will be send to guests"
+msgstr ""
+"Si està habilitat, missatges de correu electrònic serà enviat als clients"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:407
+msgid "Email Sending Method"
+msgstr "Correu Electrònic Enviar Mètode"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:411
+msgid "Based on abandoned cart time"
+msgstr "Basat en abandonat la cistella de temps"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:411
+msgid "Based on previous email sent time"
+msgstr "Basat en anteriors correu electrònic enviat temps"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:417
+msgid "Email Sending Priority "
+msgstr "Correu Electrònic Enviar Prioritat "
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:421
+msgid "Email duration"
+msgstr "Correu electrònic durada"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:421
+msgid "Email sequence"
+msgstr "Correu electrònic seqüència"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:427
+msgid ""
+"Restrict Automatic Abandoned Cart Emails if Captured Cart Contains a Product "
+"which was already Purchased"
+msgstr ""
+"Restringir Automàtica Abandonat la Cistella de Missatges de correu "
+"electrònic si Capturat Cistella Conté un Producte que ja estava Comprat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:428
+msgid ""
+"If enabled, automatic abandoned cart emails will not be sent if captured "
+"cart contains a product which was already purchased"
+msgstr ""
+"Si està habilitat, automàtica abandonat la cistella de missatges de correu "
+"electrònic no serà enviat si capturat cistella conté un producte que ja "
+"estava comprat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:437
+msgid ""
+"Email Sending Restriction for the Captured Cart List entry based on the "
+"following option(s)"
+msgstr ""
+"Correu electrònic Enviar Restricció per a la Captura de la Cistella entrada "
+"de Llista que es basa en l'opció següent(s)"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:453
+msgid "Abandoned Cart Emails are"
+msgstr "Abandonada la Cistella de Correus"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:458
+msgid "Not sent for the selected option"
+msgstr "No es destinen a l'opció escollida"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:459
+msgid "Sent for the selected option"
+msgstr "Enviat per l'opció escollida"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:479
+msgid "User Name Selected"
+msgstr "Nom D'Usuari Seleccionat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:480
+msgid "Enter the First Three Character of User Name"
+msgstr "Introduïu els Tres Primers Caràcters del Nom d'Usuari"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:490
+msgid "Custom Mail ID Selected"
+msgstr "Personalitzada de Correu ID Seleccionat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:491
+msgid ""
+"Enter Mail ID per line which will be excluded to receive a mail from Recover "
+"Abandon Cart"
+msgstr ""
+"Introdueix el Correu ID per línia que s'exclouen per rebre un correu de "
+"Recuperar Abandonar la Cistella"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:502
+msgid "Restrict Email Providers"
+msgstr "Restringir Proveïdors De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:503
+msgid ""
+"Enter the email providers seperated by comma. Do not enter any special "
+"characters"
+msgstr ""
+"Introdueix el correu electrònic proveïdors separats per comes. No introduïu "
+"els caràcters especials"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:514
+msgid "Remove email log(s) after x Days"
+msgstr "Suprimir correu electrònic del registre(s) després de x Dies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:515
+msgid ""
+"If \"Yes\" is selected, you can remove email log(s) after specific number of "
+"days"
+msgstr ""
+"Si el \"Sí\" està seleccionada, podeu eliminar-la de correu electrònic de "
+"registre(s) després determinat nombre de dies"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:526
+msgid "Remove email log(s) after"
+msgstr "Suprimir correu electrònic del registre(s) després de"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:537
+msgid "Recover Status Settings"
+msgstr "Recuperar La Configuració De L'Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:542
+msgid ""
+"Change All the New/Abandon Cart Lists of a User when they Place on Order in "
+"the Site"
+msgstr ""
+"Canviar Totes les Noves/Abandonar la Cistella de Llistes d'un Usuari en el "
+"moment que posen en Ordre en el Lloc"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:543
+msgid "Recover Cart List based on Order Status"
+msgstr "Recuperar la Cistella de la Llista en funció de l'Estat de la Comanda"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:556
+msgid "Allow Manual Orders to Recover Cart List"
+msgstr "Permet Manual de Comandes per Recuperar la Cistella de la Llista"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:557
+msgid ""
+"Enable this Option will help to recover cart list based on manually created "
+"orders."
+msgstr ""
+"Habiliteu aquesta Opció ajudarà a recuperar-se de la cistella de la llista "
+"basa en crear manualment les comandes."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:568
+msgid "New Status to Recovered Status"
+msgstr "Estat nou a Recuperar l'Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:569
+msgid "Based on Order Status change New Status to Recovered Status"
+msgstr ""
+"Basat en l'Estat de la Comanda canviar l'Estat de Nou a Recuperar l'Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:580
+msgid "Abandon Status to Recovered Status"
+msgstr "Abandonar l'Estat a Recuperar l'Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:581
+msgid "Based on Order Status change Abandon Status to Recovered Status"
+msgstr ""
+"Basat en l'Estat de la Comanda canvi d'Abandonar l'Estat a Recuperar l'Estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:592
+msgid ""
+"Change Status of the Captured Cart Entry to Recovered when Order status "
+"becomes"
+msgstr ""
+"Canvi d'Estat de la Captura de la Cistella de l'Entrada per Recuperar quan "
+"l'estat de la Comanda es converteix en"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:593
+msgid ""
+"Status of captured cart entry will be changed to \"Recovered\" if the order "
+"status of placed order reaches any one of the selected status"
+msgstr ""
+"Estat de captura de la cistella de l'entrada serà canviat per \"Recuperar\" "
+"si l'estat de la comanda d'posat fi arriba un dels seleccionats estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:606
+msgid "Admin Notification Settings"
+msgstr "Admin Configuració De Les Notificacions"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:611
+msgid "Notify Admin by Email when an Order is Recovered"
+msgstr ""
+"Notificar Administració per Correu electrònic quan una Ordre que es recupera"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:619
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:689
+msgid "Admin Email IDs"
+msgstr "Admin Id Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:626
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:696
+msgid "Enter the email IDs separated by comma"
+msgstr "Introdueix el correu electrònic Identificadors separats per una coma"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:630
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:700
+msgid "Sender Option"
+msgstr "Remitent Opció"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:638
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:708
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:639
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:709
+msgid "Local"
+msgstr "Local"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:662
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:732
+msgid "Email Subject"
+msgstr "Assumpte Del Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:671
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:741
+msgid "Email Message"
+msgstr "Missatge De Correu Electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:681
+msgid "Notify Admin by Email when the cart is abandoned"
+msgstr ""
+"Notificar Administració per Correu electrònic quan el carro està abandonat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:752
+msgid "Guest Cart Settings"
+msgstr "Cases D'Carret De Configuració"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:757
+msgid "Remove Guests Cart when the Order Status Changes to Pending"
+msgstr "Eliminar Clients Carro quan l'Estat de la Comanda Canvis Pendents"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:758
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Pending"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan l'ordre convertit Pendents"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:766
+msgid "Remove Guests Cart when the Order Status Changes to Failed"
+msgstr "Eliminar Clients Carro quan l'Estat de la Comanda Canvis ha Fallat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:767
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Failed"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan l'ordre convertit Fallat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:775
+msgid "Remove Guests Cart when the Order Status Changes to On-Hold"
+msgstr "Eliminar Clients Carro quan l'Estat de la Comanda Canvis a Mantenir"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:776
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become On-Hold"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan l'ordre convertit En Mantenir"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:784
+msgid "Remove Guests Cart when the Order Status Changes to Processing"
+msgstr "Eliminar Clients Carro quan l'Ordre Estat de Canvis en el Processament"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:785
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Processing"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan l'ordre convertit en Tramitació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:793
+msgid "Remove Guests Cart when the Order Status Changes to Completed"
+msgstr "Eliminar Clients Carro quan l'Estat de la Comanda Canvis a Completar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:794
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Completed"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan per ser Completat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:802
+msgid "Remove Guests Cart when the Order Status Changes to Refunded"
+msgstr ""
+"Eliminar Clients Carro quan l'Estat de la Comanda Canvis a la Devolució"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:803
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Refunded"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan per ser Reemborsat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:811
+msgid "Remove Guests Cart when the Order Status Changes to Cancelled"
+msgstr "Eliminar Clients Carro quan l'Estat de la Comanda Canvis a Cancel·lar"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:812
+msgid ""
+"Guest Cart Captured on place order will be in cart list, it will be removed "
+"when order become Cancelled"
+msgstr ""
+"Cases d'Carro Capturat a la plaça de comanda serà a la cistella de llista, "
+"que seran eliminats quan l'ordre convertit Cancel·leu"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:904
+msgid "Email Job hook"
+msgstr "Correu electrònic Feina ganxo"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:905
+msgid "Next Run"
+msgstr "Seguidament Executeu"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:911
+msgid "rac_cron_job"
+msgstr "rac_cron_job"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:925
+msgid "Cron is not set"
+msgstr "Cron no està establert"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:932
+msgid ""
+"Note: Please don/'t consider 'Next Run' if you are using server cron on your "
+"site"
+msgstr ""
+"Nota: si us Plau no/d'considerar 'Executi' si esteu utilitzant un servidor "
+"cron en el seu lloc"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:959
+msgid "Time to consider Cart as Abandoned for Members"
+msgstr "El moment de considerar la Cistella com a Abandonat per Membres"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:961
+msgid ""
+"This setting controls the minimum waiting time for members after which a "
+"cart will be considered as abandoned"
+msgstr ""
+"Aquesta configuració controla el mínim temps d'espera per als socis després "
+"de que un carro, es considerarà abandonat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:974
+msgid "Time to consider Cart as Abandoned for Guests"
+msgstr "El moment de considerar la Cistella com a Abandonat per Clients"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:976
+msgid ""
+"This setting controls the minimum waiting time for guests after which a cart "
+"will be considered as abandoned"
+msgstr ""
+"Aquesta configuració controla el mínim temps d'espera per a clients després "
+"que un carro, es considerarà abandonat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:998
+msgid "Email Cron Job Running Time"
+msgstr "Correu Electrònic Tasca Cron Com A Temps D'Execució"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracgeneral-tab.php:1000
+msgid ""
+"This setting controls the recurrence duration of cron job to run. Used for "
+"sending automatic abandoned cart emails. Note: Set to a lesser duration in "
+"order to send emails more frequently"
+msgstr ""
+"Aquest paràmetre controla la recurrència de la durada de la tasca cron per "
+"executar. Utilitzada per a l'enviament automàtic abandonat la cistella de "
+"missatges de correu electrònic. Nota: Conjunt de menor durada per tal "
+"d'enviar missatges de correu electrònic amb més freqüència"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:27
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:29
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:31
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:33
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:35
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:37
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:43
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:45
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:47
+msgid "Abandoned cart email"
+msgstr "Abandonada la cistella de correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:28
+msgid "Abandoned cart can be loaded using this link from email"
+msgstr ""
+"Abandonada la cistella es pot carregar mitjançant aquest enllaç de correu "
+"electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:30
+msgid "Shows abandoned cart date"
+msgstr "Mostra abandonat la cistella de la data"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:32
+msgid "Shows abandoned cart time"
+msgstr "Mostra abandonat la cistella de temps"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:34
+msgid "Displays the product name in the email subject"
+msgstr "Mostra el nom del producte en l'assumpte del correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:36
+msgid "Shows receiver first name"
+msgstr "Mostra receptor nom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:38
+msgid "Shows receiver last name"
+msgstr "Mostra receptor cognom"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:39
+msgid "Admin order recovered notification email"
+msgstr "Admin per recuperar correu electrònic de notificació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:40
+msgid "Order ID can be inserted in the admin notification email for reference"
+msgstr ""
+"IDENTIFICADOR de comanda pot ser inserit a l'administració de la notificació "
+"de correu electrònic de referència"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:41
+msgid "Admin order line items in recovered notification email"
+msgstr "Admin ordre de comanda en recuperar correu electrònic de notificació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:42
+msgid ""
+"Order line items will be displayed in admin notification email for "
+"information"
+msgstr ""
+"Ordre de comanda seran mostrats a administrador de la notificació de correu "
+"electrònic per a informació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:44
+msgid "Shows product info table"
+msgstr "Mostra informació del producte taula"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:46
+msgid ""
+"Coupon code will be generated automatically and included in the email with a "
+"coupon options based on the settings from Coupon In Email tab"
+msgstr ""
+"Codi de descompte per que es generi automàticament i inclòs en el correu "
+"electrònic amb un cupó opcions basades en la configuració de Cupó A la "
+"pestanya Correu electrònic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:48
+msgid "Shows unsubscribe link"
+msgstr "Mostra donar-se de baixa enllaç"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:49
+msgid "Pages"
+msgstr "Pàgines"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:50
+msgid "Manual unsubscription of abandon cart emails done in this page"
+msgstr ""
+"Manual de baixes d'abandonar la cistella de correus electrònics fer en "
+"aquesta pàgina"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:57
+msgid "Shortcode"
+msgstr "Abreujat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:60
+msgid "Context where Shortcode is valid"
+msgstr "Context on Abreujat és vàlida"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracshortocode-tab.php:63
+msgid "Purpose"
+msgstr "Finalitat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:21
+msgid "Welcome Page"
+msgstr "Pàgina De Benvinguda"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:23
+msgid ""
+"For more information on Recover Abadoned Cart please check the <a href=\""
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:27
+msgid "Contact Support"
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:29
+msgid ""
+"For support, feature request or any help, please <a href=\"http://support."
+"fantasticplugins.com/\">register and open a support ticket on our site.</a> "
+"<br> "
+msgstr ""
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:33
+msgid "Documentation"
+msgstr "Documentació"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracsupport-tab.php:35
+msgid ""
+"Please check the documentation as we have lots of information there. The "
+"documentation file can be found inside the documentation folder which you "
+"will find when you unzip the downloaded zip file."
+msgstr ""
+"Si us plau, consulteu la documentació com tenim un munt d'informació que hi "
+"ha. La documentació d'arxiu es poden trobar dins de la carpeta de "
+"documentació que trobareu quan es descomprimir l'arxiu zip descarregat."
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:55
+msgid "Automatic"
+msgstr "Automàtic"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:58
+msgid "Automatic Cron Job"
+msgstr "Automàtica El Treball Amb Cron"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:68
+msgid "Check Previous Order After"
+msgstr "Fes Comanda Anterior Després D'"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:76
+msgid "of placing the order"
+msgstr "de la realització de la comanda"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:82
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:106
+msgid "Add Old WooCommerce Orders to Cart List which are in"
+msgstr ""
+"Afegir Antic WooCommerce Comandes a la Cistella de la Llista que estan en"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:84
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:108
+msgid "On hold status"
+msgstr "En espera d'estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:85
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:109
+msgid "Pending payment status"
+msgstr "Pendent de pagament de l'estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:86
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:110
+msgid "Failed status"
+msgstr "Ha fallat estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:87
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:111
+msgid "Cancelled status"
+msgstr "Cancel·lat estat"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:102
+msgid "Manual"
+msgstr "Manual"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:115
+msgid "Time Duration"
+msgstr "Temps De Durada"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:118
+msgid "All time"
+msgstr "Tots els temps"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:119
+msgid "Specific"
+msgstr "Específiques"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:124
+msgid "Specific Time"
+msgstr "De Temps Concret"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:126
+msgid "From"
+msgstr "De"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:128
+msgid "To"
+msgstr "A"
+
+#: inc/admin/menu/tabs/class-fp-rac-fpracupdate-tab.php:134
+msgid "Check for Abandoned Cart"
+msgstr "Comprovar Abandonat la Cistella"
+
+#: inc/api/rac-common-function-for-multi-select-search.php:23
+#: inc/api/rac-common-function-for-multi-select-search.php:52
+msgid "Search for a customer&hellip;"
+msgstr "Cerca d'un client..."
+
+#: inc/api/rac-common-function-for-multi-select-search.php:93
+#: inc/api/rac-common-function-for-multi-select-search.php:121
+#: inc/api/rac-common-function-for-multi-select-search.php:161
+#: inc/api/rac-common-function-for-multi-select-search.php:185
+msgid "Search for a product&hellip;"
+msgstr "Cerca un producte..."
+
+#: inc/background-updater/class-fp-rac-updating-process.php:31
+#: inc/background-updater/fp-rac-main-background-process.php:370
+#: inc/background-updater/fp-rac-main-background-process.php:404
+msgid "Invalid Request"
+msgstr "Invalid Request"
+
+#: inc/background-updater/class-fp-rac-updating-process.php:35
+#: inc/background-updater/fp-rac-main-background-process.php:374
+#: inc/background-updater/fp-rac-main-background-process.php:408
+msgid "You don't have permission to do this action"
+msgstr "No teniu permís per fer aquesta acció"
+
+#: inc/background-updater/class-fp-rac-updating-process.php:69
+#, php-format
+msgid "Upgrade to v%s is under Process..."
+msgstr "Actualització a v%s està en Procés..."
+
+#: inc/background-updater/class-fp-rac-updating-process.php:79
+msgid "% Completed"
+msgstr "% Completat"
+
+#: inc/background-updater/fp-rac-main-background-process.php:139
+msgid "Click here"
+msgstr "Feu clic aquí"
+
+#: inc/background-updater/fp-rac-main-background-process.php:146
+#, php-format
+msgid ""
+"Recover Abandoned Cart requires Database Upgrade, %s to proceed with the "
+"Upgrade"
+msgstr ""
+"Recuperar Abandonat Carro requereix Actualització de la Base de dades, %s "
+"per procedir a l'Actualització"
+
+#: inc/background-updater/fp-rac-main-background-process.php:151
+msgid ""
+"Recover Abandoned Cart Data Update - Your database is being updated in the "
+"background."
+msgstr ""
+"Recuperar Abandonat la Cistella de Dades l'Actualització de la Vostra base "
+"de dades està actualitzada en el fons."
+
+#: inc/background-updater/fp-rac-main-background-process.php:159
+#, php-format
+msgid "Upgrade to v%1$s has failed. Please contact our %2$s"
+msgstr ""
+"Actualització a v a%1$s ha fallat. Si us plau contacti amb el nostre %2$s"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:122
+#: inc/class-fp-rac-admin-ajax-functions.php:227
+#: inc/class-fp-rac-admin-ajax-functions.php:265
+msgid "Invalid Arguments"
+msgstr "Invalid Arguments"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:133
+msgid "Cart"
+msgstr "Cistella"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:150
+msgid "Cart Link Status"
+msgstr "Carro Enllaç Estat"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:168
+msgid "Sent"
+msgstr "Enviar"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:170
+#: inc/class-fp-rac-admin-ajax-functions.php:173
+msgid "Not Sent"
+msgstr "No Enviar"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:184
+msgid "Clicked"
+msgstr "Clic"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:186
+#: inc/class-fp-rac-admin-ajax-functions.php:189
+msgid "Not Clicked"
+msgstr "No Fa Clic"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:203
+msgid "Close"
+msgstr "Tancar"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:234
+msgid "Manual Recover Form"
+msgstr "Manual De Recuperar La Forma"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:273
+msgid "Invalid Order ID"
+msgstr "Invalid IDENTIFICADOR de Comanda"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:278
+msgid "Order Id Already Placed"
+msgstr "Identificador De Comanda Ja Posats"
+
+#: inc/class-fp-rac-admin-ajax-functions.php:302
+msgid "Order ID Updated"
+msgstr "Ordre DNI Actualitzat"
+
+#: inc/class-fp-rac-install.php:106
+msgid "About"
+msgstr "Sobre"
+
+#: inc/class-fp-rac-polish-product-info.php:162
+msgid "Balance Payable Amount"
+msgstr "Saldo A Pagar La Quantitat"
+
+#: inc/class-fp-rac-register-post-status.php:43
+msgid "New"
+msgstr "Nous"
+
+#: inc/class-fp-rac-register-post-status.php:57
+msgid "Abandon"
+msgstr "Abandonar"
+
+#: inc/class-fp-rac-register-post-status.php:71
+msgid "Active"
+msgstr "Actiu"
+
+#: inc/class-fp-rac-register-post-status.php:85
+msgid "Deactive"
+msgstr "Deactive"
+
+#: inc/class-fp-rac-register-post-type.php:50
+#: inc/class-fp-rac-register-post-type.php:57
+msgid "Cart List Table"
+msgstr "Cistella De La Llista De La Taula"
+
+#: inc/class-fp-rac-register-post-type.php:51
+msgid "Recovered Abandoned Cart"
+msgstr "Recuperat Abandonat La Cistella"
+
+#: inc/class-fp-rac-register-post-type.php:53
+#: inc/class-fp-rac-register-post-type.php:54
+msgid "Add New Cart List"
+msgstr "Afegir Nou Cistella De La Llista"
+
+#: inc/class-fp-rac-register-post-type.php:55
+#: inc/class-fp-rac-register-post-type.php:56
+msgid "Edit Cart List"
+msgstr "Edita Cistella De La Llista"
+
+#: inc/class-fp-rac-register-post-type.php:58
+msgid "New Cart List"
+msgstr "Nova Cistella De La Llista"
+
+#: inc/class-fp-rac-register-post-type.php:59
+#: inc/class-fp-rac-register-post-type.php:60
+msgid "View Cart List"
+msgstr "Veure La Cistella De La Llista"
+
+#: inc/class-fp-rac-register-post-type.php:61
+msgid "Search Cart List"
+msgstr "Cerca De La Cistella De La Llista"
+
+#: inc/class-fp-rac-register-post-type.php:62
+msgid "No Cart List found"
+msgstr "No Cistella de la Llista trobat"
+
+#: inc/class-fp-rac-register-post-type.php:63
+msgid "No Cart List found in trash"
+msgstr "No Cistella de la Llista trobar a la paperera"
+
+#: inc/class-fp-rac-register-post-type.php:65
+msgid "Here you can able to see list of Cart List"
+msgstr "Aquí podeu capaç de veure la llista de Cistella la Llista"
+
+#: inc/class-fp-rac-register-post-type.php:100
+msgid "Add Email Log"
+msgstr "Afegir Registres De Correu Electrònic"
+
+#: inc/class-fp-rac-register-post-type.php:101
+#: inc/class-fp-rac-register-post-type.php:102
+msgid "Edit Email Log"
+msgstr "Editar Registres De Correu Electrònic"
+
+#: inc/class-fp-rac-register-post-type.php:103
+msgid "New Email Log"
+msgstr "Nou Correu Electrònic De Registre"
+
+#: inc/class-fp-rac-register-post-type.php:104
+msgid "View Email log"
+msgstr "Vista Correu electrònic de registre"
+
+#: inc/class-fp-rac-register-post-type.php:105
+msgid "View Email Log"
+msgstr "Vista Correu Electrònic De Registre"
+
+#: inc/class-fp-rac-register-post-type.php:106
+msgid "Search Email log"
+msgstr "Cerca de registres de Correu electrònic"
+
+#: inc/class-fp-rac-register-post-type.php:107
+msgid "No Email Log found"
+msgstr "No hi ha registres de Correu electrònic trobat"
+
+#: inc/class-fp-rac-register-post-type.php:108
+msgid "No Email Log found in trash"
+msgstr "No hi ha registres de Correu electrònic trobar a la paperera"
+
+#: inc/class-fp-rac-register-post-type.php:110
+msgid "Here you can able to see list of Email Log"
+msgstr "Aquí podeu capaç de veure la llista de Correu electrònic de Registre"
+
+#: inc/class-fp-rac-register-post-type.php:140
+#: inc/class-fp-rac-register-post-type.php:142
+msgid "Email Templates"
+msgstr "Plantilles De Correu Electrònic"
+
+#: inc/class-fp-rac-register-post-type.php:143
+#: inc/class-fp-rac-register-post-type.php:144
+#: inc/class-fp-rac-register-post-type.php:147
+msgid "New Email Template"
+msgstr "Nou Correu Electrònic De La Plantilla"
+
+#: inc/class-fp-rac-register-post-type.php:145
+#: inc/class-fp-rac-register-post-type.php:146
+msgid "Edit Email Template"
+msgstr "Edita Plantilla De Correu Electrònic"
+
+#: inc/class-fp-rac-register-post-type.php:148
+#: inc/class-fp-rac-register-post-type.php:149
+msgid "View Email Template"
+msgstr "Vista Correu Electrònic Plantilla"
+
+#: inc/class-fp-rac-register-post-type.php:150
+msgid "Search Email Template"
+msgstr "Cerca De Correu Electrònic De La Plantilla"
+
+#: inc/class-fp-rac-register-post-type.php:151
+msgid "No Email Template(s) found"
+msgstr "Cap de Correu electrònic de la Plantilla(s) trobat"
+
+#: inc/class-fp-rac-register-post-type.php:152
+msgid "No Email Template(s) found in trash"
+msgstr "Cap de Correu electrònic de la Plantilla(s) trobat a les escombraries"
+
+#: inc/class-fp-rac-register-post-type.php:154
+msgid "Here you can able to see list of Email Templates"
+msgstr "Aquí podeu capaç de veure la llista de Plantilles de Correu electrònic"
+
+#: inc/class-fp-rac-register-post-type.php:183
+msgid "Recovered Orders  Log"
+msgstr "Recuperat Ordres De Registre"
+
+#: inc/class-fp-rac-register-post-type.php:186
+msgid "Recovered Order"
+msgstr "Recuperat Ordre"
+
+#: inc/class-fp-rac-register-post-type.php:187
+msgid "Add New Recovered Order"
+msgstr "Afegir Nou Recuperat Per"
+
+#: inc/class-fp-rac-register-post-type.php:188
+#: inc/class-fp-rac-register-post-type.php:189
+msgid "Edit Recovered Order"
+msgstr "Edita Recuperat Per"
+
+#: inc/class-fp-rac-register-post-type.php:190
+msgid "New Recovered Order"
+msgstr "Nova Recuperat Per"
+
+#: inc/class-fp-rac-register-post-type.php:191
+#: inc/class-fp-rac-register-post-type.php:192
+msgid "View Recovered Order"
+msgstr "Vista Recuperat Per"
+
+#: inc/class-fp-rac-register-post-type.php:193
+msgid "Search Recovered Order"
+msgstr "Cerca Per Recuperar"
+
+#: inc/class-fp-rac-register-post-type.php:194
+msgid "No Recovered Orders found"
+msgstr "No Recuperar Comandes trobat"
+
+#: inc/class-fp-rac-register-post-type.php:195
+msgid "No Recovered Orders found in trash"
+msgstr "No Recuperar Comandes trobar a la paperera"
+
+#: inc/class-fp-rac-register-post-type.php:197
+msgid "Here you can able to see list of Recovered Order"
+msgstr "Aquí podeu capaç de veure la llista de Recuperar l'Ordre"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:93
+#: inc/compatibility/fp-rac-personal-data-handler.php:101
+msgid "Cart Id"
+msgstr "Carro Id"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:94
+#: inc/compatibility/fp-rac-personal-data-handler.php:102
+msgid "Captured on"
+msgstr "Capturat en"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:95
+#: inc/compatibility/fp-rac-personal-data-handler.php:103
+msgid "Email"
+msgstr "Correu electrònic"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:96
+#: inc/compatibility/fp-rac-personal-data-handler.php:104
+msgid "Mobile No."
+msgstr "Mòbil No."
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:97
+msgid "User ID"
+msgstr "ID d'usuari"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:106
+msgid "First Name"
+msgstr "Nom"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:107
+msgid "Last Name"
+msgstr "Cognom"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:113
+msgid "Captured Carts"
+msgstr "Capturat Carros"
+
+#: inc/compatibility/fp-rac-personal-data-handler.php:185
+#, php-format
+msgid "Removed personal data from Cartlist %s."
+msgstr "Esborrat de dades de caràcter personal de Cartlist %s."
+
+#: inc/email-template/class-fp-rac-email-template.php:99
+msgid "Total No.of Orders"
+msgstr "Total Cap.de les Comandes"
+
+#: inc/email-template/class-fp-rac-email-template.php:100
+msgid "Total Amount Spent on Site"
+msgstr "Total despesa en Lloc"
+
+#: inc/email-template/class-fp-rac-email-template.php:101
+msgid "Abandoned Cart Total"
+msgstr "Abandonada La Cistella Total"
+
+#: inc/email-template/class-fp-rac-email-template.php:102
+msgid "Cart Abandoned Date"
+msgstr "Carro Abandonat Data"
+
+#: inc/email-template/class-fp-rac-email-template.php:103
+msgid "Abandoned Cart Quantity"
+msgstr "Abandonat A La Cistella De La Quantitat"
+
+#: inc/email-template/class-fp-rac-email-template.php:104
+msgid "User Role(s)"
+msgstr "Rol de l'usuari(s)"
+
+#: inc/email-template/class-fp-rac-email-template.php:105
+msgid "Product(s) in Cart"
+msgstr "Producte(s) a la Cistella"
+
+#: inc/email-template/class-fp-rac-email-template.php:115
+msgid "WooCommerce Template"
+msgstr "WooCommerce Plantilla"
+
+#: inc/email-template/class-fp-rac-email-template.php:116
+msgid "HTML Template"
+msgstr "La Plantilla HTML"
+
+#: inc/email-template/class-fp-rac-email-template.php:126
+msgid "All Products"
+msgstr "Tots Els Productes"
+
+#: inc/email-template/class-fp-rac-email-template.php:127
+#: templates/email-template/coupon.php:97
+msgid "Include Products"
+msgstr "La Inclusió De Productes"
+
+#: inc/email-template/class-fp-rac-email-template.php:128
+#: templates/email-template/coupon.php:106
+msgid "Exclude Products"
+msgstr "Excloure Productes"
+
+#: inc/email-template/class-fp-rac-email-template.php:129
+msgid "All Categories"
+msgstr "Totes Les Categories"
+
+#: inc/email-template/class-fp-rac-email-template.php:130
+#: templates/email-template/coupon.php:115
+#: templates/email-template/templates.php:263
+msgid "Include Categories"
+msgstr "Incloure Les Categories"
+
+#: inc/email-template/class-fp-rac-email-template.php:131
+#: templates/email-template/coupon.php:124
+#: templates/email-template/templates.php:276
+msgid "Exclude Categories"
+msgstr "Excloure Categories"
+
+#: inc/email-template/class-fp-rac-email-template.php:141
+msgid "Activated"
+msgstr "Activat"
+
+#: inc/email-template/class-fp-rac-email-template.php:142
+msgid "Deactivated"
+msgstr "Desactivat"
+
+#: inc/email-template/class-fp-rac-email-template.php:151
+msgid "Minutes"
+msgstr "Minuts"
+
+#: inc/email-template/class-fp-rac-email-template.php:152
+msgid "Hours"
+msgstr "Hores"
+
+#: inc/email-template/class-fp-rac-email-template.php:153
+msgid "Days"
+msgstr "Dies"
+
+#: inc/emails/class-fp-rac-admin-notification-email.php:37
+msgid "Product"
+msgstr "Producte"
+
+#: inc/emails/class-fp-rac-admin-notification-email.php:39
+msgid "Price"
+msgstr "Preu"
+
+#: inc/fp-rac-compatibility-functions.php:172
+msgid "Purchasing this product will provide access to "
+msgstr "La compra d'aquest producte permetrà l'accés a "
+
+#: inc/fp-rac-compatibility-functions.php:174
+msgid "Purchasing this Variation will provide access to "
+msgstr "Compra d'aquesta Variació es faciliti l'accés a "
+
+#: inc/frontend/class-fp-rac-cart-data-from-mail.php:79
+#: inc/frontend/class-fp-rac-cart-data-from-mail.php:202
+#: inc/frontend/class-fp-rac-cart-data-from-mail.php:297
+msgid "Seems your cart has been already Recovered/Order Placed"
+msgstr "Sembla la cistella ja ha estat Recuperada/Comanda"
+
+#: inc/frontend/class-fp-rac-frontend-assets.php:98
+msgid "Not a valid e-mail address"
+msgstr "No és una adreça de correu electrònic vàlida"
+
+#: inc/frontend/class-fp-rac-frontend-assets.php:154
+msgid "Successfully Unsubscribed..."
+msgstr "Amb Èxit Donat De Baixa..."
+
+#: inc/frontend/class-fp-rac-frontend-assets.php:155
+msgid "Successfully Subscribed..."
+msgstr "Amb Èxit Subscrit..."
+
+#: inc/frontend/class-fp-rac-lightbox-handler.php:38
+#: inc/frontend/class-fp-rac-lightbox-handler.php:98
+msgid "S.No"
+msgstr "S. No"
+
+#: inc/frontend/class-fp-rac-lightbox-handler.php:40
+msgid "Abandoned Count"
+msgstr "Abandonada Recompte"
+
+#: inc/frontend/class-fp-rac-lightbox-handler.php:100
+msgid "Recovered Count"
+msgstr "Recuperat Comte"
+
+#: recoverabandoncart.php:57 recoverabandoncart.php:64
+msgid "You are not allowed to perform this action!!!"
+msgstr "No està permès dur a terme aquesta acció!!!"
+
+#: templates/email-template/coupon.php:4
+msgid "Coupon Value is Fetched From"
+msgstr "Cupó Valor es Descarregue Des de"
+
+#: templates/email-template/coupon.php:6
+msgid ""
+"\"Global Settings\" - coupon will be created based on the value configured "
+"in the coupon creation global settings. \"Current Email Template\" - coupon "
+"will be created based on the value configured in this email template."
+msgstr ""
+"\"Configuració Global\" - cupó es crea basat en el valor configurat en el "
+"cupó de creació configuració global. \"Correu electrònic actual Plantilla\" "
+"- cupó es crea basat en el valor configurat en aquest correu electrònic, la "
+"plantilla."
+
+#: templates/email-template/coupon.php:8
+msgid "Global Settings"
+msgstr "Configuració Global"
+
+#: templates/email-template/coupon.php:9
+msgid "Current Email Template"
+msgstr "Correu Electrònic Actual Plantilla"
+
+#: templates/email-template/coupon.php:15
+msgid "Coupon Code Prefix Type"
+msgstr "Codi De Cupó Prefix Tipus"
+
+#: templates/email-template/coupon.php:118
+#: templates/email-template/coupon.php:127
+#: templates/email-template/templates.php:265
+#: templates/email-template/templates.php:277
+msgid "Serach a User Category"
+msgstr "Serach un Usuari Categoria"
+
+#: templates/email-template/templates.php:85
+msgid "Template Status"
+msgstr "La Plantilla De L'Estat"
+
+#: templates/email-template/templates.php:98
+msgid "Segmentation"
+msgstr "Segmentació"
+
+#: templates/email-template/templates.php:111
+msgid "Minimum Order Total"
+msgstr "Comanda Mínima Total"
+
+#: templates/email-template/templates.php:121
+msgid "Maximum Order Total  : "
+msgstr "Màxim Ordre Total : "
+
+#: templates/email-template/templates.php:131
+msgid "Minimum Order Amount :"
+msgstr "Comanda Mínima Quantitat :"
+
+#: templates/email-template/templates.php:141
+msgid "Maximum Order Amount :"
+msgstr "Màxim Import De La Comanda :"
+
+#: templates/email-template/templates.php:151
+msgid "Minimum Cart Amount :"
+msgstr "Mínim Carro Quantitat :"
+
+#: templates/email-template/templates.php:161
+msgid "Maximum Cart Amount :"
+msgstr "Màxim Carro Quantitat :"
+
+#: templates/email-template/templates.php:171
+msgid "From Abadon Date :"
+msgstr "Des De Abadon Data :"
+
+#: templates/email-template/templates.php:181
+msgid "To Abadon Date :"
+msgstr "A Abadon Data :"
+
+#: templates/email-template/templates.php:191
+msgid "Minimum Cart Quantity :"
+msgstr "Mínim Carro Quantitat :"
+
+#: templates/email-template/templates.php:201
+msgid "Maximum Cart Quantity :"
+msgstr "Màxim Carro Quantitat :"
+
+#: templates/email-template/templates.php:212
+msgid "Serach a User Role"
+msgstr "Serach el Paper d'Usuari"
+
+#: templates/email-template/templates.php:223
+msgid "Product Selection"
+msgstr "La Selecció De Productes"
+
+#: templates/email-template/templates.php:291
+msgid "Email Template Type"
+msgstr "Correu Electrònic Tipus De Plantilla"
+
+#: templates/email-template/templates.php:301
+msgid "Header Image For HTML Template"
+msgstr "Imatge de capçalera Per a la Plantilla HTML"
+
+#: templates/email-template/templates.php:304
+msgid "Media Uploader."
+msgstr "Mitjans De Comunicació-Lo."
+
+#: templates/email-template/templates.php:313
+msgid "Email Sender Option"
+msgstr "Correu Electrònic Del Remitent Opció"
+
+#: templates/email-template/templates.php:315
+msgid "woocommerce"
+msgstr "woocommerce"
+
+#: templates/email-template/templates.php:316
+msgid "local"
+msgstr "local"
+
+#: templates/email-template/templates.php:347
+msgid "Bcc"
+msgstr "Bcc"
+
+#: templates/email-template/templates.php:367
+msgid "Send Email Duration"
+msgstr "Envia Un Correu Electrònic Durada"
+
+#: templates/email-template/templates.php:367
+msgid "Duration to Send Email After Abandoned Cart"
+msgstr "Durada per Enviar Correu electrònic Després d'Abandonar la Cistella"
+
+#: templates/email-template/templates.php:388
+msgid "Cart Link Anchor Text"
+msgstr "Carro Enllaç De Text Àncora"

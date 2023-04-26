@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Featured Slider Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 01:01+0000\n"
+"PO-Revision-Date: 2023-03-04 08:21+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-featured-addon"
+
+#: admin/class-revslider-featured-addon-admin.php:134
+msgid "Active"
+msgstr "Activo"
+
+#: admin/class-revslider-featured-addon-admin.php:147
+msgid "All Posts Auto"
+msgstr "Todas las publicaciones automáticas"
+
+#: admin/class-revslider-featured-addon-admin.php:151
+msgid "Best with \"Current Post\"<br>Post Content Sliders"
+msgstr ""
+
+#: admin/class-revslider-featured-addon-admin.php:137
+msgid "Configuration"
+msgstr "Configuración"
+
+#: admin/class-revslider-featured-addon-admin.php:224
+msgid "Configuration could not be saved"
+msgstr "No se pudo guardar la configuración"
+
+#: admin/class-revslider-featured-addon-admin.php:138
+msgid "Content from"
+msgstr "Contenido de"
+
+#: admin/class-revslider-featured-addon-admin.php:143
+msgid "Enter Some Title"
+msgstr "Ingrese algún título"
+
+#: admin/class-revslider-featured-addon-admin.php:213
+msgid "featured AddOn disabled"
+msgstr "Complemento destacado deshabilitado"
+
+#: admin/class-revslider-featured-addon-admin.php:208
+msgid "featured AddOn enabled"
+msgstr "Complemento destacado habilitado"
+
+#: admin/class-revslider-featured-addon-admin.php:227
+msgid "featured Configuration saved"
+msgstr "Configuración destacada guardada"
+
+#: admin/class-revslider-featured-addon-admin.php:135
+msgid "Featured Post"
+msgstr "Publicación destacada"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.themepunch.com"
+msgstr ""
+
+#: admin/class-revslider-featured-addon-admin.php:144
+msgid "Loading featured Add-On Configration"
+msgstr "Cargando configuración adicional destacada"
+
+#: admin/class-revslider-featured-addon-admin.php:389
+msgid "No Featured Slider Revolution"
+msgstr "Sin revolución deslizante destacada"
+
+#: admin/class-revslider-featured-addon-admin.php:148
+msgid "Overwrite Featured Image"
+msgstr "Sobrescribir imagen destacada"
+
+#: admin/class-revslider-featured-addon-admin.php:149
+msgid "Overwrite Featured Slider"
+msgstr "Sobrescribir control deslizante destacado"
+
+#: admin/class-revslider-featured-addon-admin.php:140
+msgid "Page"
+msgstr "Página"
+
+#: admin/class-revslider-featured-addon-admin.php:141
+msgid "Page Title"
+msgstr "Título de la página"
+
+#. Description of the plugin
+msgid "Replace Posts' Featured Images with RevSliders if the theme allows it"
+msgstr ""
+"Reemplace las imágenes destacadas de las publicaciones con RevSliders si el "
+"tema lo permite"
+
+#: admin/class-revslider-featured-addon-admin.php:142
+msgid "Save Configration"
+msgstr "Guardar configuración"
+
+#: admin/class-revslider-featured-addon-admin.php:145
+msgid "Saving featured Add-On Configration"
+msgstr "Guardar la configuración adicional destacada"
+
+#: admin/class-revslider-featured-addon-admin.php:395
+msgid "Select/Edit featured Slider Revolution"
+msgstr "Seleccionar/Editar Slider Revolution destacado"
+
+#: admin/class-revslider-featured-addon-admin.php:396
+msgid "Set AddOn options"
+msgstr "Establecer opciones de complemento"
+
+#: admin/class-revslider-featured-addon-admin.php:136
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-revslider-featured-addon-admin.php:146
+msgid "Single Posts Option"
+msgstr "Opción de publicaciones individuales"
+
+#: admin/class-revslider-featured-addon-admin.php:139
+msgid "Slider"
+msgstr "Deslizador"
+
+#. Name of the plugin
+msgid "Slider Revolution Featured Slider Add-on"
+msgstr "Slider Revolution: Featured Slider"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"
+
+#: admin/class-revslider-featured-addon-admin.php:150
+msgid "When no Feat. Image set"
+msgstr "Cuando ninguna hazaña. Conjunto de imágenes"

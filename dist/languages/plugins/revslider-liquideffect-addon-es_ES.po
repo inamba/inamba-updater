@@ -1,0 +1,391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Distortion Effect AddOn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 00:53+0000\n"
+"PO-Revision-Date: 2023-03-04 08:22+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-liquideffect-addon"
+
+#: framework/base.class.php:522
+msgid "2D Rotation"
+msgstr "Rotación 2D"
+
+#: framework/base.class.php:525
+msgid "2d rotation movement for the displacement map"
+msgstr "Movimiento de rotación 2d para el mapa de desplazamiento."
+
+#: framework/base.class.php:838 framework/base.class.php:1102
+msgid "2D Rotation Offset"
+msgstr "Compensación de rotación 2D"
+
+#: framework/base.class.php:841 framework/base.class.php:1105
+msgid "Animate the 2D rotation value by this offset number"
+msgstr "Animar el valor de rotación 2D por este número de compensación"
+
+#: framework/base.class.php:789
+msgid "Animate the rotationX value by this offset number"
+msgstr "Animar el valor de rotaciónX por este número de compensación"
+
+#: framework/base.class.php:815
+msgid "Animate the rotationY value by this offset number"
+msgstr "Animar el valor de rotación Y por este número de compensación"
+
+#: framework/base.class.php:737 framework/base.class.php:1053
+msgid "Animate the scaleX value by this offset number"
+msgstr "Animar el valor scaleX por este número de compensación"
+
+#: framework/base.class.php:763 framework/base.class.php:1079
+msgid "Animate the scaleY value by this offset number"
+msgstr "Animar el valor scaleY por este número de compensación"
+
+#: framework/base.class.php:685 framework/base.class.php:1001
+msgid "Animate the speedX value by this offset number"
+msgstr "Animar el valor speedX por este número de compensación"
+
+#: framework/base.class.php:711 framework/base.class.php:1027
+msgid "Animate the speedY value by this offset number"
+msgstr "Animar el valor speedY por este número de compensación"
+
+#: framework/base.class.php:659
+msgid "Apply extra power to the transition"
+msgstr "Aplicar potencia extra a la transición"
+
+#: framework/base.class.php:338
+msgid "Autoplay Effect"
+msgstr "Efecto de reproducción automática"
+
+#: framework/base.class.php:921
+msgid "Choose which mouse event should trigger the distortion movement"
+msgstr ""
+"Elija qué evento del mouse debe desencadenar el movimiento de distorsión"
+
+#: framework/base.class.php:630
+msgid "Cross Transition"
+msgstr "Transición cruzada"
+
+#: framework/base.class.php:894
+msgid "Disable user-interaction on mobile devices"
+msgstr "Deshabilitar la interacción del usuario en dispositivos móviles"
+
+#: framework/base.class.php:521
+msgid "Distortion 2D Rotation"
+msgstr "Distorsión Rotación 2D"
+
+#: framework/base.class.php:337
+msgid "Distortion Animation"
+msgstr "Animación de distorsión"
+
+#: framework/base.class.php:629
+msgid "Distortion Cross Transition"
+msgstr "Transición cruzada de distorsión"
+
+#: framework/base.class.php:222
+msgid "Distortion Draw Using"
+msgstr "Dibujo de distorsión usando"
+
+#: framework/base.class.php:288
+msgid "Distortion Image Map"
+msgstr "Mapa de imagen de distorsión"
+
+#: framework/base.class.php:869
+msgid "Distortion Interaction"
+msgstr "Interacción de distorsión"
+
+#: framework/base.class.php:971
+msgid "Distortion Interaction Duration"
+msgstr "Duración de la interacción de distorsión"
+
+#: framework/base.class.php:944
+msgid "Distortion Interaction Easing"
+msgstr "Relajación de la interacción de la distorsión"
+
+#: framework/base.class.php:266
+msgid "Distortion Library"
+msgstr "Biblioteca de distorsión"
+
+#: framework/base.class.php:310
+msgid "Distortion Map Size"
+msgstr "Tamaño del mapa de distorsión"
+
+#: framework/base.class.php:917
+msgid "Distortion Mouse Event"
+msgstr "Evento de distorsión del ratón"
+
+#: framework/base.class.php:467
+msgid "Distortion Rotation X"
+msgstr "Distorsión Rotación X"
+
+#: framework/base.class.php:494
+msgid "Distortion Rotation Y"
+msgstr "Distorsión Rotación Y"
+
+#: framework/base.class.php:413
+msgid "Distortion Scale X"
+msgstr "Escala de distorsión X"
+
+#: framework/base.class.php:440
+msgid "Distortion Scale Y"
+msgstr "Escala de distorsión Y"
+
+#: framework/base.class.php:359
+msgid "Distortion Speed X"
+msgstr "Velocidad de distorsión X"
+
+#: framework/base.class.php:386
+msgid "Distortion Speed Y"
+msgstr "Velocidad de distorsión Y"
+
+#: framework/base.class.php:1147
+msgid "Distortion Template could not be deleted"
+msgstr "No se pudo eliminar la plantilla de distorsión"
+
+#: framework/base.class.php:1153
+msgid "Distortion Template could not be saved"
+msgstr "La plantilla de distorsión no se pudo guardar"
+
+#: framework/base.class.php:1144
+msgid "Distortion Template deleted"
+msgstr "Plantilla de distorsión eliminada"
+
+#: framework/base.class.php:1156
+msgid "Distortion Template saved"
+msgstr "Plantilla de distorsión guardada"
+
+#: framework/base.class.php:553
+msgid "Distortion Transition"
+msgstr "Transición de distorsión"
+
+#: framework/base.class.php:602
+msgid "Distortion Transition Duration"
+msgstr "Duración de la transición de distorsión"
+
+#: framework/base.class.php:575
+msgid "Distortion Transition Easing"
+msgstr "Relajación de transición de distorsión"
+
+#: framework/base.class.php:243
+msgid "Distortion Use Slide Background Settings"
+msgstr "Configuración de fondo de diapositiva de uso de distorsión"
+
+#: framework/base.class.php:223
+msgid "Draw Using"
+msgstr "dibujar usando"
+
+#: framework/base.class.php:202 framework/base.class.php:554
+#: framework/base.class.php:870
+msgid "Enable"
+msgstr "Permitir"
+
+#: framework/base.class.php:201
+msgid "Enable Distortion Addon"
+msgstr "Habilitar complemento de distorsión"
+
+#: framework/base.class.php:873
+msgid "Enable mouse interation for the distortion effect"
+msgstr "Habilite la interacción del mouse para el efecto de distorsión."
+
+#: framework/base.class.php:205
+msgid "Enable the Distortion Effect Addon for the current Slide"
+msgstr ""
+"Habilite el complemento de efecto de distorsión para la diapositiva actual"
+
+#: framework/base.class.php:247
+msgid ""
+"Enable this option to use slide background position settings in distortion "
+"effect"
+msgstr ""
+"Habilite esta opción para usar la configuración de la posición de fondo de "
+"la diapositiva en el efecto de distorsión"
+
+#. Description of the plugin
+msgid "Enhance your slides with distortion effects"
+msgstr "Mejora tus diapositivas con efectos de distorsión"
+
+#: framework/base.class.php:656
+msgid "Enhanced Distortion"
+msgstr "Distorsión mejorada"
+
+#. Author URI of the plugin
+msgid "http://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.themepunch.com/"
+msgstr ""
+
+#: framework/base.class.php:289
+msgid "Image Map"
+msgstr "Mapa de imágenes"
+
+#: framework/base.class.php:311
+msgid "Image Map Size"
+msgstr "Tamaño del mapa de imagen"
+
+#: framework/base.class.php:417
+msgid "Initial scaleX value for the displacement map"
+msgstr "Valor inicial de scaleX para el mapa de desplazamiento"
+
+#: framework/base.class.php:444
+msgid "Initial scaleY value for the displacement map"
+msgstr "Valor inicial de scaleY para el mapa de desplazamiento"
+
+#: framework/base.class.php:972
+msgid "Interaction Duration"
+msgstr "Duración de la interacción"
+
+#: framework/base.class.php:945
+msgid "Interaction Easing"
+msgstr "Facilitación de la interacción"
+
+#: framework/base.class.php:270
+msgid "Load a settings template for the Distortion effect"
+msgstr "Cargue una plantilla de configuración para el efecto Distorsión"
+
+#: framework/base.class.php:891
+msgid "Mobile Interaction"
+msgstr "Interacción móvil"
+
+#: framework/base.class.php:918
+msgid "Mouse Event"
+msgstr "Evento de ratón"
+
+#: framework/base.class.php:468
+msgid "Rotation X"
+msgstr "Rotación X"
+
+#: framework/base.class.php:786
+msgid "Rotation X Offset"
+msgstr "Rotación X Compensación"
+
+#: framework/base.class.php:495
+msgid "Rotation Y"
+msgstr "Rotación Y"
+
+#: framework/base.class.php:812
+msgid "Rotation Y Offset"
+msgstr "Compensación de rotación Y"
+
+#: framework/base.class.php:471
+msgid "rotationX movement for the displacement map"
+msgstr "rotaciónX movimiento para el mapa de desplazamiento"
+
+#: framework/base.class.php:498
+msgid "rotationY movement for the displacement map"
+msgstr "rotaciónY movimiento para el mapa de desplazamiento"
+
+#: framework/base.class.php:341 framework/base.class.php:557
+msgid "Run the effect automatically without any user-interaction"
+msgstr "Ejecute el efecto automáticamente sin ninguna interacción del usuario"
+
+#: framework/base.class.php:414
+msgid "Scale X"
+msgstr "Escala X"
+
+#: framework/base.class.php:734 framework/base.class.php:1050
+msgid "Scale X Offset"
+msgstr "Desplazamiento de escala X"
+
+#: framework/base.class.php:441
+msgid "Scale Y"
+msgstr "Scale Y"
+
+#: framework/base.class.php:760 framework/base.class.php:1076
+msgid "Scale Y Offset"
+msgstr "Compensación de escala Y"
+
+#: framework/base.class.php:267
+msgid "Settings Templates"
+msgstr "Plantillas de configuración"
+
+#. Name of the plugin
+msgid "Slider Revolution Distortion Effect AddOn"
+msgstr "Slider Revolution: Distortion Effect"
+
+#: framework/base.class.php:363
+msgid "Speed for the displacement map's left movement"
+msgstr ""
+"Velocidad para el movimiento hacia la izquierda del mapa de desplazamiento"
+
+#: framework/base.class.php:390
+msgid "Speed for the displacement map's top movement"
+msgstr "Velocidad para el movimiento superior del mapa de desplazamiento"
+
+#: framework/base.class.php:360
+msgid "Speed X"
+msgstr "Velocidad X"
+
+#: framework/base.class.php:682 framework/base.class.php:998
+msgid "Speed X Offset"
+msgstr "Compensación de velocidad X"
+
+#: framework/base.class.php:387
+msgid "Speed Y"
+msgstr "Velocidad Y"
+
+#: framework/base.class.php:708 framework/base.class.php:1024
+msgid "Speed Y Offset"
+msgstr "Compensación Y de velocidad"
+
+#: framework/base.class.php:948
+msgid "The easing function applied to the interaction movement"
+msgstr "La función de aceleración aplicada al movimiento de interacción."
+
+#: framework/base.class.php:579
+msgid "The easing function applied to the transition"
+msgstr "La función de aceleración aplicada a la transición."
+
+#: framework/base.class.php:975
+msgid "The mouse interaction transition time in milliseconds"
+msgstr "El tiempo de transición de la interacción del ratón en milisegundos"
+
+#: framework/base.class.php:292
+msgid "The overlay image which creates the distortion effect"
+msgstr "La imagen superpuesta que crea el efecto de distorsión."
+
+#: framework/base.class.php:606
+msgid "The transition's total time in milliseconds"
+msgstr "El tiempo total de la transición en milisegundos"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"
+
+#: framework/base.class.php:603
+msgid "Transition Duration"
+msgstr "Duración de la transición"
+
+#: framework/base.class.php:576
+msgid "Transition Easing"
+msgstr "Facilitación de la transición"
+
+#: framework/base.class.php:314
+msgid ""
+"Use a small or large version of the selected map image for varying visuals"
+msgstr ""
+"Use una versión pequeña o grande de la imagen del mapa seleccionado para "
+"diferentes efectos visuales"
+
+#: framework/base.class.php:633
+msgid "Use back-to-back transitions when the Slide changes"
+msgstr "Use transiciones consecutivas cuando cambie la diapositiva"
+
+#: framework/base.class.php:226
+msgid ""
+"Use default image to draw or use background canvas to make your distortions "
+"cooler"
+msgstr ""
+"Use la imagen predeterminada para dibujar o use un lienzo de fondo para "
+"hacer que sus distorsiones sean más frescas"
+
+#: framework/base.class.php:244
+msgid "Use Slide Background Settings"
+msgstr "Usar configuración de fondo de diapositiva"

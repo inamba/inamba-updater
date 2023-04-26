@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Particle Wave Add-On\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 01:11+0000\n"
+"PO-Revision-Date: 2023-03-04 08:20+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-particlewave-addon"
+
+#. Description of the plugin
+msgid "Add Awesome Particle Wave Effects to your Layers"
+msgstr "Agregue impresionantes efectos de onda de partículas a sus capas"
+
+#: framework/base.class.php:614
+msgid ""
+"Amplitude option determines how far particles travel from original position"
+msgstr ""
+"La opción de amplitud determina qué tan lejos viajan las partículas desde la "
+"posición original"
+
+#: framework/base.class.php:984 framework/base.class.php:985
+msgid "Angle"
+msgstr "Ángulo"
+
+#: framework/base.class.php:1221 framework/base.class.php:1222
+msgid "Angle End Position"
+msgstr "Posición final del ángulo"
+
+#: framework/base.class.php:1335 framework/base.class.php:1336
+msgid "Angle Speed"
+msgstr "Velocidad de ángulo"
+
+#: framework/base.class.php:1202 framework/base.class.php:1203
+msgid "Animation Speed"
+msgstr "Velocidad de animación"
+
+#: framework/base.class.php:1164 framework/base.class.php:1165
+msgid "Animations Movement"
+msgstr "Movimiento de animaciones"
+
+#: framework/base.class.php:962 framework/base.class.php:963
+msgid "Blending Mode"
+msgstr "Modo de fusión"
+
+#: framework/base.class.php:1582 framework/base.class.php:1583
+msgid "Blur Breating Effect"
+msgstr "Efecto de respiración borrosa"
+
+#: framework/base.class.php:814
+msgid ""
+"Changes the opacity of the line, effecting the perceived thickness of thus"
+msgstr "Cambia la opacidad de la línea, afectando el grosor percibido de"
+
+#: framework/base.class.php:848 framework/base.class.php:849
+msgid "Color Options"
+msgstr "Opciones de color"
+
+#: framework/base.class.php:592
+msgid ""
+"Curve option determines number of curves in particles, higher number creates "
+"more curvy waves"
+msgstr ""
+"La opción de curva determina el número de curvas en partículas, un número "
+"mayor crea ondas más curvas"
+
+#: framework/base.class.php:905 framework/base.class.php:906
+msgid "Custom Color On"
+msgstr "Color personalizado activado"
+
+#: framework/base.class.php:738
+msgid "Defines the size of the particle in 3D space"
+msgstr "Define el tamaño de la partícula en el espacio 3D"
+
+#: framework/base.class.php:1472
+msgid "Determines the mobile parallax intensity"
+msgstr "Determina la intensidad de paralaje móvil"
+
+#: framework/base.class.php:1141 framework/base.class.php:1142
+msgid "Fade Intensity"
+msgstr "Intensidad de desvanecimiento"
+
+#: framework/base.class.php:1122 framework/base.class.php:1123
+msgid "Fade Options"
+msgstr "Opciones de fundido"
+
+#: framework/base.class.php:791 framework/base.class.php:792
+msgid "Fill Faces"
+msgstr "Caras de relleno"
+
+#: framework/base.class.php:776
+msgid ""
+"For 50% the particles will grow to 150% and shrink to 50% of their original "
+"size while going up and down in the wave"
+msgstr ""
+"Para el 50 %, las partículas crecerán hasta el 150 % y se encogerán hasta el "
+"50  %d e su tamaño original mientras suben y bajan en la onda."
+
+#: framework/base.class.php:1506 framework/base.class.php:1507
+msgid "FX Design"
+msgstr "Diseño de efectos"
+
+#: framework/base.class.php:638
+msgid ""
+"Gap option determines gap between particles and spreads them further away "
+"from center with higher number"
+msgstr ""
+"La opción Gap determina el espacio entre las partículas y las extiende más "
+"lejos del centro con un número más alto"
+
+#: framework/base.class.php:772 framework/base.class.php:773
+msgid "Grow Shrink by Percent"
+msgstr "Crecer Reducir por porcentaje"
+
+#: framework/base.class.php:829 framework/base.class.php:830
+msgid "Hexa Shifter"
+msgstr "Palanca de cambios hexagonal"
+
+#: framework/base.class.php:1278 framework/base.class.php:1279
+msgid "Horizonal Shift End Value"
+msgstr "Valor final de desplazamiento horizontal"
+
+#: framework/base.class.php:1042 framework/base.class.php:1043
+msgid "Horizontal Shift"
+msgstr "Desplazamiento horizontal"
+
+#. Author URI of the plugin
+msgid "http://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.themepunch.com/"
+msgstr ""
+
+#: framework/base.class.php:1320
+msgid ""
+"If 'Rounded' is selected the camera will swing between the given points on a "
+"round Path, always looking towards the middle of the scene. If 'Direct' is "
+"selected, the camera will travel in a straight path always looking in the "
+"same direction"
+msgstr ""
+"Si se selecciona 'Redondeado', la cámara se moverá entre los puntos dados en "
+"una ruta circular, siempre mirando hacia el centro de la escena. Si se "
+"selecciona 'Directo', la cámara viajará en línea recta siempre mirando en la "
+"misma dirección"
+
+#: framework/base.class.php:909
+msgid ""
+"If the switch is on it adds a second color to the wave, coloring the lines "
+"and faces"
+msgstr ""
+"Si el interruptor está encendido, agrega un segundo color a la ola, "
+"coloreando las líneas y las caras."
+
+#: framework/base.class.php:795
+msgid ""
+"If turned on the Faces between 'Triangles' and 'Boxes' will be filled in"
+msgstr ""
+"Si está activado, las caras entre 'Triángulos' y 'Cuadros' se rellenarán"
+
+#: framework/base.class.php:1586
+msgid ""
+"if turned on the focus point automatically shifts around to create a "
+"breathing effect"
+msgstr ""
+"si está encendido, el punto de enfoque cambia automáticamente para crear un "
+"efecto de respiración"
+
+#: framework/base.class.php:1027
+msgid "If turned on, the camera will always face the middle of the scene"
+msgstr ""
+"Si está encendida, la cámara siempre mirará hacia el centro de la escena."
+
+#: framework/base.class.php:1392 framework/base.class.php:1393
+msgid "Interaction Options"
+msgstr "Opciones de interacción"
+
+#: framework/base.class.php:1023 framework/base.class.php:1024
+msgid "Keep in Centre"
+msgstr "Mantener en el centro"
+
+#: framework/base.class.php:810 framework/base.class.php:811
+msgid "Line Opacity"
+msgstr "Opacidad de línea"
+
+#: framework/base.class.php:697 framework/base.class.php:698
+msgid "Lines Connection Design"
+msgstr "Diseño de conexión de líneas"
+
+#: framework/base.class.php:924 framework/base.class.php:925
+msgid "Lines/Fill Color"
+msgstr "Líneas/Color de relleno"
+
+#: framework/base.class.php:867 framework/base.class.php:868
+msgid "Main Color"
+msgstr "Color principal"
+
+#: framework/base.class.php:1563 framework/base.class.php:1564
+msgid "Max Boheh Blur"
+msgstr "Desenfoque Max Boheh"
+
+#: framework/base.class.php:1601 framework/base.class.php:1602
+msgid "Minimum Blur Breating"
+msgstr "Respiración mínima de desenfoque"
+
+#: framework/base.class.php:1453
+msgid ""
+"Mouse interaction uses basic easing for smooth animation on mouse move, set "
+"speed to determine scene movement speed"
+msgstr ""
+"La interacción del mouse utiliza la aceleración básica para una animación "
+"suave en el movimiento del mouse, establezca la velocidad para determinar la "
+"velocidad de movimiento de la escena"
+
+#: framework/base.class.php:1491
+msgid "Moves the scene with respect scroll position in 3D space"
+msgstr ""
+"Mueve la escena con respecto a la posición de desplazamiento en el espacio 3D"
+
+#: framework/base.class.php:1468 framework/base.class.php:1469
+msgid "Parallax Intensity"
+msgstr "Intensidad de paralaje"
+
+#: framework/base.class.php:753 framework/base.class.php:754
+msgid "Particle Amount"
+msgstr "Cantidad de partículas"
+
+#: framework/base.class.php:734 framework/base.class.php:735
+msgid "Particle Size"
+msgstr "Tamaño de partícula"
+
+#: framework/base.class.php:634 framework/base.class.php:635
+msgid "Particle Wave Gap"
+msgstr "Brecha de onda de partículas"
+
+#: framework/base.class.php:245
+msgid "Particle Wave Template could not be deleted"
+msgstr "No se pudo eliminar la plantilla de onda de partículas"
+
+#: framework/base.class.php:251
+msgid "Particle Wave Template could not be saved"
+msgstr "No se pudo guardar la plantilla de onda de partículas"
+
+#: framework/base.class.php:242
+msgid "Particle Wave Template deleted"
+msgstr "Plantilla de onda de partículas eliminada"
+
+#: framework/base.class.php:254
+msgid "Particle Wave Template saved"
+msgstr "Plantilla de onda de partículas guardada"
+
+#: framework/base.class.php:1183 framework/base.class.php:1184
+msgid "Path Selection"
+msgstr "Selección de camino"
+
+#: framework/base.class.php:1316 framework/base.class.php:1317
+msgid "Pendulum Route"
+msgstr "Ruta del péndulo"
+
+#: framework/base.class.php:654 framework/base.class.php:655
+msgid "Random Distances"
+msgstr "Distancias aleatorias"
+
+#: framework/base.class.php:886 framework/base.class.php:887
+msgid "Reference Image"
+msgstr "Imagen de referencia"
+
+#: framework/base.class.php:988
+msgid ""
+"Rotates the wave clockwise for positive values and anticlockwise for "
+"negative values"
+msgstr ""
+"Gira la onda en el sentido de las agujas del reloj para valores positivos y "
+"en el sentido contrario a las agujas del reloj para valores negativos"
+
+#: framework/base.class.php:1373 framework/base.class.php:1374
+msgid "Rotation Speed"
+msgstr "Velocidad de rotación"
+
+#: framework/base.class.php:1187
+msgid "Select a path to animate scene along it"
+msgstr "Seleccione una ruta para animar la escena a lo largo de ella."
+
+#: framework/base.class.php:719
+msgid "Select a svg or image as custom particle for waves effect"
+msgstr ""
+"Seleccione un svg o imagen como partícula personalizada para efecto de ondas"
+
+#: framework/base.class.php:1396
+msgid ""
+"Select interaction type <br/><br/> <ul> <li><strong>Mouse Follow: </strong>"
+"sets the scene position with respect to mouse position as you  move your "
+"mouse on layer, same options are used for parallax effect on mobile "
+"devices</li> <li><strong>Scroll Based: </strong>sets the scene position as "
+"you scroll</li> <li><strong>Timeline Based: </strong>ties the waves "
+"animation to layer timeline, with this option enabled you can set waves to "
+"animate either with slide progress or animate back and forth on scroll</li> "
+"</ul>"
+msgstr ""
+
+#: framework/base.class.php:715 framework/base.class.php:716
+msgid "Select Particle"
+msgstr "Seleccionar partícula"
+
+#: framework/base.class.php:928
+msgid "Select separate color for lines or filled faces"
+msgstr "Seleccionar color separado para líneas o caras rellenas"
+
+#: framework/base.class.php:757
+msgid "Select the amount of particles that are drawn"
+msgstr "Seleccione la cantidad de partículas que se dibujan"
+
+#: framework/base.class.php:1126
+msgid "Select the direction for the particles to fade"
+msgstr "Seleccione la dirección para que las partículas se desvanezcan"
+
+#: framework/base.class.php:890
+msgid "Select the image to project on all particles"
+msgstr "Seleccione la imagen para proyectar en todas las partículas"
+
+#: framework/base.class.php:871
+msgid ""
+"Select the main color with which particles get colored. This color will also "
+"be used for lines and fill unless secondary color is used for it."
+msgstr ""
+"Seleccione el color principal con el que se colorean las partículas. Este "
+"color también se utilizará para las líneas y el relleno, a menos que se "
+"utilice un color secundario para ello."
+
+#: framework/base.class.php:548
+msgid "Select the type of wave pattern"
+msgstr "Seleccione el tipo de patrón de onda"
+
+#: framework/base.class.php:1510
+msgid "Select the visual design to apply to the particles"
+msgstr "Seleccione el diseño visual para aplicar a las partículas."
+
+#: framework/base.class.php:1168
+msgid "Select the way the scene should animate"
+msgstr "Seleccione la forma en que la escena debe animarse"
+
+#: framework/base.class.php:852
+msgid "Select the way the wave gets colored"
+msgstr "Seleccione la forma en que se colorea la ola"
+
+#: framework/base.class.php:701
+msgid "Select type of connection between particles to be applied"
+msgstr "Seleccione el tipo de conexión entre las partículas a aplicar"
+
+#: framework/base.class.php:1605
+msgid "Set minimum blur while breathing blur is on"
+msgstr ""
+"Establezca el desenfoque mínimo mientras el desenfoque de respiración está "
+"activado"
+
+#: framework/base.class.php:1145
+msgid "Set the fade intensity, higher number shows more particles"
+msgstr ""
+"Establezca la intensidad de desvanecimiento, el número más alto muestra más "
+"partículas"
+
+#: framework/base.class.php:1103
+msgid ""
+"Set the max device pixel ratio to determine quality of waves, higher value "
+"will create big canvas on high DPR devices but can affect performance."
+msgstr ""
+"Establezca la proporción máxima de píxeles del dispositivo para determinar "
+"la calidad de las ondas; un valor más alto creará un gran lienzo en "
+"dispositivos con DPR alto, pero puede afectar el rendimiento."
+
+#: framework/base.class.php:1434
+msgid "Set the rotation amount to rotate scene with interaction"
+msgstr ""
+"Establezca la cantidad de rotación para rotar la escena con interacción"
+
+#: framework/base.class.php:1415
+msgid "Set the tilt amount to tilt scene with interaction"
+msgstr ""
+"Establezca la cantidad de inclinación para inclinar la escena con interacción"
+
+#: framework/base.class.php:570
+msgid "Set wave animation speed"
+msgstr "Establecer la velocidad de animación de onda"
+
+#: framework/base.class.php:658
+msgid ""
+"Sets permanent randomized position for particles, higher value will spread "
+"particles further away from original position"
+msgstr ""
+"Establece una posición aleatoria permanente para las partículas, un valor "
+"más alto dispersará las partículas más lejos de la posición original"
+
+#: framework/base.class.php:1567
+msgid "Sets the maximal blur size for out-of-focus particles"
+msgstr "Establece el tamaño de desenfoque máximo para partículas fuera de foco"
+
+#: framework/base.class.php:966
+msgid ""
+"Sets the way particles/lines blend together in scene.<br/><br/> <ul> <li>"
+"<strong>Additive: </strong>Increases the intensity of overlapping areas</li> "
+"<li><strong>Normal and Custom: </strong> These options do not change the "
+"particle color, useful if you want to keep particle color. Both options give "
+"similar output except in rare cases using one of normal or custom blending "
+"mode may fix edge artifacts around particles.</li> </ul>"
+msgstr ""
+
+#: framework/base.class.php:1046
+msgid "Shifts the scene and all particles horizontally"
+msgstr "Cambia la escena y todas las partículas horizontalmente"
+
+#: framework/base.class.php:1065
+msgid "Shifts the scene and all particles vertically"
+msgstr "Cambia la escena y todas las partículas verticalmente"
+
+#: framework/base.class.php:833
+msgid "Shifts/transforms the hexa pattern"
+msgstr "Cambia/transforma el patrón hexadecimal"
+
+#: framework/base.class.php:682
+msgid "Show or hide Particles when either 'Triangles' or 'Boxes' are selected"
+msgstr ""
+"Mostrar u ocultar partículas cuando se seleccionan 'Triángulos' o 'Cuadros'"
+
+#: framework/base.class.php:678 framework/base.class.php:679
+msgid "Show Particles"
+msgstr "Mostrar partículas"
+
+#. Name of the plugin
+msgid "Slider Revolution Particle Wave Add-On"
+msgstr "Slider Revolution: Particle Wave"
+
+#: framework/base.class.php:1358
+msgid ""
+"Speed at which the scene is continuously rotated around its X-axis (in/out "
+"of the screen)"
+msgstr ""
+"Velocidad a la que la escena rota continuamente alrededor de su eje X "
+"(dentro/fuera de la pantalla)"
+
+#: framework/base.class.php:1377
+msgid "Speed at which the scene is continuously rotated around its Y-axis"
+msgstr "Velocidad a la que la escena gira continuamente alrededor de su eje Y"
+
+#: framework/base.class.php:1339
+msgid ""
+"Speed at which the scene is continuously rotated around its Z-axis "
+"(clockwise/anticlockwise)"
+msgstr ""
+"Velocidad a la que la escena gira continuamente alrededor de su eje Z (en "
+"sentido horario/antihorario)"
+
+#: framework/base.class.php:1206
+msgid "Speed at which the scene moves during the animation"
+msgstr "Velocidad a la que se mueve la escena durante la animación"
+
+#: framework/base.class.php:1225
+msgid ""
+"The angle set here will be the end position the scene reaches before "
+"swinging back to the starting angle set in the 'Scene' tab"
+msgstr ""
+"El ángulo establecido aquí será la posición final que alcance la escena "
+"antes de volver al ángulo inicial establecido en la pestaña \"Escena\"."
+
+#: framework/base.class.php:1282 framework/base.class.php:1301
+msgid ""
+"The shift value set here will be the end position the scene reaches before "
+"swinging back to the starting shift value set in the 'Scene' tab"
+msgstr ""
+"El valor de cambio establecido aquí será la posición final que alcance la "
+"escena antes de volver al valor de cambio inicial establecido en la pestaña "
+"\"Escena\"."
+
+#: framework/base.class.php:1244
+msgid ""
+"The tilt angle set here will be the end position the scene reaches before "
+"swinging back to the starting tilt angle set in the 'Scene' tab"
+msgstr ""
+"El ángulo de inclinación establecido aquí será la posición final que alcance "
+"la escena antes de volver al ángulo de inclinación inicial establecido en la "
+"pestaña \"Escena\"."
+
+#: framework/base.class.php:1263
+msgid ""
+"The zoom value set here will be the end zoom the camera reaches before "
+"zooming back to the starting zoom value set in the 'Scene' tab"
+msgstr ""
+"El valor de zoom establecido aquí será el zoom final que alcance la cámara "
+"antes de volver al valor de zoom inicial establecido en la pestaña "
+"\"Escena\"."
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"
+
+#: framework/base.class.php:1003 framework/base.class.php:1004
+msgid "Tilt"
+msgstr "Inclinación"
+
+#: framework/base.class.php:1240 framework/base.class.php:1241
+msgid "Tilt End Position"
+msgstr "Posición final de inclinación"
+
+#: framework/base.class.php:1354 framework/base.class.php:1355
+msgid "Tilt Speed"
+msgstr "Velocidad de inclinación"
+
+#: framework/base.class.php:1007
+msgid "Tilts the wave in and out of the screen"
+msgstr "Inclina la ola hacia adentro y hacia afuera de la pantalla"
+
+#: framework/base.class.php:1061 framework/base.class.php:1062
+msgid "Vertical Shift"
+msgstr "Desplazamiento vertical"
+
+#: framework/base.class.php:1297 framework/base.class.php:1298
+msgid "Vertical Shift End Value"
+msgstr "Valor final de desplazamiento vertical"
+
+#: framework/base.class.php:610 framework/base.class.php:611
+msgid "Wave Amplitude"
+msgstr "Amplitud de onda"
+
+#: framework/base.class.php:588 framework/base.class.php:589
+msgid "Wave Curve"
+msgstr "Curva de onda"
+
+#: framework/base.class.php:544 framework/base.class.php:545
+msgid "Wave Effect"
+msgstr "Efecto de onda"
+
+#: framework/base.class.php:1430 framework/base.class.php:1431
+msgid "Waves Interaction Rotate"
+msgstr "Rotación de interacción de ondas"
+
+#: framework/base.class.php:1449 framework/base.class.php:1450
+msgid "Waves Interaction Speed"
+msgstr "Velocidad de interacción de las ondas"
+
+#: framework/base.class.php:1411 framework/base.class.php:1412
+msgid "Waves Interaction Tilt"
+msgstr "Inclinación de interacción de ondas"
+
+#: framework/base.class.php:1487 framework/base.class.php:1488
+msgid "Waves Shift Y"
+msgstr "Desplazamiento de ondas Y"
+
+#: framework/base.class.php:566 framework/base.class.php:567
+msgid "Waves Speed"
+msgstr "Velocidad de las olas"
+
+#: framework/base.class.php:1080 framework/base.class.php:1081
+#: framework/base.class.php:1099 framework/base.class.php:1100
+msgid "Zoom"
+msgstr "Zoom"
+
+#: framework/base.class.php:1259 framework/base.class.php:1260
+msgid "Zoom End Value"
+msgstr "Valor final de zoom"
+
+#: framework/base.class.php:1084
+msgid "Zooms in for smaller numbers and zooms out for larger numbers"
+msgstr ""
+"Se acerca para números más pequeños y se aleja para números más grandes"

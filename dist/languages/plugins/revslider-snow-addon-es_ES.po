@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Holiday Snow\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 00:27+0000\n"
+"PO-Revision-Date: 2023-03-04 08:20+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-snow-addon"
+
+#: framework/base.class.php:139
+msgid "Active"
+msgstr "Activo"
+
+#. Description of the plugin
+msgid "Add animated snow to any Slider"
+msgstr "Agregue nieve animada a cualquier slider"
+
+#: framework/base.class.php:146
+msgid "Amount"
+msgstr "Cantidad"
+
+#: framework/base.class.php:178
+msgid "Choose the Slide when the snow should first appear"
+msgstr "Elija el tobogán cuando la nieve debería aparecer por primera vez"
+
+#: framework/base.class.php:198
+msgid "Choose the Slide when the snow should stop falling"
+msgstr "Elige el tobogán cuando la nieve deba dejar de caer"
+
+#: framework/base.class.php:195
+msgid "Ending Slide"
+msgstr "Diapositiva final"
+
+#: framework/base.class.php:140
+msgid "enter text..."
+msgstr "ingrese texto..."
+
+#: framework/base.class.php:142
+msgid "First Slide"
+msgstr "Primera diapositiva"
+
+#: framework/base.class.php:144
+msgid "General Settings"
+msgstr "Configuración general"
+
+#: framework/base.class.php:141
+msgid "Holiday Snow"
+msgstr "Holiday Snow"
+
+#. Author URI of the plugin
+msgid "http://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.themepunch.com/"
+msgstr ""
+
+#: framework/base.class.php:143
+msgid "Last Slide"
+msgstr "última diapositiva"
+
+#: framework/base.class.php:154
+msgid "Max Amplitude"
+msgstr "Amplitud máxima"
+
+#: framework/base.class.php:148
+msgid "Max Size"
+msgstr "Tamaño máximo"
+
+#: framework/base.class.php:152
+msgid "Max Speed"
+msgstr "Máxima velocidad"
+
+#: framework/base.class.php:379
+msgid "Max. Amplitude"
+msgstr "máx. Amplitud"
+
+#: framework/base.class.php:150 framework/base.class.php:299
+msgid "Max. Opacity"
+msgstr "máx. Opacidad"
+
+#: framework/base.class.php:259
+msgid "Max. Size"
+msgstr "máx. Tamaño"
+
+#: framework/base.class.php:339
+msgid "Max. Speed"
+msgstr "máx. Velocidad"
+
+#: framework/base.class.php:153
+msgid "Min Amplitude"
+msgstr "Amplitud mínima"
+
+#: framework/base.class.php:147
+msgid "Min Size"
+msgstr "Tamaño mínimo"
+
+#: framework/base.class.php:151
+msgid "Min Speed"
+msgstr "Velocidad mínima"
+
+#: framework/base.class.php:359
+msgid "Min. Amplitude"
+msgstr "mín. Amplitud"
+
+#: framework/base.class.php:149 framework/base.class.php:279
+msgid "Min. Opacity"
+msgstr "mín. Opacidad"
+
+#: framework/base.class.php:239
+msgid "Min. Size"
+msgstr "mín. Tamaño"
+
+#: framework/base.class.php:319
+msgid "Min. Speed"
+msgstr "mín. Velocidad"
+
+#: framework/base.class.php:219
+msgid "Num. Snow Flakes"
+msgstr "número Copos de nieve"
+
+#. Name of the plugin
+msgid "Slider Revolution Holiday Snow"
+msgstr "Slider Revolution: Holiday Snow"
+
+#: framework/base.class.php:145
+msgid "Snowflake Settings"
+msgstr "Configuración de copo de nieve"
+
+#: framework/base.class.php:175
+msgid "Starting Slide"
+msgstr "Diapositiva inicial"
+
+#: framework/base.class.php:222
+msgid "The amount of snow flakes that should fall at any given time"
+msgstr "La cantidad de copos de nieve que deben caer en un momento dado"
+
+#: framework/base.class.php:382
+msgid ""
+"The maximum amplitude for any given snowflake.  This acts as the snowflake's "
+"gravity"
+msgstr ""
+"La amplitud máxima para cualquier copo de nieve dado. Esto actúa como la "
+"gravedad del copo de nieve."
+
+#: framework/base.class.php:302
+msgid "The maximum opacity for any given snowflake"
+msgstr "La opacidad máxima para cualquier copo de nieve dado"
+
+#: framework/base.class.php:262
+msgid "The maximum size for any given snowflake"
+msgstr "El tamaño máximo para cualquier copo de nieve dado"
+
+#: framework/base.class.php:342
+msgid "The maximum speed for any given snowflake"
+msgstr "La velocidad máxima para cualquier copo de nieve dado"
+
+#: framework/base.class.php:362
+msgid ""
+"The minimum amplitude for any given snowflake.  This acts as the snowflake's "
+"gravity"
+msgstr ""
+"La amplitud mínima para cualquier copo de nieve dado. Esto actúa como la "
+"gravedad del copo de nieve."
+
+#: framework/base.class.php:282
+msgid "The minimum opacity for any given snowflake"
+msgstr "La opacidad mínima para cualquier copo de nieve dado"
+
+#: framework/base.class.php:242
+msgid "The minimum size for any given snowflake"
+msgstr "The minimum size for any given snowflake"
+
+#: framework/base.class.php:322
+msgid "The minimum speed for any given snowflake"
+msgstr "The minimum speed for any given snowflake"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"

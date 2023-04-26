@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Loco Automatic Translate Addon PRO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-10 19:54+0000\n"
+"PO-Revision-Date: 2023-03-10 19:58+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.1.1\n"
+"X-Domain: loco-translate-addon"
+
+#. Description of the plugin
+msgid ""
+"(Premium) Loco Translate plugin addon to automatic translate plugins and "
+"themes translatable string with one click in any language (It supports "
+"Google, Yandex & DeepL)."
+msgstr ""
+"Complemento de traducción automática de Loco Translate para traducir plugins "
+"y temas traducible cadena con un solo clic en cualquier idioma (es "
+"compatible con Google, Yandex & DeepL)."
+
+#: loco-automatic-translate-addon-pro.php:489
+msgid ""
+"<strong>Loco Automatic Translate Addon Pro</strong> - License key is missing!"
+" Please add your License key in the settings panel to activate all premium "
+"features."
+msgstr ""
+"<strong>Loco Automatic Translate Addon Pro</strong> - License key is missing!"
+" Please add your License key in the settings panel to activate all premium "
+"features."
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr "Cool Plugins"
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr "https://coolplugins.net/"
+
+#. Name of the plugin
+msgid "Loco Automatic Translate Addon PRO"
+msgstr "Loco Translate Automatic Addon Pro"

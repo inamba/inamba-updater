@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Particles Effect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 01:11+0000\n"
+"PO-Revision-Date: 2023-03-04 08:19+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-particles-addon"
+
+#. Description of the plugin
+msgid "Add interactive particle animations to your sliders"
+msgstr "Agregue animaciones de partículas interactivas a Slider Revolution"
+
+#. Author URI of the plugin
+msgid "http://themepunch.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.themepunch.com/"
+msgstr ""
+
+#: framework/base.class.php:248
+msgid "Particle Template could not be deleted"
+msgstr "No se pudo eliminar la plantilla de partículas"
+
+#: framework/base.class.php:254
+msgid "Particle Template could not be saved"
+msgstr "No se pudo guardar la plantilla de partículas"
+
+#: framework/base.class.php:245
+msgid "Particle Template deleted"
+msgstr "Plantilla de partículas eliminada"
+
+#: framework/base.class.php:257
+msgid "Particle Template saved"
+msgstr "Plantilla de partículas guardada"
+
+#. Name of the plugin
+msgid "Slider Revolution Particles Effect"
+msgstr "Slider Revolution: Particles Effect"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"

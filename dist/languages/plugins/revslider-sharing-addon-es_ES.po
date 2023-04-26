@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Slider Revolution Sharing Add-on\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-04 01:10+0000\n"
+"PO-Revision-Date: 2023-03-04 08:19+0000\n"
+"Last-Translator: Esteban\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: revslider-sharing-addon"
+
+#: admin/class-revslider-sharing-addon-admin.php:53
+msgid "Active"
+msgstr "Activo"
+
+#. Description of the plugin
+msgid "Adds Social Sharing to Slider Revolution"
+msgstr "Agrega Compartir en redes sociales a Slider Revolution"
+
+#: admin/class-revslider-sharing-addon-admin.php:64
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/class-revslider-sharing-addon-admin.php:70
+msgid "Enter Description"
+msgstr "Ingrese la descripción"
+
+#: admin/class-revslider-sharing-addon-admin.php:69
+msgid "Enter Image"
+msgstr "Introducir imagen"
+
+#: admin/class-revslider-sharing-addon-admin.php:66
+msgid "Enter Link"
+msgstr "Introducir enlace"
+
+#: admin/class-revslider-sharing-addon-admin.php:68
+msgid "Enter Summary"
+msgstr "Introducir resumen"
+
+#: admin/class-revslider-sharing-addon-admin.php:65
+msgid "Enter Text"
+msgstr "Ingrese texto"
+
+#: admin/class-revslider-sharing-addon-admin.php:67
+msgid "Enter Title"
+msgstr "Ingrese el título"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.themepunch.com"
+msgstr ""
+
+#: admin/class-revslider-sharing-addon-admin.php:63
+msgid "Image"
+msgstr "Imagen"
+
+#: admin/class-revslider-sharing-addon-admin.php:59
+msgid "Link URL"
+msgstr "URL del enlace"
+
+#: admin/class-revslider-sharing-addon-admin.php:71
+msgid "Meta"
+msgstr "Meta"
+
+#: admin/class-revslider-sharing-addon-admin.php:54
+msgid "Share on Facebook"
+msgstr "Compartir en Facebook"
+
+#: admin/class-revslider-sharing-addon-admin.php:56
+msgid "Share on GooglePlus"
+msgstr "Compartir en Google Plus"
+
+#: admin/class-revslider-sharing-addon-admin.php:57
+msgid "Share on LinkedIn"
+msgstr "Compartir en LinkedIn"
+
+#: admin/class-revslider-sharing-addon-admin.php:58
+msgid "Share on Pinterest"
+msgstr "Compartir en Pinterest"
+
+#: admin/class-revslider-sharing-addon-admin.php:55
+msgid "Share on Twitter"
+msgstr "Compartir en Twitter"
+
+#: admin/class-revslider-sharing-addon-admin.php:99
+msgid "Sharing AddOn disabled"
+msgstr "Complemento para compartir deshabilitado"
+
+#: admin/class-revslider-sharing-addon-admin.php:94
+msgid "Sharing AddOn enabled"
+msgstr "Complemento para compartir habilitado"
+
+#. Name of the plugin
+msgid "Slider Revolution Sharing Add-on"
+msgstr "Slider Revolution: Sharing"
+
+#: admin/class-revslider-sharing-addon-admin.php:62
+msgid "Summary"
+msgstr "Resumen"
+
+#: admin/class-revslider-sharing-addon-admin.php:60
+msgid "Text"
+msgstr "Texto"
+
+#. Author of the plugin
+msgid "ThemePunch"
+msgstr "ThemePunch"
+
+#: admin/class-revslider-sharing-addon-admin.php:61
+msgid "Title"
+msgstr "Título"
