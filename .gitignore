@@ -65,7 +65,7 @@ wp-content/uploads/*
 *.sql
 *.sqlite
 ####/.htaccess
-/index.php
+####/index.php
 /licencia.txt
 /license.txt
 /readme.html
